@@ -1,6 +1,6 @@
 # Climate Justice Demo #semanticClimate Tools
 
-<a href="https://colab.research.google.com/github.com/semanticClimate/climate-justice-lit-review.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+<a href="https://colab.research.google.com/github/semanticClimate/climate-justice-lit-review/blob/main/climate_justice_lit_review.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Data - DOI Zenodo badge: 
 
