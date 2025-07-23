@@ -1,0 +1,23 @@
+digraph G {
+	rankdir=LR;
+	
+	// Styling the graph
+	bgcolor="#f9f9f9";
+	node [style=filled, color="#004a99", fontcolor=white, fontname="Arial Bold"];
+	edge [color="#ff9900", fontname="Arial Italic", fontsize=10];
+
+	// Define nodes with labels
+	IPCC_Reports [label="IPCC Reports"];
+	sematicClimate_tooling [label="semanticClimate Tooling"];
+	Wikibase [label="Wikibase"];
+	W3C_CSS_Paged_Media_Web_Publication_Manifest [label="W3C(World Wide Web Consortium) CSS Paged Media Manifest"];
+
+	// Define edges with labels
+	IPCC_Reports -> sematicClimate_tooling [label="TDM(Text and Data Mining) Semantification"];
+	sematicClimate_tooling -> Wikibase [label="Linked Open Data"];
+	Wikibase -> W3C_CSS_Paged_Media_Web_Publication_Manifest [label="Publishing"];
+
+	// Rank constraints for layout
+	{ rank=same; IPCC_Reports; sematicClimate_tooling; }
+	{ rank=same; Wikibase; W3C_CSS_Paged_Media_Web_Publication_Manifest; }
+}

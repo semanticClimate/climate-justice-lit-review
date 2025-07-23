@@ -1,0 +1,633 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="nop270058" xml:lang="en" article-type="review-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Nurs Open</journal-id><journal-id journal-id-type="iso-abbrev">Nurs Open</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2054-1058</journal-id><journal-id journal-id-type="publisher-id">NOP2</journal-id><journal-title-group><journal-title>Nursing Open</journal-title></journal-title-group><issn pub-type="epub">2054-1058</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11487338</article-id><article-id pub-id-type="doi">10.1002/nop2.70058</article-id><article-id pub-id-type="publisher-id">NOP270058</article-id><article-id pub-id-type="other">NOP-2024-Jan-0189.R1</article-id><article-categories><subj-group subj-group-type="overline"><subject>Concept</subject></subj-group><subj-group subj-group-type="heading"><subject>Concept</subject></subj-group></article-categories><title-group><article-title>Nursing Education for Sustainable Development: A Concept Analysis</article-title></title-group><contrib-group><contrib id="nop270058-cr-0001" contrib-type="author" corresp="yes"><name><surname>Boakye</surname><given-names>Dorothy&#x000a0;Serwaa</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6153-1273</contrib-id><xref rid="nop270058-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="nop270058-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>dsboakye@uew.edu.gh</email></address></contrib><contrib id="nop270058-cr-0002" contrib-type="author"><name><surname>Kwashie</surname><given-names>Atswei&#x000a0;Adzo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7470-6968</contrib-id><xref rid="nop270058-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="nop270058-cr-0003" contrib-type="author"><name><surname>Adjorlolo</surname><given-names>Samuel</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9308-6031</contrib-id><xref rid="nop270058-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="nop270058-cr-0004" contrib-type="author"><name><surname>Korsah</surname><given-names>Kwadwo&#x000a0;Ameyaw</given-names></name><xref rid="nop270058-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="nop270058-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Health Administration and Education</named-content>
+<institution>University of Education</institution>
+<city>Winneba</city>
+<country country="GH">Ghana</country>
+</aff><aff id="nop270058-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">School of Nursing and Midwifery, College of Health Sciences</named-content>
+<institution>University of Ghana</institution>
+<city>Accra</city>
+<country country="GH">Ghana</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Dorothy Serwaa Boakye (<email>dsboakye@uew.edu.gh</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>10</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>10</month><year>2024</year></pub-date><volume>11</volume><issue seq="790">10</issue><issue-id pub-id-type="doi">10.1002/nop2.v11.10</issue-id><elocation-id>e70058</elocation-id><history>
+<date date-type="rev-recd"><day>01</day><month>7</month><year>2024</year></date>
+<date date-type="received"><day>22</day><month>1</month><year>2024</year></date>
+<date date-type="accepted"><day>29</day><month>9</month><year>2024</year></date>
+</history><permissions><!--&#x000a9; 2024 John Wiley & Sons Ltd--><copyright-statement content-type="article-copyright">&#x000a9; 2024 The Author(s). <italic toggle="yes">Nursing Open</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:NOP2-11-e70058.pdf"/><abstract><title>ABSTRACT</title><sec id="nop270058-sec-0001"><title>Background</title><p>Sustainability represents an increasingly vital yet inconsistently implemented topic in nursing education. Formal concept analysis can promote unified conceptualisation to inform sustainability integration in nursing curriculums.</p></sec><sec id="nop270058-sec-0002"><title>Objective</title><p>Analyse the concept of &#x02018;nursing education for sustainable development&#x02019; using the Walker and Avant framework to clarify meaning and application in nursing programmes.</p></sec><sec id="nop270058-sec-0003"><title>Method</title><p>The literature was systematically searched for attributes, antecedents and consequences used to formulate a concept definition, and compared to existing conceptualisations.</p></sec><sec id="nop270058-sec-0004"><title>Results</title><p>Core concept attributes are interconnectedness of human/ecological health, sustainability&#x02010;focused curriculums, competency cultivation and social justice orientations. Antecedents include recognising ecological determinants of health and committed nursing faculty. Consequences encompass the preparation of sustainability&#x02010;competent nurses and elevated nursing contributions to sustainable health systems.</p></sec><sec id="nop270058-sec-0005"><title>Conclusion</title><p>The concept analysis provides an original synthesised perspective advancing coherence and applicability to guide sustainability education in nursing programmes through a translational framework for competency, curriculum design and content delivery approaches.</p></sec><sec id="nop270058-sec-0006"><title>Reporting Method</title><p>We followed the guidelines outlined in the Walker and Avant framework in the conduct and reporting of this paper.</p></sec><sec id="nop270058-sec-0007"><title>Patient or Public Contribution</title><p>No patient and public contribution.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="nop270058-kwd-0001">concept analysis</kwd><kwd id="nop270058-kwd-0002">curriculum integration</kwd><kwd id="nop270058-kwd-0003">nursing education</kwd><kwd id="nop270058-kwd-0004">sustainable development</kwd></kwd-group><counts><fig-count count="1"/><table-count count="3"/><page-count count="14"/><word-count count="7600"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.4.9 mode:remove_FC converted:18.10.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="nop270058-ntgp-0001"><fn fn-type="funding" id="nop270058-note-0001"><p>
+<bold>Funding:</bold> The authors received no specific funding for this work.</p></fn></fn-group></notes></front><body id="nop270058-body-0001"><sec id="nop270058-sec-0008"><label>1</label><title>Introduction</title><p>Sustainability has become an increasingly crucial issue across industries, including healthcare and nursing education (Goodman&#x000a0;<xref rid="nop270058-bib-0017" ref-type="bibr">2011</xref>; Sendall, Fleming, and Lidstone <xref rid="nop270058-bib-0061" ref-type="bibr">2011</xref>). Educating future generations of nurses on sustainability supports environmentally responsible policies and practices in healthcare for the long term (Joseph et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0025" ref-type="bibr">2021</xref>). However, there remain gaps regarding the consistent conceptualisation and integration of sustainability in nursing curriculums (Lawlis et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0027" ref-type="bibr">2014</xref>). To advance a shared understanding in this emerging field, formal concept analysis methodology can be highly useful for constructing conceptual clarity (Walker and Avant&#x000a0;<xref rid="nop270058-bib-0051" ref-type="bibr">2005</xref>). The Walker and Avant approach to concept analysis is one of the most established methods that involves identifying essential attributes, antecedents, consequences and prototypes to develop a sdefinitive conceptualisation of the concept (Rodgers, Jacelon, and Knafl&#x000a0;<xref rid="nop270058-bib-0039" ref-type="bibr">2018</xref>).</p><p>The purpose of this concept analysis using the Walker and Avant method is to produce a nursing&#x02010;focused conceptual definition and framework of sustainability education for undergraduate nursing programmes. The research question is: What are the core attributes, prerequisites, results and exemplars that represent the concept of &#x02018;nursing education for sustainable development&#x02019;? By rigorously analysing this concept, the resulting theoretical understanding can help inform nursing curriculum development, advance consistency in nursing sustainability competencies, and ultimately guide the integration of sustainability content in nursing schools towards sustainable healthcare systems.</p></sec><sec sec-type="background" id="nop270058-sec-0009"><label>2</label><title>Background</title><p>Integrating sustainability principles into nursing education aligns with longstanding international policies emphasising nursing's role in primary health care and addressing social determinants of health. The 1978 Alma&#x02010;Ata Declaration first highlighted nursing's crucial responsibilities in mitigating economic and social conditions impacting community well&#x02010;being. It laid the groundwork for an expanded population health focus beyond just clinical treatment (WHO&#x000a0;<xref rid="nop270058-bib-0053" ref-type="bibr">1978</xref>). The 1986 Ottawa Charter for Health Promotion (WHO&#x000a0;<xref rid="nop270058-bib-0056" ref-type="bibr">2024</xref>) similarly urged preparing health professionals like nurses to confront the interconnected economic, social and environmental factors allowing poor health to persist&#x02014;foreshadowing today's need for sustainability competencies.</p><p>Over subsequent decades, landmark policies continued positioning nurses to holistically promote equitable communities resilient to modern challenges. The 2015 sustainable development goals (SDGs) codified an agenda to collectively advance people, the planet, prosperity, peace and partnership through cross&#x02010;sector collaboration (Upvall and Luzincourt&#x000a0;<xref rid="nop270058-bib-0049" ref-type="bibr">2019</xref>). Achieving the SDGs necessitates developing a health workforce, including sustainability&#x02010;oriented nurses, capable of cultivating sustainable, just communities able to withstand threats like climate change, conflicts and globalisation (McKinnon and Fitzpatrick <xref rid="nop270058-bib-0058" ref-type="bibr">2017</xref>; Rosa et&#x000a0;al. <xref rid="nop270058-bib-0041" ref-type="bibr">2019</xref>; Rosa and Coach&#x000a0;<xref rid="nop270058-bib-0040" ref-type="bibr">2017</xref>).</p><p>Nursing has been identified as a pivotal profession to the United Nations agenda towards the achievement of the SDGs with a demonstrable alignment between health and the seventeen (17) goals (International Council of Nurses&#x000a0;<xref rid="nop270058-bib-0023" ref-type="bibr">2017</xref>; World Health Organization&#x000a0;<xref rid="nop270058-bib-0054" ref-type="bibr">2016</xref>). Therefore, nursing education plays a crucial role in promoting sustainable development (Benton and Ferguson&#x000a0;<xref rid="nop270058-bib-0006" ref-type="bibr">2016</xref>). Integrating sustainability content across both the theoretical foundations and applied practice experiences in nursing education programmes is vital. Educators can cultivate sustainable change agents capable of meaningfully contributing nursing's unique perspectives and skillsets towards SDG targets across ecological, economic and social domains. This bidirectional integration prepares future nurses as sustainability leaders improving health and well&#x02010;being for current and future generations (Lilienfeld et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0029" ref-type="bibr">2018</xref>; WHO&#x000a0;<xref rid="nop270058-bib-0055" ref-type="bibr">2020</xref>; Fields et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0016" ref-type="bibr">2021</xref>).</p><p>Sustainability has garnered increasing attention in nursing curriculums and education in recent years (Thompson and Schwartz Barcott&#x000a0;<xref rid="nop270058-bib-0046" ref-type="bibr">2017</xref>). A study by Sendall, Fleming, and Lidstone (<xref rid="nop270058-bib-0061" ref-type="bibr">2011</xref>) traces the increasing focus on sustainability within nursing, highlighting conceptualisations that recognise the connections between environmental health, human health and nursing advocacy. However, analyses suggest there remains a lack of consensus around sustainability competencies and policy in nursing education (Lawlis et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0027" ref-type="bibr">2014</xref>; Mitchell&#x000a0;<xref rid="nop270058-bib-0032" ref-type="bibr">2011</xref>).</p><p>Existing literature reveals variable conceptualisations of sustainability in nursing education contexts. Thompson and Schwartz Barcott&#x000a0;(<xref rid="nop270058-bib-0046" ref-type="bibr">2017</xref>) focus strongly on environmental health, defining sustainability for nurses primarily through an &#x02018;environmental lens&#x02019; with emphasis on climate change impacts. Meanwhile, Brundiers et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0007" ref-type="bibr">2021</xref>) conceptualise four pillars of sustainability in nursing: economics, environment, society/culture and governance, arguing for a blended integration across these areas.</p><p>Recent qualitative studies provide additional perspectives into how nursing educators and nursing students conceptualise these issues about curricular priorities (An&#x000e5;ker et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0003" ref-type="bibr">2021</xref>; Kitt&#x02010;Lewis et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0026" ref-type="bibr">2020</xref>; Richardson et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0036" ref-type="bibr">2014</xref>). Richardson et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0037" ref-type="bibr">2016</xref>) found notions of social justice and advocacy were salient themes among nursing faculty, whereas environmental stewardship resonated more among nursing students. Still, other conceptualisations align sustainability in nursing curricula closely with wider organisational and policy dimensions in healthcare settings (Roden and Lewis&#x000a0;<xref rid="nop270058-bib-0038" ref-type="bibr">2021</xref>; Fields et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0016" ref-type="bibr">2021</xref>).</p><p>Synthesising these works highlights gaps and inconsistencies in conceptualising nursing education for sustainability. As Richardson et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0037" ref-type="bibr">2016</xref>) argue, ambiguity persists around constructs like environmental health literacy versus wider interpretations of sustainability competencies expected of nurses. This demonstrates the need to advance conceptual clarity through structured concept analysis geared for application in nursing sustainability education contexts specifically (Rodgers, Jacelon, and Knafl&#x000a0;<xref rid="nop270058-bib-0039" ref-type="bibr">2018</xref>; Walker and Avant&#x000a0;<xref rid="nop270058-bib-0051" ref-type="bibr">2005</xref>).</p></sec><sec sec-type="methods" id="nop270058-sec-0010"><label>3</label><title>Methods</title><p>The Walker and Avant&#x000a0;(<xref rid="nop270058-bib-0050" ref-type="bibr">2011</xref>) model of concept analysis is a widely recognised framework used in nursing and other healthcare disciplines to explore and clarify the meanings of complex concepts. Developed by Kay C. Avant and Lorraine O. Walker, this model provides a systematic and structured approach to concept analysis, allowing researchers and practitioners to explore complex concepts in a rigorous and comprehensive manner. Per Walker and Avant&#x000a0;(<xref rid="nop270058-bib-0050" ref-type="bibr">2011</xref>), this inductive process derives concept meaning through an iterative cycle of scholarly literature review and analytical scrutiny of cases and related examples. Using this well&#x02010;established method provides a systematic foundation for conceptual clarity and real&#x02010;world applicability. It also helps in promoting clarity and consistency in understanding concepts, enhancing communication and supporting evidence&#x02010;based practice in healthcare and other disciplines. The model has eight steps used to highlight the aspects and attributes of a concept. These eight steps are elaborated in Table&#x000a0;<xref rid="nop270058-tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="nop270058-tbl-0001" content-type="TABLE"><label>TABLE 1</label><caption><p>Walker and Avant model of concept analysis: analysis steps.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Steps</th><th align="center" valign="bottom" rowspan="1" colspan="1">Subtarget</th><th align="center" valign="bottom" rowspan="1" colspan="1">Description</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">Select a concept</td><td align="center" valign="top" rowspan="1" colspan="1">Selecting a concept for analysis is ideally based on the author's personal interest and expertise or chosen because it is deemed essential for the research at hand</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">Determine aims/purposes of the concept analysis</td><td align="center" valign="top" rowspan="1" colspan="1">Often, the aim is to explore the current meanings, uses, characteristics and relationships of a concept in the contexts of research and practice in a specified discipline in order to develop an operational definition</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">Identify uses of the concept</td><td align="center" valign="top" rowspan="1" colspan="1">This involves an indepth integrative literature review to identify how the concept is delineated, applied or related across various disciplines and sources</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="center" valign="top" rowspan="1" colspan="1">Determine the defining attributes</td><td align="center" valign="top" rowspan="1" colspan="1">The data from step 3 are analysed to determine the core, clustered attributes or characteristics most commonly associated with the concept</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="center" valign="top" rowspan="1" colspan="1">Construct a model case</td><td align="center" valign="top" rowspan="1" colspan="1">A model case is constructed that contains all the defining attributes and illustrates a real&#x02010;life exemplary instance of the concept</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1">Construct additional cases</td><td align="center" valign="top" rowspan="1" colspan="1">Additional cases are then constructed to illustrate related instances, borderline examples or contrary cases lacking core attributes</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="center" valign="top" rowspan="1" colspan="1">Identify antecedents and consequences</td><td align="center" valign="top" rowspan="1" colspan="1">Antecedents are identified as the events or circumstances preceding the concept's occurrence. Consequences are the events resulting from the concept's presence</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">Define empirical referents</td><td align="center" valign="top" rowspan="1" colspan="1">The final step identifies the empirical referents or real&#x02010;world observable phenomena that demonstrate the existence of the concept. It also describes how the concept is utilised in research and in practice</td></tr></tbody></table></table-wrap><p>Literature was systematically searched in PubMed and CINAHL databases in November 2023 using the key terms &#x0201c;nurs* education,&#x0201d; &#x0201c;sustainab* development goal*,&#x0201d; &#x0201c;sustainability principle*&#x0201d; &#x0201c;sustainable development&#x0201d; &#x0201c;curricul*,&#x0201d; &#x0201c;competen*&#x0201d;. Additional highly relevant sources were snowball sampled from references and relevant journal websites. Rigorous Preferred Reporting Items for Systematic Reviews and Meta&#x02010;Analyses (PRISMA) methods were applied during screening and review (Moher et&#x000a0;al. <xref rid="nop270058-bib-0060" ref-type="bibr">2009</xref>; Page et&#x000a0;al. <xref rid="nop270058-bib-0035" ref-type="bibr">2021</xref>). The studies for this concept analysis were selected based on predetermined criteria for inclusion and exclusion. The inclusion criteria were primary research studies (all designs) that explore, describe or measure concepts/attributes related to sustainability education in nursing programmes, systematic reviews, meta&#x02010;analyses and other reviews synthesising evidence on sustainability integration in nursing curricula, theoretical/conceptual papers and frameworks focused on defining or modelling sustainability competencies for nurses, sources from all geographical regions and publications in English language. Studies/papers focused solely on environmental health nursing without broader sustainability framing, sources about generic &#x02018;environmental education&#x02019; without explicit nursing context and opinion pieces, commentaries or editorials without theoretical/empirical analysis were excluded. Our database searches and Google Scholar exploration yielded 52,867 records. Following an assessment of their eligibility, we pinpointed 93 studies for full&#x02010;text screening, of which 19 aligned with the inclusion criteria. Details of the screening process is outlined in Figure&#x000a0;<xref rid="nop270058-fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="FIGURE" id="nop270058-fig-0001"><label>FIGURE 1</label><caption><p>PRISMA flow diagram.</p></caption><graphic xlink:href="NOP2-11-e70058-g001" position="anchor" id="jats-graphic-1"/></fig><p>The majority of the articles included in this concept analysis were primarily of secondary sources, such as concept analysis (1), scoping reviews (2), narrative review (6), discussion papers (4) and integrative review (1). Primary sources were scarce, with only four articles conducting original research (5). The included studies underwent thorough quality appraisal by two independent reviewers using standardised critical appraisal tools. The specific tool utilised depended on the study design. Narrative reviews and discussion papers were appraised with the scale for the assessment of narrative reviews (SANRA) (Baethge et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0005" ref-type="bibr">2019</xref>), scoping reviews and integrative reviews were appraised with the Joana Briggs Institute critical appraisal checklist for systematic reviews and research synthesis (JBI&#x000a0;<xref rid="nop270058-bib-0024" ref-type="bibr">2014</xref>), Survey studies were appraised with JBI critical appraisal tool for cross&#x02010;sectional studies (Moola et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0033" ref-type="bibr">2017</xref>) and mixed&#x02010;method studies were appraised with the mixed&#x02010;method appraisal tool (Hong et&#x000a0;al. <xref rid="nop270058-bib-0057" ref-type="bibr">2018</xref>).</p><p>For concept attribute extraction, a directed qualitative content analysis methodology as described by Hsieh and Shannon&#x000a0;(<xref rid="nop270058-bib-0021" ref-type="bibr">2005</xref>) was utilised. A coding schema was developed by two independent coders based on Walker and Avant's&#x000a0;(<xref rid="nop270058-bib-0051" ref-type="bibr">2005</xref>) concept analysis framework. A summary of data extracted for this concept analysis is provided in Table&#x000a0;<xref rid="nop270058-tbl-0002" ref-type="table">2</xref>.</p><table-wrap position="float" id="nop270058-tbl-0002" content-type="TABLE"><label>TABLE 2</label><caption><p>Summary of data extracted.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">References</th><th align="center" valign="bottom" rowspan="1" colspan="1">Publication title</th><th align="center" valign="bottom" rowspan="1" colspan="1">Study design</th><th align="center" valign="bottom" rowspan="1" colspan="1">Sample characteristics</th><th align="center" valign="bottom" rowspan="1" colspan="1">Uses of the concept</th><th align="center" valign="bottom" rowspan="1" colspan="1">Attributes</th><th align="center" valign="bottom" rowspan="1" colspan="1">Antecedents</th><th align="center" valign="bottom" rowspan="1" colspan="1">Consequences</th><th align="center" valign="bottom" rowspan="1" colspan="1">Empirical referents</th><th align="center" valign="bottom" rowspan="1" colspan="1">Methodological rating</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Clark et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0011" ref-type="bibr">2020</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Sustainable Healthcare Elective in Nursing: A futures&#x02010;thinking approach</td><td align="center" valign="top" rowspan="1" colspan="1">Discussion paper</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>The concept discussed is sustainable healthcare within nursing education</p>
+<p>It emphasises embedding sustainability principles into nursing curricula</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Ecology, Holism, Interdisciplinary collaboration</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">5/12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Smith et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0045" ref-type="bibr">2020</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Occupational Therapy and Environmental Sustainability: A Scoping Review</td><td align="center" valign="top" rowspan="1" colspan="1">Scoping review</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1">Occupational therapists are expected to intervene at individual, group, and population levels to address concerns arising from climate change, such as food availability, displacement, and physical and mental health effects of extreme weather events</td><td align="center" valign="top" rowspan="1" colspan="1">Increased awareness and advocacy for sustainability and health within the profession</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">7/11</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">An&#x000e5;ker and Elf&#x000a0;(<xref rid="nop270058-bib-0002" ref-type="bibr">2014</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Sustainability in nursing: a concept analysis</td><td align="center" valign="top" rowspan="1" colspan="1">Concept analysis</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Holism, Globalism, Future</td><td align="center" valign="top" rowspan="1" colspan="1">Willingness to Change</td><td align="center" valign="top" rowspan="1" colspan="1">Participation in Sustainable Development</td><td align="center" valign="top" rowspan="1" colspan="1">Ecological, global, environmental, and holistic knowledge among nurses can be measured through observations or interviews. Surveys and focus&#x02010;group interviews can assess motivation to work sustainably. Environmental impact can be measured by observing resource usage and CO<sub>2</sub> emissions</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Roden and Lewis&#x000a0;(<xref rid="nop270058-bib-0038" ref-type="bibr">2021</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Looking beyond Nursing Education Practice to Include Sustainable Health&#x02010;Care Systems Processes</td><td align="center" valign="top" rowspan="1" colspan="1">Discussion paper</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1">The concept involves incorporating sustainable practices into hospital operations to reduce greenhouse gas emissions and mitigate climate change effects</td><td align="center" valign="top" rowspan="1" colspan="1">Increased awareness and advocacy for environmental sustainability among healthcare professionals</td><td align="center" valign="top" rowspan="1" colspan="1">Awareness of the need for sustainable healthcare systems to protect environmental and human health</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">6/12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Luque&#x02010;Alcaraz et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0031" ref-type="bibr">2024</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">The environmental awareness of nurses as environmentally sustainable health care leaders: a mixed method analysis</td><td align="center" valign="top" rowspan="1" colspan="1">Mixed method</td><td align="center" valign="top" rowspan="1" colspan="1">314 registered nurses for the quantitative survey and 14 for the qualitative study</td><td align="center" valign="top" rowspan="1" colspan="1">The concept of nursing environmental behaviour and knowledge is utilised to assess nurses' awareness, knowledge, attitudes, and skills regarding environmental sustainability in healthcare settings</td><td align="center" valign="top" rowspan="1" colspan="1">Environmental awareness</td><td align="center" valign="top" rowspan="1" colspan="1">Provision of formal training and courses on environmental sustainability for nursing staff</td><td align="center" valign="top" rowspan="1" colspan="1">Enhanced environmental awareness and knowledge among nursing staff</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">12/17</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Goodman&#x000a0;(<xref rid="nop270058-bib-0017" ref-type="bibr">2011</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">The need for a &#x02018;sustainability curriculum&#x02019; in nurse education</td><td align="center" valign="top" rowspan="1" colspan="1">Review paper</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Interconnectedness between human health, ecological health, and socio&#x02010;political environments</td><td align="center" valign="top" rowspan="1" colspan="1">Unsustainable economics, lifestyles, and consumption patterns contribute to climate change and ecological degradation</td><td align="center" valign="top" rowspan="1" colspan="1">Addressing carbon emissions, climate change, and unsustainable living is essential for safeguarding health</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">7/12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Goodman and East&#x000a0;(<xref rid="nop270058-bib-0019" ref-type="bibr">2013</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">The &#x02018;sustainability lens&#x02019;: A framework for nurse education that is &#x02018;fit for the future&#x02019;</td><td align="center" valign="top" rowspan="1" colspan="1">Review paper</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1">It discusses the need for addressing sustainability and climate change in nurse education</td><td align="center" valign="top" rowspan="1" colspan="1">Curriculum development</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Developing a sustainability lens in nursing education</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">8/12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Rosa et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0041" ref-type="bibr">2019</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Nursing and midwifery advocacy to lead the United Nations Sustainable Development Agenda</td><td align="center" valign="top" rowspan="1" colspan="1">Review paper</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1">The concept is used to illustrate the interconnectedness of the Sustainable Development Goals (SDGs) with health outcomes</td><td align="center" valign="top" rowspan="1" colspan="1">Interdisciplinary collaboration</td><td align="center" valign="top" rowspan="1" colspan="1">Addressing complex global challenges</td><td align="center" valign="top" rowspan="1" colspan="1">Promoting social justice and sustainability, Awareness of global trends</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">8/12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sensor et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0042" ref-type="bibr">2021</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Nurses Achieving the Sustainable Development Goals: The United Nations and Sigma</td><td align="center" valign="top" rowspan="1" colspan="1">Discussion paper</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Partnership and collaboration</td><td align="center" valign="top" rowspan="1" colspan="1">Leadership, shared governance and advocacy</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">8/12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Goodman&#x000a0;(<xref rid="nop270058-bib-0018" ref-type="bibr">2016</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Developing the concept of sustainability in nursing</td><td align="center" valign="top" rowspan="1" colspan="1">Review paper</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Globalism, Holism</td><td align="center" valign="top" rowspan="1" colspan="1">Socio&#x02010;political context in nursing education</td><td align="center" valign="top" rowspan="1" colspan="1">A deeper understanding of sustainability</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">7/12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Bryne et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0009" ref-type="bibr">2013</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Exploring sustainability themes in engineering accreditation and curricula</td><td align="center" valign="top" rowspan="1" colspan="1">Mixed method study</td><td align="center" valign="top" rowspan="1" colspan="1">Engineering academics and professional who took part in workshop conference on sustainability</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Incorporation of sustainable practices into nursing curriculum</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Improved environmental sustainability in healthcare settings, Enhanced social responsibility among nursing professionals</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">9/17</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Argento et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0004" ref-type="bibr">2020</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Integrating sustainability in higher education: a Swedish case</td><td align="center" valign="top" rowspan="1" colspan="1">Narrative Case focused on Kristianstad University in Sweden</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Holistic care and ecological perspectives</td><td align="center" valign="top" rowspan="1" colspan="1">Faculty interest and participation, Interconnectedness between nursing, health, and sustainability</td><td align="center" valign="top" rowspan="1" colspan="1">Enhanced understanding of holistic care and its relation to sustainability, Improved health outcomes through sustainable nursing practices</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">8/12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ubochi et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0047" ref-type="bibr">2019</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Building a strong and sustainable health care system in Nigeria: The role of the nurse</td><td align="center" valign="top" rowspan="1" colspan="1">Discussion paper</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Leadership and advocacy skills, Commitment to inter&#x02010;professional collaboration</td><td align="center" valign="top" rowspan="1" colspan="1">Ethical responsibilities outlined in professional codes of conduct, Advocacy and collaboration efforts</td><td align="center" valign="top" rowspan="1" colspan="1">Increased nursing involvement in policy&#x02010;making and planning, Enhanced primary healthcare delivery and community engagement</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">7/12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Howell&#x000a0;(<xref rid="nop270058-bib-0020" ref-type="bibr">2021</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Engaging students in education for sustainable development: The benefits of active learning, reflective practices and flipped classroom pedagogies</td><td align="center" valign="top" rowspan="1" colspan="1">Survey study</td><td align="center" valign="top" rowspan="1" colspan="1">Students enrolled on the course in 2016 and 2017</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Student engagement and participation</td><td align="center" valign="top" rowspan="1" colspan="1">Enhanced student engagement and participation in ESD</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">5/8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Bvumbwe and Mtshali&#x000a0;(<xref rid="nop270058-bib-0008" ref-type="bibr">2018</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Nursing education challenges and solutions in Sub Saharan Africa: an integrative review</td><td align="center" valign="top" rowspan="1" colspan="1">Integrative review</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Collaboration and partnerships, Curriculum reforms, Strategic leadership, networking and partnership</td><td align="center" valign="top" rowspan="1" colspan="1">Infrastructure and resources</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">7/11</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sherman et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0043" ref-type="bibr">2020</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">The Green Print: Advancement of Environmental Sustainability in Healthcare</td><td align="center" valign="top" rowspan="1" colspan="1">Narrative review</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Systems re&#x02010;thinking and performance feedback, Establishing research priorities to improve the environmental performance of <ext-link xlink:href="https://www.sciencedirect.com/topics/engineering/healthcare-service" ext-link-type="uri">healthcare services</ext-link>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Globalisation</p>
+<p>Ecology</p>
+<p>Holistic healthcare</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Environmental Sustainability in Clinical Care</p>
+<p>Advocacy for policy and practice</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Integrating environmental performance metrics into existing reporting structures</td><td align="center" valign="top" rowspan="1" colspan="1">8/12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fields et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0016" ref-type="bibr">2021</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Nursing and the Sustainable Development Goals: A Scoping Review</td><td align="center" valign="top" rowspan="1" colspan="1">Scoping review</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Globalisation and Global Health Workforce</td><td align="center" valign="top" rowspan="1" colspan="1">Education and awareness about the SDGs among nurses</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Representation of nurses in policy and decision&#x02010;making processes</p>
+<p>Nurses' ability to contribute to the SDGs</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">7/11</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Huss et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0022" ref-type="bibr">2020</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Education for sustainable health care: From learning to professional practice</td><td align="center" valign="top" rowspan="1" colspan="1">Review paper</td><td align="center" valign="top" rowspan="1" colspan="1">Not applicable</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Early introduction and integration of content in the curriculum</p>
+<p>Multi&#x02010;disciplinary collaboration</p>
+<p>Skills application to clinical practice</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Education and awareness about the SDGs and environmental sustainability</p>
+<p>Adaptable educational resources</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Challenging unsustainable practices in the work environment</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">8/12</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Richardson et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0037" ref-type="bibr">2016</xref>)</td><td align="center" valign="top" rowspan="1" colspan="1">Including sustainability issues in nurse education: A comparative study of first year student nurses' attitudes in four European countries</td><td align="center" valign="top" rowspan="1" colspan="1">Comparative survey design.</td><td align="center" valign="top" rowspan="1" colspan="1">916 nursing students (UK: 450, Germany: 196, Spain: 124, Switzerland: 146)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Integration of sustainability in nursing curricula</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Availability of resource materials for sustainable education</p>
+<p>Sustainability and climate change as a global challenge</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Competency and clinical skills on sustainability was assessed with objective structured clinical examination (OSCE). Sustainability attitudes among nursing students could be assessed by the 7 item sustainability attitude in nursing survey (SANS) questionnaire</td><td align="center" valign="top" rowspan="1" colspan="1">6/8</td></tr></tbody></table></table-wrap><p>Exemplar cases were drawn from retained studies assessed as sufficiently describing or demonstrating the concept attributes. These cases provide a real&#x02010;world illustration of the conceptual meaning (Walker and Avant&#x000a0;<xref rid="nop270058-bib-0051" ref-type="bibr">2005</xref>). As recommended by Walker and Avant&#x000a0;(<xref rid="nop270058-bib-0051" ref-type="bibr">2005</xref>), contextually diverse cases were intentionally described as explicitly addressing sustainability in nursing education.</p></sec><sec sec-type="results" id="nop270058-sec-0011"><label>4</label><title>Results</title><sec id="nop270058-sec-0012"><label>4.1</label><title>The Concept</title><p>In this instance, the concept was &#x02018;nursing education for sustainable development&#x02019;.</p></sec><sec id="nop270058-sec-0013"><label>4.2</label><title>Aim/Purpose</title><p>This concept analysis aimed to explore, describe, explain and clarify the concept, nursing education for sustainable development as well as explore its attributes, and understand its relationships. We also sought to provide a definition that facilitates the use and understanding of the concept in nursing.</p></sec><sec id="nop270058-sec-0014"><label>4.3</label><title>Identify Uses of the Concept</title><p>To identify the uses of the concept &#x02018;nursing education for sustainable development&#x02019;, we explored how this concept is employed in nursing literature, theory, practice and education. Here are some potential uses of the concept:</p><p>
+<italic toggle="yes">Curriculum Development</italic>: According to Clark et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0011" ref-type="bibr">2020</xref>), incorporating sustainability concepts in nursing curricula prepares future nurses to address the environmental, social and economic determinants of health, contributing to sustainable development.</p><p>
+<italic toggle="yes">Competency Development</italic>: The International Council of Nurses (ICN) identifies nursing education for sustainable development as essential for developing competencies related to environmental health, resource management and advocating for sustainable policies (International Council of Nurses&#x000a0;<xref rid="nop270058-bib-0023" ref-type="bibr">2017</xref>). This involves equipping nurses with the knowledge, skills and attitudes necessary to promote environmental sustainability, address social determinants of health and advocate for sustainable healthcare systems.</p><p>
+<italic toggle="yes">Research and Evidence&#x02010;Based Practice</italic>: The concept of nurse education for sustainable development can guide research endeavours focused on understanding the impact of sustainable practices on nursing outcomes, patient health and healthcare systems. For instance, Smith et&#x000a0;al.&#x000a0;(<xref rid="nop270058-bib-0045" ref-type="bibr">2020</xref>) conducted a scoping review on the implementation of sustainable practices in occupational therapy and found that education for sustainable development was crucial in promoting sustainable behaviours and improving patient outcomes.</p><p>
+<italic toggle="yes">Professional Ethics and Responsibility</italic>: The American Nurses Association (ANA) highlights nurse education for sustainable development as a means to cultivate nursing professionals' ethical responsibilities towards environmental sustainability and to enhance the quality of healthcare (American Association of Colleges of Nursing&#x000a0;<xref rid="nop270058-bib-0001" ref-type="bibr">2020</xref>). This includes promoting environmentally friendly practices, reducing waste and advocating for sustainable policies and practices within healthcare settings.</p><p>
+<italic toggle="yes">Policy and Advocacy</italic>: The concept can be employed to inform policy development and advocacy efforts aimed at integrating sustainability principles into healthcare systems. Nursing education for sustainable development equips nurses to be influential advocates for sustainable healthcare policies and practices at local, national and global levels. (Rosa et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0041" ref-type="bibr">2019</xref>).</p></sec><sec id="nop270058-sec-0015"><label>4.4</label><title>Conceptual Definition</title><p>Integrating these components, nursing education for sustainable development is defined as follows: The process of preparing nursing students to understand the interconnectedness of human and environmental health and to address sustainability issues in healthcare, with a focus on enacting systems thinking, social justice orientation and environmentally responsible practices throughout their nursing careers (An&#x000e5;ker and Elf&#x000a0;<xref rid="nop270058-bib-0002" ref-type="bibr">2014</xref>).</p><p>This moves beyond previous single&#x02010;dimension conceptualisations focused predominantly on environmental learning, towards a more comprehensive characterisation aligning with transformational sustainability pedagogies in higher education (Cotton and Winter&#x000a0;<xref rid="nop270058-bib-0013" ref-type="bibr">2010</xref>). It purposefully integrates dimensions of sustainability competency development as well as antecedent factors and project outcomes reflecting wider constructs of sustainability in nursing education contexts (Roden and Lewis&#x000a0;<xref rid="nop270058-bib-0038" ref-type="bibr">2021</xref>; Evans,&#x000a0;<xref rid="nop270058-bib-0014" ref-type="bibr">2019</xref>). According to the International Council of Nurses&#x000a0;(<xref rid="nop270058-bib-0023" ref-type="bibr">2017</xref>), this concept acknowledges that nurses play a vital role in fostering sustainable healthcare systems and advocating for policies and practices that promote environmental sustainability, social equity and improved health outcomes.</p></sec><sec id="nop270058-sec-0016"><label>4.5</label><title>Identify the Attributes</title><p>According to Walker and Avant&#x000a0;(<xref rid="nop270058-bib-0050" ref-type="bibr">2011</xref>), attributes are the features or qualities that must be present for the concept to be considered nursing education for sustainable development. The essential characteristics or attributes of this concept discovered in the literature are as follows:
+<list list-type="bullet" id="nop270058-list-0001"><list-item id="nop270058-li-0001"><p>Environmental Awareness: Nurse education for sustainable development emphasises the importance of understanding environmental issues and their impact on health. Nurses should be aware of environmental factors that contribute to health problems and be equipped to promote sustainable practices to mitigate these issues (Luque&#x02010;Alcaraz et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0031" ref-type="bibr">2024</xref>).</p></list-item><list-item id="nop270058-li-0002"><p>Interdisciplinary Approach: This concept recognises the need for collaboration and integration of knowledge from various disciplines. Nurse education for sustainable development encourages interdisciplinary learning, involving fields such as public health, environmental science, ethics and social sciences, to provide a comprehensive understanding of sustainable healthcare (Clark et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0011" ref-type="bibr">2020</xref>; Huss et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0022" ref-type="bibr">2020</xref>).</p></list-item><list-item id="nop270058-li-0003"><p>Holistic Perspective: Nurses need to adopt a holistic perspective that considers the interconnectedness of ecological, social and economic systems. They should understand how sustainable practices can contribute to improved health outcomes for individuals, communities and the planet as a whole (UNESCO&#x000a0;<xref rid="nop270058-bib-0048" ref-type="bibr">2017</xref>; Sherman et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0043" ref-type="bibr">2020</xref>).</p></list-item><list-item id="nop270058-li-0004"><p>Ethical Considerations: Nurse education for sustainable development emphasises ethical decision&#x02010;making and the promotion of ethical practices in healthcare. This includes addressing issues such as environmental justice, resource allocation, equitable access to healthcare and responsible use of resources (Goodman and East&#x000a0;<xref rid="nop270058-bib-0019" ref-type="bibr">2013</xref>).</p></list-item><list-item id="nop270058-li-0005"><p>Systems Thinking: Nurses should develop the ability to think critically and systemically, understanding the complex relationships between healthcare, the environment and society (Center for sustainable Future&#x000a0;<xref rid="nop270058-bib-0010" ref-type="bibr">2008</xref>).</p></list-item><list-item id="nop270058-li-0006"><p>Advocacy and Leadership: Nurses should be equipped with the skills to advocate for sustainable healthcare practices and lead initiatives for change. This includes raising awareness, influencing policies and collaborating with stakeholders to promote sustainable development in healthcare settings (Sensor et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0042" ref-type="bibr">2021</xref>; Smith et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0045" ref-type="bibr">2020</xref>).</p></list-item><list-item id="nop270058-li-0007"><p>Lifelong Learning: Nursing education for sustainable development acknowledges the evolving nature of sustainability challenges. It emphasises the need for nurses to engage in lifelong learning, staying updated on current research, best practices and emerging issues related to sustainability in healthcare (Goodman&#x000a0;<xref rid="nop270058-bib-0017" ref-type="bibr">2011</xref>).</p></list-item><list-item id="nop270058-li-0008"><p>Practical Application: This concept emphasises the practical application of sustainable practices in nursing education. It encourages hands&#x02010;on learning experiences, such as clinical placements in sustainable healthcare settings or participation in sustainability projects, to enhance nurses' skills and understanding of sustainable development (Goodman and East&#x000a0;<xref rid="nop270058-bib-0019" ref-type="bibr">2013</xref>; Huss et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0022" ref-type="bibr">2020</xref>).</p></list-item></list>
+</p></sec><sec id="nop270058-sec-0017"><label>4.6</label><title>A Model Case</title><p>This hypothetical case of a nursing education programme for sustainable development is created by the authors. A group of nursing students from the University of Africa (pseudonym) is enrolled in a community health course dubbed &#x02018;Green Impact for Health&#x02019; programme implemented by the nursing school in the University of Africa in collaboration with a local hospital, Serwaa's Memorial Hospital.</p><p>In this programme, the nursing students are engaged in a series of workshops and training sessions that promote sustainable healthcare practices. They learn about waste management, energy conservation, water conservation and other eco&#x02010;friendly strategies relevant to healthcare settings.</p><p>The students are then divided into teams and assigned to the different units in the hospital where they apply their knowledge to identify areas for improvement. They conduct energy audits, assess waste management systems and suggest sustainable alternatives. For example, they may recommend the use of energy&#x02010;efficient equipment, recycling programmes, or the implementation of electronic medical records to reduce paper waste.</p><p>Throughout the programme, the students collaborate with hospital staff, including nurses, administrators and environmental services, to implement their recommendations. They monitor the impact of their interventions and make adjustments based on feedback and data analysis.</p><p>The &#x02018;Green Impact for Health&#x02019; programme not only equips nursing students with knowledge and skills related to sustainable healthcare but also empowers them to become agents of change within the healthcare system. It highlights the importance of practical application, interdisciplinary collaboration and leadership in promoting sustainable development in nursing practice.</p></sec><sec id="nop270058-sec-0018"><label>4.7</label><title>Borderline Case</title><p>This borderline case is a fictitious scenario created by the authors.</p><p>A nursing school at the University of Africa (Pseudonym) recognises the importance of sustainability in healthcare and establishes a collaboration with a nearby hospital that has embraced sustainable practices. They develop a joint programme where nursing students are assigned to clinical rotations in specific units of the hospital that prioritise sustainability.</p><p>During their clinical placements, nursing students observe and actively participate in sustainable healthcare practices. They learn about the hospital's waste management system, energy&#x02010;efficient equipment and conservation efforts. They also witness sustainable initiatives like recycling programmes, water conservation strategies and the use of renewable energy sources.</p><p>The nursing school integrates sustainability&#x02010;focused modules into the core curriculum, ensuring that all nursing students receive dedicated education on sustainable development. These modules cover topics such as environmental health, climate change and health, sustainable resource management and ethical considerations related to sustainability in healthcare.</p><p>To further enhance the learning experience, the nursing school invites guest speakers from environmental organisations, public health agencies and sustainability experts to share their knowledge and experiences with the students.</p><p>Throughout their education, nursing students engage in research projects and community outreach activities related to sustainable healthcare. They collaborate with faculty members, hospital staff and local communities to raise awareness about sustainable practices, advocate for policy changes and develop innovative solutions to address sustainability challenges.</p><p>Although the nursing school has taken significant steps to integrate sustainability into its curriculum and provide practical application opportunities, there is an ongoing effort to expand the scope of sustainability education, foster interdisciplinary collaborations and continuously improve sustainable practices within the nursing school and clinical settings as well as provide continuous training for faculty members.</p></sec><sec id="nop270058-sec-0019"><label>4.8</label><title>Contrary Case</title><p>In a contrary case of nursing education for sustainable development, a nursing school in the University of Africa (Pseudonym) completely neglects the integration of sustainability principles into their curriculum and fails to recognise the importance of sustainable development in nursing practice.</p><p>This nursing school follows a traditional curriculum that solely focuses on clinical skills, medical knowledge and patient care without addressing sustainability as a core component. The school does not offer any dedicated courses or modules related to sustainable healthcare practices, environmental health or resource management. The faculty members are not knowledgeable about sustainable development and do not actively promote or advocate for sustainability in healthcare. There is a lack of awareness among the faculty regarding the potential impact of healthcare practices on the environment, society and future generations.</p><p>This nursing school does not collaborate with external organisations or healthcare facilities that prioritise sustainability. There are no opportunities for students to gain practical experience or exposure to sustainable healthcare practices during their clinical placements.</p><p>In this contrary scenario, nursing education completely disregards the integration of sustainability principles, hindering the preparation of nurses to address the environmental, social and economic challenges in healthcare.</p></sec><sec id="nop270058-sec-0020"><label>4.9</label><title>Identify Antecedents and Consequences</title><p>The occurrence or development of the concept &#x02018;nursing education for sustainable development&#x02019; is influenced by several factors. These factors can vary in their impact and significance across different contexts and educational settings. Some of the key factors include: <italic toggle="yes">Institutional Priorities</italic>: Institutions that prioritise sustainability and recognise its importance in healthcare are more likely to integrate sustainable development principles into their nursing curricula (Goodman&#x000a0;<xref rid="nop270058-bib-0018" ref-type="bibr">2016</xref>). <italic toggle="yes">Educational Policies and Accreditation Standards</italic>: When sustainability is explicitly included as a requirement or expectation in accreditation standards or educational guidelines, nursing programmes are more likely to incorporate sustainable development concepts into their curricula (Byrne et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0009" ref-type="bibr">2013</xref>). <italic toggle="yes">Faculty Expertise and Interest</italic>: The knowledge, expertise and interest of faculty members play a significant role in shaping the occurrence and development of nurse education for sustainable development (Argento et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0004" ref-type="bibr">2020</xref>). <italic toggle="yes">External Partnerships and Collaborations</italic>: Collaborations between nursing schools and external organisations, such as healthcare facilities, environmental agencies or sustainability&#x02010;focused institutions, can greatly influence the occurrence and development of nurse education for sustainable development (Ubochi et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0047" ref-type="bibr">2019</xref>). <italic toggle="yes">Student Interest and Engagement</italic>: When students demonstrate a strong interest in sustainability and advocate for its inclusion in the curriculum, nursing schools are more likely to respond and adapt their educational programmes accordingly (Howell&#x000a0;<xref rid="nop270058-bib-0020" ref-type="bibr">2021</xref>). <italic toggle="yes">Societal and Global Context</italic>: The societal and global context, including the recognition of environmental challenges, climate change, and the United Nations SDGs, can influence the occurrence and development of nursing education for sustainable development (The Center of Sustainable Future&#x000a0;<xref rid="nop270058-bib-0010" ref-type="bibr">2008</xref>). <italic toggle="yes">Resource Availability</italic>: The availability of resources, including funding, infrastructure, teaching materials and faculty development opportunities, can impact the occurrence and development of nursing education for sustainable development (Bvumbwe and Mtshali&#x000a0;<xref rid="nop270058-bib-0008" ref-type="bibr">2018</xref>).</p><p>The concept of &#x02018;nursing education for sustainable development&#x02019; can lead to various consequences that have a positive impact on healthcare, the environment and society. Some of the key outcomes that emerge as a result of this concept include: increased awareness and understanding (Luque&#x02010;Alcaraz et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0031" ref-type="bibr">2024</xref>), integration of sustainable practices into healthcare (Goodman&#x000a0;<xref rid="nop270058-bib-0018" ref-type="bibr">2016</xref>), improved health outcomes (Sherman et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0043" ref-type="bibr">2020</xref>), ethical decision&#x02010;making in healthcare (Goodman&#x000a0;<xref rid="nop270058-bib-0017" ref-type="bibr">2011</xref>) fosters the development of advocacy and leadership skills among nurses (Sensor et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0042" ref-type="bibr">2021</xref>), research and innovation and contribution to SDGs (Goodman&#x000a0;<xref rid="nop270058-bib-0017" ref-type="bibr">2011</xref>). A summary of the attributes, antecedents and consequences of this concept analysis is outlined in Table&#x000a0;<xref rid="nop270058-tbl-0003" ref-type="table">3</xref>.</p><table-wrap position="float" id="nop270058-tbl-0003" content-type="TABLE"><label>TABLE 3</label><caption><p>Summary: attributes, antecedents and consequences.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Attributes</th><th align="center" valign="bottom" rowspan="1" colspan="1">Antecedents</th><th align="center" valign="bottom" rowspan="1" colspan="1">Consequences</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Environmental awareness</td><td align="center" valign="top" rowspan="1" colspan="1">Institutional priorities</td><td align="center" valign="top" rowspan="1" colspan="1">Increased awareness and understanding</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Interdisciplinary approach</td><td align="center" valign="top" rowspan="1" colspan="1">Educational policies and accreditation standards</td><td align="center" valign="top" rowspan="1" colspan="1">Integration of sustainable practices into healthcare</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Holistic perspective</td><td align="center" valign="top" rowspan="1" colspan="1">Faculty expertise and interest</td><td align="center" valign="top" rowspan="1" colspan="1">Ethical decision&#x02010;making in healthcare</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ethical considerations</td><td align="center" valign="top" rowspan="1" colspan="1">External partnership and collaborations</td><td align="center" valign="top" rowspan="1" colspan="1">Development of advocacy and leadership skills among nurses</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Systems thinking</td><td align="center" valign="top" rowspan="1" colspan="1">Student interest and engagement</td><td align="center" valign="top" rowspan="1" colspan="1">Research and innovation and contribution to Sustainable development goals</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Advocacy and leadership</td><td align="center" valign="top" rowspan="1" colspan="1">Societal and global context</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Practical applications</td><td align="center" valign="top" rowspan="1" colspan="1">Resource availability</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Lifelong learning</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr></tbody></table></table-wrap></sec><sec id="nop270058-sec-0021"><label>4.10</label><title>Empirical Referents</title><p>Empirical referents for sustainable development in research or practice, provide several measurable indicators or variables to be considered. These indicators can help evaluate the extent to which nursing education programmes incorporate sustainable development principles and assess the outcomes or impact of such education (An&#x000e5;ker and Elf&#x000a0;<xref rid="nop270058-bib-0002" ref-type="bibr">2014</xref>).</p><p>The attributes, antecedents and consequences of sustainability development could be assessed through various approaches. For instance, faculty and student learning competencies could be assessed through self&#x02010;efficacy scales, self&#x02010;reported measures, interviews and pre and posttest. Curriculum integration could be evaluated by assessing the number of dedicated courses and percentage of total curriculum courses. Practical application of sustainability principles and clinical skills could be measured with observation or evaluation of students' application of sustainable healthcare practices during clinical rotations or simulations or an assessment of students' proficiency in implementing eco&#x02010;friendly measures, such as waste management or energy conservation, in healthcare settings. Students' attitudes and perceptions towards sustainable development would be better assessed through surveys or questionnaires (Richardson et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0037" ref-type="bibr">2016</xref>). Sustainable Outcomes are better assessed through the evaluation of the environmental impact of nursing practices before and after the implementation of sustainable education.</p></sec></sec><sec sec-type="discussion" id="nop270058-sec-0022"><label>5</label><title>Discussion</title><p>This concept analysis contributes an original synthesised perspective advancing coherence on sustainability education specifically tailored for application in undergraduate nursing curriculums. Compared to previous interpretations, the developed conceptualisation provides a more comprehensive framing&#x02014;encompassing attributes aligned with wider sustainability constructs beyond predominantly environmental components, while still foregrounding the interrelations of human and ecological health.</p><p>These findings carry salient implications for informing policies and competency models guiding the integration of sustainability content in nursing programmes. The antecedent factors highlighted reinforce calls to strengthen systems thinking, transdisciplinary collaboration, and sustainability&#x02010;focused educational leadership as imperatives to drive sustainability advances in nursing education (Osingada and Porta&#x000a0;<xref rid="nop270058-bib-0034" ref-type="bibr">2020</xref>; Lopez&#x02010;Medina et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0030" ref-type="bibr">2019</xref>). The defining attributes provide a comprehensive understanding of the concept of nursing education for sustainable development, highlighting its ecological, environmental, future&#x02010;oriented, global, holistic and maintenance&#x02010;focused nature (An&#x000e5;ker and Elf&#x000a0;<xref rid="nop270058-bib-0002" ref-type="bibr">2014</xref>; &#x0015e;im&#x0015f;ek and Erkin&#x000a0;<xref rid="nop270058-bib-0044" ref-type="bibr">2022</xref>). The concept attributes and definitional components similarly provide a strategic framework to guide curriculum development, mapping of sustainability learning objectives, and content delivery models.</p><p>The model case exemplifies the application of nursing education for sustainable development by integrating the principles of critical pedagogy and the SDGs into nursing curricula, thereby preparing nursing students to address global concerns and promote sustainability in their practice (Fields et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0015" ref-type="bibr">2022</xref>; Ward et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0052" ref-type="bibr">2022</xref>; Cook et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0012" ref-type="bibr">2019</xref>; Leffers et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0028" ref-type="bibr">2017</xref>). The borderline case depicted in this study highlights the importance of not just introducing sustainable development in nursing education, but also integrating it throughout the curriculum to ensure that nursing students develop a holistic understanding of its principles and their application to various aspects of nursing practice (&#x0015e;im&#x0015f;ek and Erkin&#x000a0;<xref rid="nop270058-bib-0044" ref-type="bibr">2022</xref>; Fields et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0015" ref-type="bibr">2022</xref>). In a similar vein, our contrary case highlights the need for a shift in nursing education to prioritise sustainable development principles and equip nursing students with the skills and knowledge necessary to address these global concerns in their practice.</p><p>Additionally, the multi&#x02010;level consequences suggest potential impact at individual competency, healthcare delivery and broader health system levels&#x02014;directing attention to opportune areas for sustainability education evaluation research. Specifically, longitudinal and interventional designs tracking sustainability competency progression and associated clinical practice impacts will continue adding clarity (Richardson et&#x000a0;al.&#x000a0;<xref rid="nop270058-bib-0037" ref-type="bibr">2016</xref>; Walpole et&#x000a0;al. <xref rid="nop270058-bib-0059" ref-type="bibr">2019</xref>). Qualitative case studies detailing curriculum innovation processes also can elucidate best practices for sustainability education design in nursing contexts. Collectively, such research can further validate and refine core conceptual components elucidated through this foundational analysis.</p><p>The empirical referents of the concept of nursing education for sustainable development include the integration of sustainability into nursing academic programmes, the description of the academic subject of nursing, and its incorporation into national and international healthcare organisations (&#x0015e;im&#x0015f;ek and Erkin&#x000a0;<xref rid="nop270058-bib-0044" ref-type="bibr">2022</xref>). This concept is also recognised as a key aspect for healthcare professionals to take action towards achieving the targets of the SDGs, requiring active participation in social affairs to promote a culture of sustainability both professionally and personally.</p></sec><sec id="nop270058-sec-0023"><label>6</label><title>Key Points</title><p>Based on this comprehensive concept analysis, we deduce that nursing education for sustainable development is fundamentally about:
+<list list-type="bullet" id="nop270058-list-0002"><list-item id="nop270058-li-0009"><p>Training future nurses to understand the deep interconnections between human health, community wellbeing, and environmental sustainability. It moves beyond viewing health solely in individual terms to an eco&#x02010;social lens.</p></list-item><list-item id="nop270058-li-0010"><p>Integrating sustainability principles throughout nursing curriculums and clinical experiences, not siloed in isolated lessons. This enables development of sustainability competencies applicable across diverse practice settings.</p></list-item><list-item id="nop270058-li-0011"><p>Cultivating key skillsets like systems thinking and change management to graduate sustainability&#x02010;minded nurses prepared to spearhead positive impacts in healthcare.</p></list-item><list-item id="nop270058-li-0012"><p>Framing sustainability as an issue of equity and social justice given disproportionate climate and environmental burdens on marginalized groups. Nurses can address these disparities through sustainable, ethical care.</p></list-item><list-item id="nop270058-li-0013"><p>Empowering nurses to partner with communities in finding solutions that jointly foster healthy people and healthy environments, embracing nurses' roles as change agents who can bridge environmental and public health advocacy.</p></list-item></list>
+</p></sec><sec sec-type="conclusions" id="nop270058-sec-0024"><label>7</label><title>Conclusion</title><p>Overall, this analysis makes a significant research contribution through its advancement of conceptual coherence, specificity and applicability to inform sustainability education in nursing programmes. Finally, the concept evaluation presents a springboard to inform nascent evaluation research on learning processes and clinical practice impacts resulting from nursing sustainability education innovations. Collectively, this can galvanise momentum for nursing schools to deliver graduates capable of embedded sustainability application in their vital role nourishing human and environmental health.</p></sec><sec id="nop270058-sec-0025"><title>Author Contributions</title><p>
+<bold>Dorothy Serwaa Boakye</bold>, <bold>Atswei Adzo Kwashie</bold>, <bold>Samuel Adjorlolo</bold> and <bold>Kwadwo Ameyaw Korsah:</bold> conceptualised the study, developed the methods, drafted the original manuscript and contributed equally to the editing and review of the manuscript. All authors have approved the published version of this paper.</p></sec><sec id="nop270058-sec-0026"><title>Ethics Statement</title><p>The authors have nothing to report.</p></sec><sec sec-type="conclusions" id="nop270058-sec-0027"><title>Consent</title><p>The authors have nothing to report.</p></sec><sec sec-type="COI-statement" id="nop270058-sec-0028"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><sec sec-type="data-availability" id="nop270058-sec-0030"><title>Data Availability Statement</title><p>The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.</p></sec><ref-list content-type="cited-references" id="nop270058-bibl-0001"><title>References</title><ref id="nop270058-bib-0001"><mixed-citation publication-type="miscellaneous" id="nop270058-cit-0001">
+<collab collab-type="authors">American Association of Colleges of Nursing</collab>
+. <year>2020</year>. <article-title>&#x0201c;Using Telehealth Technology in Nursing Education.&#x0201d;</article-title>
+<ext-link xlink:href="https://www.aacnnursing.org" ext-link-type="uri">https://www.aacnnursing.org</ext-link>.</mixed-citation></ref><ref id="nop270058-bib-0002"><mixed-citation publication-type="journal" id="nop270058-cit-0002">
+<string-name>
+<surname>An&#x000e5;ker</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Elf</surname>
+</string-name>. <year>2014</year>. &#x0201c;<article-title>Sustainability in Nursing: A Concept Analysis</article-title>.&#x0201d; <source>Scandinavian Journal of Caring Sciences</source>
+<volume>28</volume>, no. <issue>2</issue>: <fpage>381</fpage>&#x02013;<lpage>389</lpage>. <pub-id pub-id-type="doi">10.1111/scs.12121</pub-id>.<pub-id pub-id-type="pmid">24602178</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0003"><mixed-citation publication-type="journal" id="nop270058-cit-0003">
+<string-name>
+<surname>An&#x000e5;ker</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Spante</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Elf</surname>
+</string-name>. <year>2021</year>. &#x0201c;<article-title>Nursing Students' Perception of Climate Change and Sustainability Actions&#x02014;A Mismatched Discourse: A Qualitative, Descriptive Exploratory Study</article-title>.&#x0201d; <source>Nurse Education Today</source>
+<volume>105</volume>: <elocation-id>105028</elocation-id>.<pub-id pub-id-type="pmid">34198158</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0004"><mixed-citation publication-type="journal" id="nop270058-cit-0004">
+<string-name>
+<surname>Argento</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Einarson</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>M&#x000e5;rtensson</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Persson</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wendin</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Westergren</surname>
+</string-name>. <year>2020</year>. &#x0201c;<article-title>Integrating Sustainability in Higher Education: A Swedish Case</article-title>.&#x0201d; <source>International Journal of Sustainability in Higher Education</source>
+<volume>21</volume>, no. <issue>6</issue>: <fpage>1131</fpage>&#x02013;<lpage>1150</lpage>.</mixed-citation></ref><ref id="nop270058-bib-0005"><mixed-citation publication-type="journal" id="nop270058-cit-0005">
+<string-name>
+<surname>Baethge</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Goldbeck&#x02010;Wood</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Mertens</surname>
+</string-name>. <year>2019</year>. &#x0201c;<article-title>SANRA&#x02014;A Scale for the Quality Assessment of Narrative Review Articles</article-title>.&#x0201d; <source>Research Integrity and Peer Review</source>
+<volume>4</volume>: <fpage>1</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">30680228</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0006"><mixed-citation publication-type="journal" id="nop270058-cit-0006">
+<string-name>
+<surname>Benton</surname>, <given-names>D. C.</given-names>
+</string-name>, and <string-name>
+<given-names>S. L.</given-names>
+<surname>Ferguson</surname>
+</string-name>. <year>2016</year>. &#x0201c;<article-title>Windows to the Future: Can the United Nations Sustainable Development Goals Provide Opportunities for Nursing?</article-title>&#x0201d; <source>Nursing Economics</source>
+<volume>34</volume>, no. <issue>2</issue>: <fpage>101</fpage>&#x02013;<lpage>103</lpage>.<pub-id pub-id-type="pmid">27265954</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0007"><mixed-citation publication-type="journal" id="nop270058-cit-0007">
+<string-name>
+<surname>Brundiers</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Barth</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cebri&#x000e1;n</surname>
+</string-name>, et&#x000a0;al. <year>2021</year>. &#x0201c;<article-title>Key Competencies in Sustainability in Higher Education&#x02014;Toward an Agreed&#x02010;Upon Reference Framework</article-title>.&#x0201d; <source>Sustainability Science</source>
+<volume>16</volume>, no. <issue>1</issue>: <fpage>13</fpage>&#x02013;<lpage>29</lpage>.</mixed-citation></ref><ref id="nop270058-bib-0008"><mixed-citation publication-type="journal" id="nop270058-cit-0008">
+<string-name>
+<surname>Bvumbwe</surname>, <given-names>T.</given-names>
+</string-name>, and <string-name>
+<given-names>N.</given-names>
+<surname>Mtshali</surname>
+</string-name>. <year>2018</year>. &#x0201c;<article-title>Nursing Education Challenges and Solutions in Sub Saharan Africa: An Integrative Review</article-title>.&#x0201d; <source>BMC Nursing</source>
+<volume>17</volume>, no. <issue>1</issue>: <fpage>1</fpage>&#x02013;<lpage>11</lpage>.<pub-id pub-id-type="pmid">29339927</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0009"><mixed-citation publication-type="journal" id="nop270058-cit-0009">
+<string-name>
+<surname>Byrne</surname>, <given-names>E. P.</given-names>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Desha</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Fitzpatrick</surname>
+</string-name>, and <string-name>
+<given-names>K.</given-names>
+<surname>&#x0201c;Charlie&#x0201d; Hargroves</surname>
+</string-name>. <year>2013</year>. &#x0201c;<article-title>Exploring Sustainability Themes in Engineering Accreditation and Curricula</article-title>.&#x0201d; <source>International Journal of Sustainability in Higher Education</source>
+<volume>14</volume>, no. <issue>4</issue>: <fpage>384</fpage>&#x02013;<lpage>403</lpage>.</mixed-citation></ref><ref id="nop270058-bib-0010"><mixed-citation publication-type="miscellaneous" id="nop270058-cit-0010">
+<collab collab-type="authors">Center for Sustainable Futures</collab>
+. <year>2008</year>. <article-title>&#x0201c;Sowing Seeds.&#x0201d;</article-title>
+<ext-link xlink:href="http://www.csf.plymouth.ac.uk" ext-link-type="uri">www.csf.Plymouth.ac.uk</ext-link>.</mixed-citation></ref><ref id="nop270058-bib-0011"><mixed-citation publication-type="journal" id="nop270058-cit-0011">
+<string-name>
+<surname>Clark</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Aronsson</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ward</surname>
+</string-name>, et&#x000a0;al. <year>2020</year>. &#x0201c;<article-title>Sustainable Healthcare Elective in Nursing: A Futures&#x02010;Thinking Approach</article-title>.&#x0201d; <source>Evidence Based Nursing</source>. ISSN 1367&#x02010;6539. <ext-link xlink:href="https://blogs.bmj.com/ebn/2020/12/20/sustainable-healthcare-elective-in-nursing-a-futures-thinking-approach/" ext-link-type="uri">https://blogs.bmj.com/ebn/2020/12/20/sustainable&#x02010;healthcare&#x02010;elective&#x02010;in&#x02010;nursing&#x02010;a&#x02010;futures&#x02010;thinking&#x02010;approach/</ext-link>.</mixed-citation></ref><ref id="nop270058-bib-0012"><mixed-citation publication-type="journal" id="nop270058-cit-0012">
+<string-name>
+<surname>Cook</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<given-names>S. L.</given-names>
+<surname>Demorest</surname>
+</string-name>, and <string-name>
+<given-names>E.</given-names>
+<surname>Schenk</surname>
+</string-name>. <year>2019</year>. &#x0201c;<article-title>Nurses and Climate Action</article-title>.&#x0201d; <source>American Journal of Nursing</source>
+<volume>119</volume>, no. <issue>4</issue>: <fpage>54</fpage>&#x02013;<lpage>60</lpage>.</mixed-citation></ref><ref id="nop270058-bib-0013"><mixed-citation publication-type="journal" id="nop270058-cit-0013">
+<string-name>
+<surname>Cotton</surname>, <given-names>D.</given-names>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Winter</surname>
+</string-name>. <year>2010</year>. &#x0201c;<article-title>It's Not Just Bits of Paper and Light Bulbs. A Review of Sustainability Pedagogies and Their Potential for Use in Higher Education</article-title>.&#x0201d; <source>Sustainability Education: Perspectives and Practice Across Higher Education</source>
+<volume>1</volume>: <fpage>39</fpage>&#x02013;<lpage>54</lpage>.</mixed-citation></ref><ref id="nop270058-bib-0014"><mixed-citation publication-type="journal" id="nop270058-cit-0014">
+<string-name>
+<surname>Evans</surname>, <given-names>T. L.</given-names>
+</string-name>
+<year>2019</year>. &#x0201c;<article-title>Competencies and Pedagogies for Sustainability Education: A Roadmap for Sustainability Studies Program Development in Colleges and Universities</article-title>.&#x0201d; <source>Sustainability</source>
+<volume>11</volume>, no. <issue>19</issue>: <elocation-id>5526</elocation-id>.</mixed-citation></ref><ref id="nop270058-bib-0015"><mixed-citation publication-type="journal" id="nop270058-cit-0015">
+<string-name>
+<surname>Fields</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<given-names>B. A.</given-names>
+<surname>Dean</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Perkiss</surname>
+</string-name>, and <string-name>
+<given-names>T.</given-names>
+<surname>Moroney</surname>
+</string-name>. <year>2022</year>. &#x0201c;<article-title>Education on the Sustainable Development Goals for Nursing Students: Is Freire the Answer?</article-title>&#x0201d; <source>Nursing Inquiry</source>
+<volume>29</volume>, no. <issue>4</issue>: <elocation-id>e12493</elocation-id>.<pub-id pub-id-type="pmid">35460167</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0016"><mixed-citation publication-type="journal" id="nop270058-cit-0016">
+<string-name>
+<surname>Fields</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Perkiss</surname>
+</string-name>, <string-name>
+<given-names>B. A.</given-names>
+<surname>Dean</surname>
+</string-name>, and <string-name>
+<given-names>T.</given-names>
+<surname>Moroney</surname>
+</string-name>. <year>2021</year>. &#x0201c;<article-title>Nursing and the Sustainable Development Goals: A Scoping Review</article-title>.&#x0201d; <source>Journal of Nursing Scholarship</source>
+<volume>53</volume>, no. <issue>5</issue>: <fpage>568</fpage>&#x02013;<lpage>577</lpage>.<pub-id pub-id-type="pmid">34056841</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0017"><mixed-citation publication-type="journal" id="nop270058-cit-0017">
+<string-name>
+<surname>Goodman</surname>, <given-names>B.</given-names>
+</string-name>
+<year>2011</year>. &#x0201c;<article-title>The Need for a &#x02018;Sustainability Curriculum&#x02019; in Nurse Education</article-title>.&#x0201d; <source>Nurse Education Today</source>
+<volume>31</volume>, no. <issue>8</issue>: <fpage>733</fpage>&#x02013;<lpage>737</lpage>.<pub-id pub-id-type="pmid">21232830</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0018"><mixed-citation publication-type="journal" id="nop270058-cit-0018">
+<string-name>
+<surname>Goodman</surname>, <given-names>B.</given-names>
+</string-name>
+<year>2016</year>. &#x0201c;<article-title>Developing the Concept of Sustainability in Nursing</article-title>.&#x0201d; <source>Nursing Philosophy</source>
+<volume>17</volume>, no. <issue>4</issue>: <fpage>298</fpage>&#x02013;<lpage>306</lpage>.<pub-id pub-id-type="pmid">27456540</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0019"><mixed-citation publication-type="miscellaneous" id="nop270058-cit-0019">
+<string-name>
+<surname>Goodman</surname>, <given-names>B.</given-names>
+</string-name>, and <string-name>
+<given-names>L.</given-names>
+<surname>East</surname>
+</string-name>. <year>2013</year>. <article-title>&#x0201c;The &#x02018;Sustainability Lens&#x02019;: A Framework for Nurse Education That Is &#x02018;Fit for the Future&#x02019;.&#x0201d;</article-title>
+<italic toggle="yes">Nurse Education Today</italic> [online] March 18th. <ext-link xlink:href="http://www.nurseeducationtoday.com/article/S02606917(13)000671/abstract" ext-link-type="uri">http://www.nurseeducationtoday.com/article/S02606917(13)000671/abstract</ext-link>.</mixed-citation></ref><ref id="nop270058-bib-0057"><mixed-citation publication-type="journal" id="nop270058-cit-0057">
+<string-name>
+<surname>Hong</surname>, <given-names>Q. N.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>F&#x000e0;bregues</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Bartlett</surname>
+</string-name>, et&#x000a0;al. <year>2018</year>. &#x0201c;<article-title>The Mixed Methods Appraisal Tool (MMAT) Version 2018 for Information Professionals and Researchers</article-title>.&#x0201d; <source>Education for Information</source>
+<volume>34</volume>, no. <issue>4</issue>: <fpage>285</fpage>&#x02013;<lpage>291</lpage>.</mixed-citation></ref><ref id="nop270058-bib-0020"><mixed-citation publication-type="journal" id="nop270058-cit-0020">
+<string-name>
+<surname>Howell</surname>, <given-names>R. A.</given-names>
+</string-name>
+<year>2021</year>. &#x0201c;<article-title>Engaging Students in Education for Sustainable Development: The Benefits of Active Learning, Reflective Practices and Flipped Classroom Pedagogies</article-title>.&#x0201d; <source>Journal of Cleaner Production</source>
+<volume>325</volume>: <elocation-id>129318</elocation-id>.</mixed-citation></ref><ref id="nop270058-bib-0021"><mixed-citation publication-type="journal" id="nop270058-cit-0021">
+<string-name>
+<surname>Hsieh</surname>, <given-names>H.&#x02010;F.</given-names>
+</string-name>, and <string-name>
+<given-names>S. E.</given-names>
+<surname>Shannon</surname>
+</string-name>. <year>2005</year>. &#x0201c;<article-title>Three Approaches to Qualitative Content Analysis</article-title>.&#x0201d; <source>Qualitative Health Research</source>
+<volume>15</volume>: <fpage>1277</fpage>&#x02013;<lpage>1288</lpage>.<pub-id pub-id-type="pmid">16204405</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0022"><mixed-citation publication-type="journal" id="nop270058-cit-0022">
+<string-name>
+<surname>Huss</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<given-names>M. N.</given-names>
+<surname>Ikiugu</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Hackett</surname>
+</string-name>, <string-name>
+<given-names>P. E.</given-names>
+<surname>Sheffield</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Palipane</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Groome</surname>
+</string-name>. <year>2020</year>. &#x0201c;<article-title>Education for Sustainable Health Care: From Learning to Professional Practice</article-title>.&#x0201d; <source>Medical Teacher</source>
+<volume>42</volume>, no. <issue>10</issue>: <fpage>1097</fpage>&#x02013;<lpage>1101</lpage>.<pub-id pub-id-type="pmid">32734808</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0023"><mixed-citation publication-type="miscellaneous" id="nop270058-cit-0023">
+<collab collab-type="authors">International Council of Nurses</collab>
+. <year>2017</year>. <article-title>&#x0201c;Nurses' Role in Achieving the Sustainable Development Goals.&#x0201d;</article-title>
+<ext-link xlink:href="https://www.icn.ch/membership/specialist-affiliates/nursing-policy/icn-strategic-priorities/sustainable-development#:~:text=Nurses%2C%20as%20the%20primary%20providers,world%20leaders%2C%20we%20cannot%20succeed" ext-link-type="uri">https://www.icn.ch/membership/specialist&#x02010;affiliates/nursing&#x02010;policy/icn&#x02010;strategic&#x02010;priorities/sustainable&#x02010;development#:~:text=Nurses%2C%20as%20the%20primary%20providers,world%20leaders%2C%20we%20cannot%20succeed</ext-link>.0537888522.</mixed-citation></ref><ref id="nop270058-bib-0024"><mixed-citation publication-type="miscellaneous" id="nop270058-cit-0024">
+<collab collab-type="authors">Joanna Briggs Institute</collab>
+. <year>2014</year>. <article-title>&#x0201c;JBI Critical Appraisal Checklist for Systematic Reviews and Research Syntheses.&#x0201d;</article-title> 20203 04315. <ext-link xlink:href="https://joannabriggs.org/sites/default/files/2019305/JBI_Critical_Appraisal3Checklist_for_Systematic_Reviews2017_0.pdf" ext-link-type="uri">https://joannabriggs.org/sites/default/files/2019305/JBI_Critical_Appraisal3Checklist_for_Systematic_Reviews2017_0.pdf</ext-link>.</mixed-citation></ref><ref id="nop270058-bib-0025"><mixed-citation publication-type="journal" id="nop270058-cit-0025">
+<string-name>
+<surname>Joseph</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<given-names>B. C.</given-names>
+<surname>Phillips</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Edmonson</surname>
+</string-name>, et&#x000a0;al. <year>2021</year>. &#x0201c;<article-title>The Nurse Leader's Role: A Conduit for Professional Identity Formation and Sustainability</article-title>.&#x0201d; <source>Nurse Leader</source>
+<volume>19</volume>, no. <issue>1</issue>: <fpage>27</fpage>&#x02013;<lpage>32</lpage>.</mixed-citation></ref><ref id="nop270058-bib-0026"><mixed-citation publication-type="journal" id="nop270058-cit-0026">
+<string-name>
+<surname>Kitt&#x02010;Lewis</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Adam</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Buckland</surname>
+</string-name>, et&#x000a0;al. <year>2020</year>. &#x0201c;<article-title>Creating a Generation of Sustainable Nurses: Sustainability Efforts in Nursing Education</article-title>.&#x0201d; <source>Nursing Clinics</source>
+<volume>55</volume>, no. <issue>1</issue>: <fpage>1</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">32005358</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0027"><mixed-citation publication-type="journal" id="nop270058-cit-0027">
+<string-name>
+<surname>Lawlis</surname>, <given-names>T. R.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Anson</surname>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Greenfield</surname>
+</string-name>. <year>2014</year>. &#x0201c;<article-title>Barriers and Enablers That Influence Sustainable Interprofessional Education: A Literature Review</article-title>.&#x0201d; <source>Journal of Interprofessional Care</source>
+<volume>28</volume>, no. <issue>4</issue>: <fpage>305</fpage>&#x02013;<lpage>310</lpage>.<pub-id pub-id-type="pmid">24625198</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0028"><mixed-citation publication-type="journal" id="nop270058-cit-0028">
+<string-name>
+<surname>Leffers</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>R. M.</given-names>
+<surname>Levy</surname>
+</string-name>, <string-name>
+<given-names>P. K.</given-names>
+<surname>Nicholas</surname>
+</string-name>, and <string-name>
+<given-names>C. F.</given-names>
+<surname>Sweeney</surname>
+</string-name>. <year>2017</year>. &#x0201c;<article-title>Mandate for the Nursing Profession to Address Climate Change Through Nursing Education</article-title>.&#x0201d; <source>Journal of Nursing Scholarship</source>
+<volume>49</volume>, no. <issue>6</issue>: <fpage>679</fpage>&#x02013;<lpage>687</lpage>.<pub-id pub-id-type="pmid">28806483</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0029"><mixed-citation publication-type="journal" id="nop270058-cit-0029">
+<string-name>
+<surname>Lilienfeld</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<given-names>P. K.</given-names>
+<surname>Nicholas</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Breakey</surname>
+</string-name>, and <string-name>
+<given-names>I. B.</given-names>
+<surname>Corless</surname>
+</string-name>. <year>2018</year>. &#x0201c;<article-title>Addressing Climate Change Through a Nursing Lens Within the Framework of the United Nations Sustainable Development Goals</article-title>.&#x0201d; <source>Nursing Outlook</source>
+<volume>66</volume>, no. <issue>5</issue>: <fpage>482</fpage>&#x02013;<lpage>494</lpage>.<pub-id pub-id-type="pmid">30172574</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0030"><mixed-citation publication-type="journal" id="nop270058-cit-0030">
+<string-name>
+<surname>Lopez&#x02010;Medina</surname>, <given-names>I. M.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>&#x000c1;lvarez&#x02010;Nieto</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Grose</surname>
+</string-name>, et&#x000a0;al. <year>2019</year>. &#x0201c;<article-title>Competencies on Environmental Health and Pedagogical Approaches in the Nursing Curriculum: A Systematic Review of the Literature</article-title>.&#x0201d; <source>Nurse Education in Practice</source>
+<volume>37</volume>: <fpage>1</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">31002889</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0031"><mixed-citation publication-type="journal" id="nop270058-cit-0031">
+<string-name>
+<surname>Luque&#x02010;Alcaraz</surname>, <given-names>O. M.</given-names>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Aparicio&#x02010;Mart&#x000ed;nez</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gomera</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Vaquero&#x02010;Abell&#x000e1;n</surname>
+</string-name>. <year>2024</year>. &#x0201c;<article-title>The Environmental Awareness of Nurses as Environmentally Sustainable Health Care Leaders: A Mixed Method Analysis</article-title>.&#x0201d; <source>BMC Nursing</source>
+<volume>23</volume>, no. <issue>1</issue>: <elocation-id>229</elocation-id>.<pub-id pub-id-type="pmid">38570845</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0058"><mixed-citation publication-type="book" id="nop270058-cit-0058">
+<string-name>
+<surname>McKinnon</surname>, <given-names>T. H.</given-names>
+</string-name>, and <string-name>
+<given-names>J. J.</given-names>
+<surname>Fitzpatrick</surname>
+</string-name>. <year>2017</year>. &#x0201c;<part-title>Nursing Education Imperatives and the United Nations 2030 Agenda</part-title>.&#x0201d; In <source>A New Era in Global Health: Nursing and the United Nations 2030 Agenda for Sustainable Development</source>, <fpage>179</fpage>&#x02013;<lpage>190</lpage>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer Publishing Company, LLC</publisher-name>.</mixed-citation></ref><ref id="nop270058-bib-0032"><mixed-citation publication-type="journal" id="nop270058-cit-0032">
+<string-name>
+<surname>Mitchell</surname>, <given-names>R. C.</given-names>
+</string-name>
+<year>2011</year>. &#x0201c;<article-title>Sustaining Change on a Canadian Campus: Preparing Brock University for a Sustainability Audit</article-title>.&#x0201d; <source>International Journal of Sustainability in Higher Education</source>
+<volume>12</volume>, no. <issue>1</issue>: <fpage>7</fpage>&#x02013;<lpage>21</lpage>.</mixed-citation></ref><ref id="nop270058-bib-0060"><mixed-citation publication-type="journal" id="nop270058-cit-0060">
+<string-name>
+<surname>Moher</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Liberati</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Tetzlaff</surname>
+</string-name>, <string-name>
+<given-names>D. G.</given-names>
+<surname>Altman</surname>
+</string-name>, and <collab collab-type="authors">PRISMA Group</collab>
+. <year>2009</year>. &#x0201c;<article-title>Preferred Reporting Items for Systematic Reviews and Meta&#x02010;Analyses: The PRISMA Statement (Chinese Edition)</article-title>.&#x0201d; <source>Journal of Integrative Medicine</source>
+<volume>7</volume>, no. <issue>9</issue>: <fpage>889</fpage>&#x02013;<lpage>896</lpage>.</mixed-citation></ref><ref id="nop270058-bib-0033"><mixed-citation publication-type="miscellaneous" id="nop270058-cit-0033">
+<string-name>
+<surname>Moola</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Munn</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Tufanaru</surname>
+</string-name>, et&#x000a0;al. <year>2017</year>. <article-title>&#x0201c;Checklist for Analytical Cross Sectional Studies.&#x0201d;</article-title> Joanna Briggs Institute Reviewer's Manual, 1&#x02013;7.</mixed-citation></ref><ref id="nop270058-bib-0034"><mixed-citation publication-type="journal" id="nop270058-cit-0034">
+<string-name>
+<surname>Osingada</surname>, <given-names>C. P.</given-names>
+</string-name>, and <string-name>
+<given-names>C. M.</given-names>
+<surname>Porta</surname>
+</string-name>. <year>2020</year>. &#x0201c;<article-title>Nursing and Sustainable Development Goals (SDGs) in a COVID&#x02010;19 World: The State of the Science and a Call for Nursing to Lead</article-title>.&#x0201d; <source>Public Health Nursing</source>
+<volume>37</volume>, no. <issue>5</issue>: <fpage>799</fpage>&#x02013;<lpage>805</lpage>.<pub-id pub-id-type="pmid">32716089</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0035"><mixed-citation publication-type="journal" id="nop270058-cit-0035">
+<string-name>
+<surname>Page</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<given-names>J. E.</given-names>
+<surname>McKenzie</surname>
+</string-name>, <string-name>
+<given-names>P. M.</given-names>
+<surname>Bossuyt</surname>
+</string-name>, et&#x000a0;al. <year>2021</year>. &#x0201c;<article-title>The PRISMA 2020 Statement: An Updated Guideline for Reporting Systematic Reviews</article-title>.&#x0201d; <source>BMJ</source>
+<volume>372</volume>: <elocation-id>n71</elocation-id>.<pub-id pub-id-type="pmid">33782057</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0036"><mixed-citation publication-type="journal" id="nop270058-cit-0036">
+<string-name>
+<surname>Richardson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Grose</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Doman</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Kelsey</surname>
+</string-name>. <year>2014</year>. &#x0201c;<article-title>The Use of Evidence&#x02010;Informed Sustainability Scenarios in the Nursing Curriculum: Development and Evaluation of Teaching Methods</article-title>.&#x0201d; <source>Nurse Education Today</source>
+<volume>34</volume>, no. <issue>4</issue>: <fpage>490</fpage>&#x02013;<lpage>493</lpage>.<pub-id pub-id-type="pmid">23948087</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0037"><mixed-citation publication-type="journal" id="nop270058-cit-0037">
+<string-name>
+<surname>Richardson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Heidenreich</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>&#x000c1;lvarez&#x02010;Nieto</surname>
+</string-name>, et&#x000a0;al. <year>2016</year>. &#x0201c;<article-title>Including Sustainability Issues in Nurse Education: A Comparative Study of First Year Student Nurses' Attitudes in Four European Countries</article-title>.&#x0201d; <source>Nurse Education Today</source>
+<volume>37</volume>: <fpage>15</fpage>&#x02013;<lpage>20</lpage>.<pub-id pub-id-type="pmid">26646207</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0038"><mixed-citation publication-type="journal" id="nop270058-cit-0038">
+<string-name>
+<surname>Roden</surname>, <given-names>J. E.</given-names>
+</string-name>, and <string-name>
+<given-names>T.</given-names>
+<surname>Lewis</surname>
+</string-name>. <year>2021</year>. &#x0201c;<article-title>Looking Beyond Nursing Education Practice to Include Sustainable Health&#x02010;Care Systems Processes</article-title>.&#x0201d; <source>Creative Nursing</source>
+<volume>27</volume>, no. <issue>4</issue>: <fpage>251</fpage>&#x02013;<lpage>256</lpage>.<pub-id pub-id-type="pmid">34903628</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0039"><mixed-citation publication-type="journal" id="nop270058-cit-0039">
+<string-name>
+<surname>Rodgers</surname>, <given-names>B. L.</given-names>
+</string-name>, <string-name>
+<given-names>C. S.</given-names>
+<surname>Jacelon</surname>
+</string-name>, and <string-name>
+<given-names>K. A.</given-names>
+<surname>Knafl</surname>
+</string-name>. <year>2018</year>. &#x0201c;<article-title>Concept Analysis and the Advance of Nursing Knowledge: State of the Science</article-title>.&#x0201d; <source>Journal of Nursing Scholarship</source>
+<volume>50</volume>, no. <issue>4</issue>: <fpage>451</fpage>&#x02013;<lpage>459</lpage>.<pub-id pub-id-type="pmid">29689127</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0040"><mixed-citation publication-type="book" id="nop270058-cit-0040">
+<person-group person-group-type="editor">
+<string-name>
+<surname>Rosa</surname>, <given-names>W.</given-names>
+</string-name>
+</person-group>, and <person-group person-group-type="editor">
+<string-name>
+<given-names>C.</given-names>
+<surname>Coach</surname>
+</string-name>
+</person-group>, eds. <year>2017</year>. <source>A New Era in Global Health: Nursing and the United Nations 2030 Agenda for Sustainable Development</source>. New York, NY: <publisher-name>Springer Publishing Company</publisher-name>.</mixed-citation></ref><ref id="nop270058-bib-0041"><mixed-citation publication-type="journal" id="nop270058-cit-0041">
+<string-name>
+<surname>Rosa</surname>, <given-names>W. E.</given-names>
+</string-name>, <string-name>
+<given-names>A. E.</given-names>
+<surname>Kurth</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Sullivan&#x02010;Marx</surname>
+</string-name>, et&#x000a0;al. <year>2019</year>. &#x0201c;<article-title>Nursing and Midwifery Advocacy to Lead the United Nations Sustainable Development Agenda</article-title>.&#x0201d; <source>Nursing Outlook</source>
+<volume>67</volume>, no. <issue>6</issue>: <fpage>628</fpage>&#x02013;<lpage>641</lpage>.<pub-id pub-id-type="pmid">31420180</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0061"><mixed-citation publication-type="journal" id="nop270058-cit-0061">
+<string-name>
+<surname>Sendall</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Fleming</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Lidstone</surname>
+</string-name>. <year>2011</year>. &#x0201c;<article-title>Conceptions of School&#x02010;Based Youth Health Nursing</article-title>.&#x0201d; <source>British Journal of School Nursing</source>
+<volume>6</volume>, no. <issue>6</issue>: <fpage>294</fpage>&#x02013;<lpage>303</lpage>.</mixed-citation></ref><ref id="nop270058-bib-0042"><mixed-citation publication-type="journal" id="nop270058-cit-0042">
+<string-name>
+<surname>Sensor</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name>
+<given-names>P. S.</given-names>
+<surname>Branden</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Clary&#x02010;Muronda</surname>
+</string-name>, et&#x000a0;al. <year>2021</year>. &#x0201c;<article-title>Nurses Achieving the Sustainable Development Goals: The United Nations and Sigma</article-title>.&#x0201d; <source>American Journal of Nursing</source>
+<volume>121</volume>, no. <issue>4</issue>: <fpage>65</fpage>&#x02013;<lpage>68</lpage>.</mixed-citation></ref><ref id="nop270058-bib-0043"><mixed-citation publication-type="journal" id="nop270058-cit-0043">
+<string-name>
+<surname>Sherman</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Thiel</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>MacNeill</surname>
+</string-name>, et&#x000a0;al. <year>2020</year>. &#x0201c;<article-title>The Green Print: Advancement of Environmental Sustainability in Healthcare</article-title>.&#x0201d; <source>Resources, Conservation and Recycling</source>
+<volume>161</volume>: <elocation-id>104882</elocation-id>.</mixed-citation></ref><ref id="nop270058-bib-0044"><mixed-citation publication-type="journal" id="nop270058-cit-0044">
+<string-name>
+<surname>&#x0015e;im&#x0015f;ek</surname>, <given-names>H. G.</given-names>
+</string-name>, and <string-name>
+<given-names>&#x000d6;.</given-names>
+<surname>Erkin</surname>
+</string-name>. <year>2022</year>. &#x0201c;<article-title>Sustainable Development Awareness and Related Factors in Nursing Students: A Correlational Descriptive Study</article-title>.&#x0201d; <source>Nurse Education in Practice</source>
+<volume>64</volume>: <elocation-id>103420</elocation-id>.<pub-id pub-id-type="pmid">35952472</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0045"><mixed-citation publication-type="journal" id="nop270058-cit-0045">
+<string-name>
+<surname>Smith</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Fleming</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Allen</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Baker</surname>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Gallagher</surname>
+</string-name>. <year>2020</year>. &#x0201c;<article-title>Occupational Therapy and Environmental Sustainability: A Scoping Review</article-title>.&#x0201d; <source>Annals of International Occupational Therapy</source>
+<volume>3</volume>, no. <issue>3</issue>: <fpage>136</fpage>&#x02013;<lpage>143</lpage>.</mixed-citation></ref><ref id="nop270058-bib-0046"><mixed-citation publication-type="journal" id="nop270058-cit-0046">
+<string-name>
+<surname>Thompson</surname>, <given-names>M. R.</given-names>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Schwartz Barcott</surname>
+</string-name>. <year>2017</year>. &#x0201c;<article-title>The Concept of Exposure in Environmental Health for Nursing</article-title>.&#x0201d; <source>Journal of Advanced Nursing</source>
+<volume>73</volume>, no. <issue>6</issue>: <fpage>1315</fpage>&#x02013;<lpage>1330</lpage>.<pub-id pub-id-type="pmid">28000242</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0047"><mixed-citation publication-type="journal" id="nop270058-cit-0047">
+<string-name>
+<surname>Ubochi</surname>, <given-names>N. E.</given-names>
+</string-name>, <string-name>
+<given-names>T. A.</given-names>
+<surname>Ehwarieme</surname>
+</string-name>, <string-name>
+<given-names>A. N.</given-names>
+<surname>Anarado</surname>
+</string-name>, and <string-name>
+<given-names>E. O.</given-names>
+<surname>Oyibocha</surname>
+</string-name>. <year>2019</year>. &#x0201c;<article-title>Building a Strong and Sustainable Health Care System in Nigeria: The Role of the Nurse</article-title>.&#x0201d; <source>International Journal of Nursing and Midwifery</source>
+<volume>11</volume>, no. <issue>7</issue>: <fpage>61</fpage>&#x02013;<lpage>67</lpage>.</mixed-citation></ref><ref id="nop270058-bib-0048"><mixed-citation publication-type="miscellaneous" id="nop270058-cit-0048">
+<collab collab-type="authors">United Nations Educational, Scientific and Cultural Organization (UNESCO)</collab>
+. <year>2017</year>. <article-title>&#x0201c;Education for Sustainable Development Goals: Learning Objectives.&#x0201d;</article-title>
+<ext-link xlink:href="https://unesdoc.unesco.org/ark:/48223/pf0000247444" ext-link-type="uri">https://unesdoc.unesco.org/ark:/48223/pf0000247444</ext-link>.</mixed-citation></ref><ref id="nop270058-bib-0049"><mixed-citation publication-type="journal" id="nop270058-cit-0049">
+<string-name>
+<surname>Upvall</surname>, <given-names>M. J.</given-names>
+</string-name>, and <string-name>
+<given-names>G.</given-names>
+<surname>Luzincourt</surname>
+</string-name>. <year>2019</year>. &#x0201c;<article-title>Global Citizens, Healthy Communities: Integrating the Sustainable Development Goals Into the Nursing Curriculum</article-title>.&#x0201d; <source>Nursing Outlook</source>
+<volume>67</volume>, no. <issue>6</issue>: <fpage>649</fpage>&#x02013;<lpage>657</lpage>.<pub-id pub-id-type="pmid">31439322</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0050"><mixed-citation publication-type="book" id="nop270058-cit-0050">
+<string-name>
+<surname>Walker</surname>, <given-names>L. O.</given-names>
+</string-name>, and <string-name>
+<given-names>C.</given-names>
+<surname>Avant</surname>
+</string-name>. <year>2011</year>. <source>Strategies for Theory Construction in Nursing</source>. <edition designator="5">5th ed</edition>. <publisher-loc>Upper Saddle River, NJ</publisher-loc>: <publisher-name>Prentice Hall</publisher-name>.</mixed-citation></ref><ref id="nop270058-bib-0051"><mixed-citation publication-type="book" id="nop270058-cit-0051">
+<string-name>
+<surname>Walker</surname>, <given-names>L. O.</given-names>
+</string-name>, and <string-name>
+<given-names>K. C.</given-names>
+<surname>Avant</surname>
+</string-name>. <year>2005</year>. <source>Strategies for Theory Construction in Nursing</source>. Vol. <volume>4</volume>. <publisher-loc>Upper Saddle River, NJ</publisher-loc>: <publisher-name>Pearson/Prentice Hall</publisher-name>.</mixed-citation></ref><ref id="nop270058-bib-0059"><mixed-citation publication-type="journal" id="nop270058-cit-0059">
+<string-name>
+<surname>Walpole</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Barna</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Richardson</surname>
+</string-name>, and <string-name>
+<given-names>H. A.</given-names>
+<surname>Rother</surname>
+</string-name>. <year>2019</year>. &#x0201c;<article-title>Sustainable Healthcare Education: Integrating Planetary Health into Clinical Education</article-title>.&#x0201d; <source>Lancet Planetary Health</source>
+<volume>3</volume>, no. <issue>1</issue>: <fpage>e6</fpage>&#x02013;<lpage>e7</lpage>. <pub-id pub-id-type="doi">10.1016/s2542-5196(18)30246-8</pub-id>.<pub-id pub-id-type="pmid">30654868</pub-id>
+</mixed-citation></ref><ref id="nop270058-bib-0052"><mixed-citation publication-type="journal" id="nop270058-cit-0052">
+<string-name>
+<surname>Ward</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Heart</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Richards</surname>
+</string-name>, et&#x000a0;al. <year>2022</year>. &#x0201c;<article-title>Reimagining the Role of Nursing Education in Emissions Reduction</article-title>.&#x0201d; <source>Teaching and Learning in Nursing</source>
+<volume>17</volume>, no. <issue>4</issue>: <fpage>410</fpage>&#x02013;<lpage>416</lpage>.</mixed-citation></ref><ref id="nop270058-bib-0053"><mixed-citation publication-type="miscellaneous" id="nop270058-cit-0053">
+<collab collab-type="authors">World Health Organization</collab>
+. <year>1978</year>. <article-title>&#x0201c;Primary Health Care: Report of the International Conference on Primary Health Care, Alma&#x02010;Ata, USSR, 6&#x02013;12 September 1978.&#x0201d;</article-title>
+<ext-link xlink:href="https://www.who.int/publications/i/item/9241800011" ext-link-type="uri">https://www.who.int/publications/i/item/9241800011</ext-link>.</mixed-citation></ref><ref id="nop270058-bib-0054"><mixed-citation publication-type="miscellaneous" id="nop270058-cit-0054">
+<collab collab-type="authors">World Health Organization</collab>
+. <year>2016</year>. <article-title>&#x0201c;Global Strategic Directions for Strengthening Nursing and Midwifery 2016&#x02013;2020.&#x0201d;</article-title>
+<ext-link xlink:href="https://iris.who.int/bitstream/handle/10665/275453/9789241510455-eng.pdf" ext-link-type="uri">https://iris.who.int/bitstream/handle/10665/275453/9789241510455&#x02010;eng.pdf</ext-link>.</mixed-citation></ref><ref id="nop270058-bib-0055"><mixed-citation publication-type="miscellaneous" id="nop270058-cit-0055">
+<collab collab-type="authors">World Health Organization</collab>
+. <year>2020</year>. <article-title>&#x0201c;State of the World's Nursing 2020: Investing in Education, Jobs and Leadership.&#x0201d;</article-title>
+<ext-link xlink:href="https://www.who.int/publications/i/item/9789240003279" ext-link-type="uri">https://www.who.int/publications/i/item/9789240003279</ext-link>.</mixed-citation></ref><ref id="nop270058-bib-0056"><mixed-citation publication-type="miscellaneous" id="nop270058-cit-0056">
+<collab collab-type="authors">World Health Organization</collab>
+. <year>2024</year>. <article-title>&#x0201c;The Ottawa Charter for Health Promotion.&#x0201d;</article-title>
+<ext-link xlink:href="https://www.who.int/teams/health-promotion/enhanced-wellbeing/first-global-conference" ext-link-type="uri">https://www.who.int/teams/health&#x02010;promotion/enhanced&#x02010;wellbeing/first&#x02010;global&#x02010;conference</ext-link>.</mixed-citation></ref></ref-list></back></article>

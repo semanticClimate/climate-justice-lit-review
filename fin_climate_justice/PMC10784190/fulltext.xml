@@ -1,0 +1,949 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="gch21573" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Glob Chall</journal-id><journal-id journal-id-type="iso-abbrev">Glob Chall</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2056-6646</journal-id><journal-id journal-id-type="publisher-id">GCH2</journal-id><journal-title-group><journal-title>Global Challenges</journal-title></journal-title-group><issn pub-type="epub">2056-6646</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">10784190</article-id><article-id pub-id-type="doi">10.1002/gch2.202300089</article-id><article-id pub-id-type="publisher-id">GCH21573</article-id><article-categories><subj-group subj-group-type="overline"><subject>Perspective</subject></subj-group><subj-group subj-group-type="heading"><subject>Perspectives</subject></subj-group></article-categories><title-group><article-title>Carbon Pricing is not Unjust</article-title></title-group><contrib-group><contrib id="gch21573-cr-0001" contrib-type="author" corresp="yes"><name><surname>Mintz&#x02010;Woo</surname><given-names>Kian</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9216-9561</contrib-id><xref rid="gch21573-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="gch21573-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>mintzwoo@ucc.ie</email></address></contrib></contrib-group><aff id="gch21573-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Philosophy &#x00026; Environmental Research Institute</named-content>
+<institution>University College Cork</institution>
+<city>Cork</city>
+<postal-code>T12 Y1F1</postal-code>
+<country country="IE">Ireland</country>
+</aff><aff id="gch21573-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Equity and Justice Group</named-content>
+<institution>International Institute for Applied Systems Analysis</institution>
+<city>Laxenburg</city>
+<postal-code>A&#x02010;2361</postal-code>
+<country country="AT">Austria</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>E&#x02010;mail: <email>mintzwoo@ucc.ie</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2024</year></pub-date><volume>8</volume><issue seq="40">1</issue><issue-id pub-id-type="doi">10.1002/gch2.v8.1</issue-id><elocation-id>2300089</elocation-id><history>
+<date date-type="rev-recd"><day>06</day><month>11</month><year>2023</year></date>
+<date date-type="received"><day>26</day><month>4</month><year>2023</year></date>
+</history><permissions><!--&#x000a9; 2024 Wiley&#x02010;VCH GmbH--><copyright-statement content-type="article-copyright">&#x000a9; 2023 The Authors. Global Challenges published by Wiley&#x02010;VCH GmbH</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:GCH2-8-2300089.pdf"/><abstract><title>Abstract</title><p>The aim of this perspective is to argue that carbon pricing is not unjust. Two important dimensions of justice are distributive and procedural (sometimes called &#x0201c;participatory&#x0201d;) justice. In terms of distributive justice, it is argued that carbon pricing can be made distributionally just through revenue recycling and that it should be expected that even neutral reductions in emissions will generate progressive benefits, both internationally and regionally. In terms of procedural justice, it is argued that carbon pricing is in principle compatible with any procedure; however, there is also a particular morally justifiable procedure, the Citizens&#x02019; Assembly, which has been implemented in Ireland on this precise question and has generated broad agreement on carbon pricing. It is suggested that this morally matters because such groups are like &#x0201c;ideal advisors&#x0201d; that offer morally important advice. Finally, an independent objection is offered to some ambitious alternatives to carbon pricing like Green New Deal&#x02010;type frameworks, frameworks that aim to simultaneously tackle multiple social challenges. The objection is that these will take too long to work in a climate context, both to develop and to iterate.</p></abstract><abstract id="gch21573-abs-0001" abstract-type="graphical"><p>Some have suggested that policies for pricing carbon are unjust. But what does &#x0201c;unjust&#x0201d; mean? This Perspective argues that carbon pricing polices are not unjust, both distributionally (whether carbon pricing is net regressive) and procedurally (whether carbon pricing would be endorsed by ideal informed observers). Finally, it defends carbon pricing policies from the objection that they are insufficiently systemic changes.
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="GCH2-8-2300089-g001.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="gch21573-kwd-0001">carbon pricing</kwd><kwd id="gch21573-kwd-0002">carbon taxes</kwd><kwd id="gch21573-kwd-0003">climate ethics</kwd><kwd id="gch21573-kwd-0004">climate justice</kwd><kwd id="gch21573-kwd-0005">distributive justice</kwd></kwd-group><counts><fig-count count="1"/><table-count count="0"/><page-count count="8"/><word-count count="8260"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2024</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.6 mode:remove_FC converted:11.01.2024</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="gch21573-cit-0056">
+<string-name>
+<given-names>K.</given-names>
+<surname>Mintz&#x02010;Woo</surname>
+</string-name>, <article-title>Carbon Pricing is not Unjust</article-title>. <source>Global Challenges</source>
+<year>2024</year>, <volume>8</volume>, <elocation-id>2300089</elocation-id>. <pub-id pub-id-type="doi">10.1002/gch2.202300089</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="gch21573-sec-0010"><label>1</label><title>Introduction</title><p>A major source of tension in society about climate policy revolves around whether to support or adopt climate pricing policies. Climate pricing includes both carbon taxes (&#x0201c;pricing instruments&#x0201d;), where a fixed cost is added for each ton of carbon dioxide emitted, and cap&#x02010;and&#x02010;trade systems (&#x0201c;quantity instruments&#x0201d;), where a fixed volume of emissions (a &#x0201c;cap&#x0201d;) is subjected to allowances that can be bought and sold (&#x0201c;traded&#x0201d;). Since the volume is fixed, cap&#x02010;and&#x02010;trade systems also generate a carbon price, albeit indirectly.</p><p>In ideal contexts, pricing and quantity instruments perform the same function. Furthermore, in ideal contexts, they apply uniformly and cannot be avoided (e.g., through exemptions). Why is this ideal? There is a political and a philosophical answer. The political answer is that a uniform carbon price avoids the optics of a government picking certain industries or firms and privileging them over others. The philosophical answer is that it would be unfair: a carbon price is meant to disincentivize carbon emissions. If some embedded emissions are priced less highly than others, then this would incentivize more emissions in those contexts and, furthermore, would not give a market signal to find less carbon&#x02010;intensive production methods, <italic toggle="yes">wherever</italic> they may be found. Furthermore, the theory of Pigouvian taxes requires that fungible quantities are taxed uniformly; divergent carbon prices would suggest that the same pollutant generates different negative externalities, even though CO<sub>2</sub> mixes uniformly in the atmosphere. If the price in a pricing instrument is optimal, it will lead to an optimal volume of emissions (i.e., emissions such that the social benefit exceeds the social (climate) cost). If the cap in a quantity instrument is optimal, it will lead to an optimal price on allowances, since firms will be willing to pay for allowances up to the point at which it is no longer profitable to emit. If designed carefully, both involve payments to the government (carbon taxes directly and cap&#x02010;and&#x02010;trade systems if the allowances are auctioned off), and the resultant government revenue can be used for a range of purposes. Although we are not in ideal contexts, and there are differences between these instruments in practice, their differences are less important with respect to the issues of justice I am interested in here. (Aside from these issues of justice, there are some other morally important differences between these types of carbon prices&#x02014;as well as differences with regulatory command&#x02010;and&#x02010;control instruments&#x02014;which are beyond the scope of this perspective. I canvass a variety of them elsewhere<sup>[</sup>
+<xref rid="gch21573-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup> and some other moral justifications for carbon pricing are based on the right to energy and the duty not to harm.<sup>[</sup>
+<xref rid="gch21573-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref>
+<sup>]</sup>)</p><p>In short, I will focus on a moral issue that has received a large amount of attention: is carbon pricing unjust? Some campaigners and civil society groups, especially those involved in environmental and climate justice spaces, have rejected carbon pricing as unjust. This claim deserves some discussion and, in this perspective, I discuss a few potential dimensions of justice that could be relevant to this claim. My goal is to show that, for the most important dimensions of justice, carbon pricing is not unjust as a policy instrument for addressing climate change. This is not to say that carbon pricing addresses climate change alone&#x02014;it is best thought of as part of a portfolio of climate policies that could be supplemented with things like behavioral nudges<sup>[</sup>
+<xref rid="gch21573-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+<sup>]</sup> and investments in climate innovations.<sup>[</sup>
+<xref rid="gch21573-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>
+<sup>]</sup>
+</p><p>I focus on two forms or dimensions of justice: distributive justice and procedural justice (sometimes called &#x0201c;participatory justice&#x0201d;). Distributive justice has to do with what we owe to each other in contexts with limited goods or resources. Procedural justice has to do with how decisions are made and whether they are representative, especially of particularly vulnerable groups. For instance, procedural justice can involve discussions of democratic legitimacy. There are other dimensions of justice, but those others are much more contested&#x02014;and many of them are also less relevant or determinate in the sense that it is less clear how they apply in this context or how distinctive the issues they raise are. (For instance, political discussions often employ the term &#x0201c;social justice&#x0201d;, but social justice includes both distributive justice&#x02014;in terms of attending to and lessening socio&#x02010;economic vulnerability&#x02014;and procedural justice&#x02014;in terms of making sure that civil society and ordinary people are able to affect the policies and decisions that they may have a stake in. In my view, the term &#x0201c;social justice&#x0201d; does not identify a new form of justice but implicitly combines a variety of justice dimensions, thus making it more difficult to focus on any of them.)</p></sec><sec id="gch21573-sec-0020"><label>2</label><title>Dimensions of Justice and Carbon Pricing</title><p>Before considering the justice of carbon pricing, it is worth trying to understand some of what the campaigners objecting to carbon pricing are saying. To illustrate, we can begin with the Green New Deal, which has attracted a lot of support among campaigners in the United States (and can be contrasted with policies like carbon pricing). While not a policy proposal (or even a set of policy proposals), the Green New Deal (as discussed in United States House Resolution 109) sets forth an ambitious policy <italic toggle="yes">framework</italic> or set of goals, including guaranteed wages, high&#x02010;quality healthcare, adequate housing and access to a clean environment.<sup>[</sup>
+<xref rid="gch21573-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+<sup>]</sup> In a book arguing for a Green New Deal&#x02010;type framework, Naomi Klein writes that:</p><p>given how far down [the road to climate crisis] we are, there is no point pretending that [options] are going to be easy. It's going to take a lot more than a carbon tax or cap&#x02010;and&#x02010;trade. It's going to take an all&#x02010;out war on pollution and poverty and racism and colonialism and despair all at the same time.[<xref rid="gch21573-bib-0004" ref-type="bibr">4</xref>, pp. 50&#x02013;51]</p><p>This type of cri du coeur exemplifies the goals of some critics of carbon pricing; they prefer to support framework proposals that ambitiously tackle a variety of social ills that they believe are inextricable from climate harm. (However, even here, it is important to note that there may be more agreement than is apparent; for instance, contra Klein, proponents of carbon pricing do not think that it will only take carbon pricing policies to address climate change<sup>[</sup>
+<xref rid="gch21573-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+<sup>]</sup> so Klein might be objecting to a strawman opponent.)</p><p>Since, like all other policies, carbon pricing will not adequately address climate change in isolation, the question is would carbon pricing increase the likelihood of just outcomes in terms of various forms of justice, whether distributive and procedural (or racial and gender and recognitional and&#x02026;)? More precisely, would carbon pricing increase this likelihood compared to the status quo or compared to a robust, Green New Deal&#x02010;style, policy framework?</p><p>It is true that, if we endorse the goals of the Green New Deal&#x02010;style framework and if it were to be successfully adopted and enacted, it would have much greater direct effects on society and address far more forms of injustice. However, there are two caveats. In this section, I offer a first caveat: that carbon pricing can also, albeit indirectly, promote several dimensions of injustice, such as distributive and racial justice, potentially laying the groundwork for greater gains, so the comparative advantage of Green New Deal&#x02010;style frameworks is not as great as they may initially appear (&#x000a7;2.1). Furthermore, I will defend the claim that carbon pricing is consistent with procedural justice&#x02014;indeed, we have some reason to believe that procedurally just, democratic processes would positively <italic toggle="yes">support</italic> carbon pricing policies (&#x000a7;2.2). In the following section, I offer a second caveat: that the evaluation of policy options should reflect their fit to the problems they are meant to solve (&#x000a7;3). I argue that the timescale of large&#x02010;scale social change is a poor fit to address the climate challenge.</p><sec id="gch21573-sec-0030"><label>2.1</label><title>Distributive Justice</title><p>It is certainly the case that fairness and distributive justice matter for the acceptance of carbon pricing policies.<sup>[</sup>
+<xref rid="gch21573-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="gch21573-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>
+<sup>]</sup> If so, it matters whether carbon pricing can promote distributive justice. I will argue that it can if revenue recycling is used to offset the regressivity of the initial incidence of carbon prices. Many intuitively believe that the initial incidence of carbon prices is unfair or will be regressive, i.e., will disproportionately fall on those with lower incomes,<sup>[</sup>
+<xref rid="gch21573-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>]</sup> but this intuition fails to take into account the capacity to redistribute revenues from carbon pricing.<sup>[</sup>
+<xref rid="gch21573-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup>
+</p><p>We can start with the initial incidence of carbon prices, meaning the effect of the carbon prices alone and how regressive or progressive (whether this effect is borne disproportionately by the less or more well&#x02010;off). That the <italic toggle="yes">initial</italic> incidence is regressive is broadly true in <italic toggle="yes">developed</italic> economies&#x02014;but is not internationally true (e.g., in countries where only the wealthy can afford private cars, increases in oil prices will affect the wealthy but miss affecting those less well&#x02010;off, generating an overall progressive effect).<sup>[</sup>
+<xref rid="gch21573-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="gch21573-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+<sup>]</sup>
+</p><p>Whether a policy is overall regressive or progressive is agreed to be of importance across the spectrum of distributive justice theorists. In short, this is because most justice theorists believe that current levels of inequality are unjust. Furthermore, distributive justice theorists, ranging from utilitarian and prioritarian to sufficientarian and egalitarian, endorse the importance of reducing material inequalities, albeit for different reasons.<sup>[</sup>
+<xref rid="gch21573-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="gch21573-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>]</sup> Utilitarians believe that redistribution from the wealthiest to the poorest would more effectively generate utility or welfare.<sup>[</sup>
+<xref rid="gch21573-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+<sup>]</sup> Prioritarians agree but believe, moreover, that we should weight the utility or welfare of those with less even more strongly than the welfare benefits of redistribution imply&#x02014;justifying even greater redistribution. Sufficientarians are concerned about those with low levels of resources who fall below some basic or minimal threshold, which justifies redistribution toward those in poverty since poverty on most accounts brings people below that basic or minimal threshold.<sup>[</sup>
+<xref rid="gch21573-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+<sup>]</sup> Finally, egalitarians believe that it is intrinsically valuable for resources to be equally distributed. For all of these theorists, therefore, distributive justice would be served by redistribution from those with the most to those with the least. In short, then, a policy is distributively <italic toggle="yes">unjust</italic> if the net effect is to increase inequality (i.e., if the policy has regressive effects), while a policy is distributively just if the net effect is not to increase inequality (i.e., if the policy has proportional or progressive effects).</p><p>However, when we turn to the overall effect of carbon pricing, including both the initial incidence and the effects of revenue recycling, it may be progressive or <italic toggle="yes">increasing</italic> of distributive justice, since the revenues can be distributed to offset any regressivity from the initial incidence. For instance, Budolfson et&#x000a0;al.<sup>[</sup>
+<xref rid="gch21573-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup> find that aggressive mitigation spurred by a high carbon tax could lead to meeting the 2&#x000a0;&#x000b0;C target goal&#x02014;while reducing global inequality and global poverty by employing a basic equal per capita rebate. In other words, even if the initial incidence of a carbon price is negative&#x02014;and the revenue recycling is not intentionally progressive (equal per capita distributions are not responsive to current heterogeneity)&#x02014;the net impact can be significantly progressive (this work reinforces messages from others<sup>[</sup>
+<xref rid="gch21573-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup>).</p><p>It is worth mentioning an often misunderstood point. Some campaigners<sup>[</sup>
+<xref rid="gch21573-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+<sup>]</sup> point to massive estimates in carbon subsidies (e.g., the IMF found, for 2021, an estimated global USD $5.9 trillion in fossil fuel subsidies) and ask why we need a carbon tax when &#x0201c;there is more than enough money lying around in the public purse&#x0201d;. The issue is that, in everyday language, a &#x0201c;subsidy&#x0201d; is when the government actively pays to reduce costs for producers or consumers. However, estimates like the IMF's comprise both explicit and implicit subsidies.<sup>[</sup>
+<xref rid="gch21573-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+<sup>]</sup> Explicit subsidies are ones that are the active payments we might expect, but implicit subsidies are simply passive <italic toggle="yes">failures</italic> to properly price. Not only is this so, but the implicit subsidies also form the vast bulk of these estimates (e.g., in the IMF case, the explicit subsidies are &#x02248;8% of the total, and implicit subsidies are &#x02248;92%). &#x0201c;Removing&#x0201d; implicit subsidies just <italic toggle="yes">is</italic> carbon pricing&#x02014;and it is a significant commitment to carbon pricing! In short, although not everyone understands this, it is logically inconsistent to be against removing (explicit and implicit) subsidies and to be against carbon pricing.</p><p>It is also important to keep in mind that this progressive impact is a morally important <italic toggle="yes">indirect</italic> effect of carbon pricing; the primary goal of carbon pricing policy is to disincentivize emissions that are not sufficiently valuable. The idea here is that carbon pricing is meant to incentivize optimal pollution. This may sound like a contradiction in terms&#x02014;how could it be optimal to pollute the environment?&#x02014;but it is clear that in some circumstances it is socially valuable to produce emissions. For instance, if a person needs to get to a hospital quickly, emissions associated with driving that person are (in most if not all cases) socially justifiable. Why is this? It is because the social benefits of saving that person are much greater than the (real!) costs of increasing climate change. By making individuals pay the costs of climate change, they will get closer to making socially optimal decisions, i.e., ones where the social benefits (of their socially or financially productive activities) outweigh the climate harms that their emissions contribute. In many cases involving carbon generation today, people are not producing socially valuable outcomes on net; if an appropriate carbon price is introduced, many of these people will change their behavior. These shifts in behavior are likely to get us closer to optimality or efficient outcomes.</p><p>But even given that changing incentives is merely an indirect effect, it is notable that carbon pricing could promote distributive justice if the revenues are recycled properly. This point is fairly abstract, so it is worth demonstrating with a simple numerical example:</p><p>Suppose you are much richer than I am and spend $10000/month. I only spend $1000/month. A carbon tax is introduced and, because the initial incidence of a carbon tax is regressive, it hits me harder. Let us say that you end up being taxed effectively at 5% so you spend $500/month on this carbon tax. However, we assumed that the initial incidence is regressive since, for instance, more of my monthly spending is on products like gas. Suppose I end up being taxed 10% or $100/month. Now let us suppose the government simply divides up all the revenue and, using equal per capita distribution (i.e., without reference to anyone's wealth or contribution size), provides both of us with [$500/month + $100/month]/ 2 people = $300/month/person. You end up net $200 down (&#x02212;$500 + $300/month) but I end up $200 up (&#x02212;$100 + $300/month). In other words, even though the initial incidence of the tax we assumed to be regressive and even though we rebated the tax revenue in a non&#x02010;progressive (simply flat) way, the net result is still a progressive transfer from the richer to the poorer!<sup>[</sup>
+<xref rid="gch21573-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+<sup>]</sup>
+</p><p>One could respond by saying that there can be many other distributional effects beyond the tax incidence of a carbon price, ranging from sectoral impacts for carbon&#x02010;intensive industries to consumer impacts for different purchasing behaviors. So is it unfair or unjust that workers in carbon&#x02010;intensive (brown) sectors would have job impacts while workers in sustainable (green) sectors would benefit from greater demand?</p><p>While I certainly acknowledge these differential effects, I do not think they raise special questions of justice. The reason that I do not think these effects are morally unjust is straightforward; they are the result of the (implicit) social subsidies that were not warranted previously. These subsidies made brown production and consumption behavior more inexpensive than their social cost.</p><p>A critic could continue this line of questioning about whether this is unfair by suggesting that it is a shock to workers who trained and legitimately expected that their industries would continue to exist,<sup>[</sup>
+<xref rid="gch21573-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>]</sup> but I do not believe that workers are entitled to their jobs continuing. Sometimes demand shifts, and shifting demand due to social value is equally, if not more, justified as shifting demand due to consumer preferences.</p><p>Indeed, one could take a stronger position. Both philosophers<sup>[</sup>
+<xref rid="gch21573-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>
+<sup>]</sup> and economists<sup>[</sup>
+<xref rid="gch21573-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>
+<sup>]</sup> have argued that pricing policies should not be neutral between consumption behaviors, but instead provide extra disincentives to high carbon lifestyles over and above a good&#x02010;insensitive carbon price.<sup>[</sup>
+<xref rid="gch21573-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+<sup>]</sup>
+</p><p>Note that Budolfson et&#x000a0;al.&#x02019;s modeling suggests that carbon pricing policies are also consistent with meeting an ambitious target, like the 2&#x000b0;C target.<sup>[</sup>
+<xref rid="gch21573-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+<sup>]</sup> This addresses the concern that some campaigners have, one which Boyce<sup>[</sup>
+<xref rid="gch21573-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<sup>]</sup> calls the &#x0201c;false solution&#x0201d; objection: that carbon prices cannot make a meaningful difference in emissions. Although the primary purpose of this paper is to address justice considerations, it is worth pointing to some of the relevant empirical literature. On the one hand, there are concerns about how much carbon pricing has affected behavior empirically,<sup>[</sup>
+<xref rid="gch21573-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>
+<sup>]</sup> although the data are noisy and current carbon prices are quite low. Overall, the literature suggests that the existing (overwhelmingly low) carbon prices have had significant, albeit modest, effects thus far.<sup>[</sup>
+<xref rid="gch21573-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>, <xref rid="gch21573-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="gch21573-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>
+<sup>]</sup> On the other hand, in favor of carbon pricing, some particular cases, such as the carbon tax in British Columbia, suggest that a well&#x02010;designed carbon tax can be broad&#x02010;based and reduce emissions relative to pre&#x02010;tax pathways<sup>[</sup>
+<xref rid="gch21573-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>
+<sup>]</sup> without loss of jobs.<sup>[</sup>
+<xref rid="gch21573-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>
+<sup>]</sup> In this case, at least, there is an impressive template for success.</p><p>Not only are carbon prices compatible with promoting distributive justice, but they may also be useful in promoting racial justice. The reason is straightforward: climatic impacts are likely to disproportionately affect vulnerable groups (e.g., racial minorities); more relevant in this discussion, if it was not the case, then climate change would not introduce any special racial justice challenges. This is true globally, where the Global South faces disproportionate climate harms compared to the Global North, and also regionally, where vulnerable groups tend to be more exposed and less able to adapt.<sup>[</sup>
+<xref rid="gch21573-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>
+<sup>]</sup> Supposing that individuals in an economy respond to economic incentives, carbon pricing would reduce emissions&#x02014;and, ultimately, climatic impacts. Policies that address climate impacts in neither intentionally progressive nor regressive ways could be expected to have roughly proportional benefits to vulnerable groups (at least in climate terms since greenhouse gases are well&#x02010;mixed in the atmosphere). Since the burdens of climate harm are regressive, proportional benefits would be progressive.</p><p>This argument applies to co&#x02010;harms, like local co&#x02010;pollutants as well&#x02014;indeed, probably even more strongly. Since vulnerable groups (especially racial minorities in the United States) are disproportionately exposed to local pollution (e.g., PM2.5 and NOx) from pollution point sources like factories and power plants,<sup>[</sup>
+<xref rid="gch21573-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="gch21573-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="gch21573-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<sup>]</sup> reduction in emissions activities that reduce these co&#x02010;pollutants would have even more than proportional benefits to these groups (for simplicity, we can say that there would be progressive co&#x02010;benefits). Even if the reduction of co&#x02010;pollutants is regressive, it would <italic toggle="yes">still</italic> have progressive co&#x02010;benefits as long as the regressivity of the reductions is less than the regressivity of the initial disproportionate exposure. (While I am not aware of research that tries to determine how regressive and progressive these effects are&#x02014;or what their net effect is&#x02014;this would be a valuable route for future work.)</p><p>Some have argued that this is overly optimistic and that we should expect that reductions in emissions activities would not have neutral effects, but highly regressive effects. Boyce et&#x000a0;al., for instance, point to research that suggests that, under cap&#x02010;and&#x02010;trade systems in California, some of the facilities that generated the largest increases in emissions had high proportions of racial minority groups in their vicinity.<sup>[</sup>
+<xref rid="gch21573-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup> However, as with most instances, there were a variety of different regulations (as Boyce et&#x000a0;al. admit), so disentangling the impacts of one policy is challenging, especially given the limited number of cases and the fact that considering the facilities with the greatest increases may give a distorted view of the overall effects. More broadly, the short&#x02010;term effects are likely to be noisier than the long&#x02010;term trend, especially if carbon prices increase over time (as they are expected to do in California). Regardless, Boyce et&#x000a0;al. are certainly correct that this justifies monitoring air quality near racial minority groups in order to determine how regressive or progressive these effects are, even if it is somewhat soon to draw conclusions about the impacts of pricing policies on co&#x02010;pollutants.</p><p>I conclude that there is a strong case to make that carbon pricing would not set back distributive justice in terms of disproportionate impacts on socioeconomic and vulnerable groups, for instance, in terms of race. The main reason is that climate change can be expected to threaten (independently) vulnerable groups more seriously, so even proportional reductions would be progressive.</p></sec><sec id="gch21573-sec-0040"><label>2.2</label><title>Procedural Justice</title><p>When considering procedural justice (or &#x0201c;participatory justice&#x0201d; as it is sometimes called), the case is even more straightforward that carbon pricing is not unjust. The reason is that &#x0201c;carbon pricing&#x0201d; is simply the name for a set of policy instruments, not a way of <italic toggle="yes">choosing</italic> policy instruments. In other words, these instruments are compatible with or could be chosen as a result of a variety of policy decision&#x02010;making procedures. But I will make a stronger case; we have some evidence that carbon pricing would be adopted by groups that were deliberating in a procedurally just, democratic way. A decision is procedurally just when it appropriately treats the people who are affected by the decision, e.g. by allowing them input into the decision&#x02010;making process.<sup>[</sup>
+<xref rid="gch21573-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+<sup>]</sup> This evidence comes from the Irish Citizens&#x02019; Assembly of 2016.<sup>[</sup>
+<xref rid="gch21573-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup>
+</p><p>Many campaigning groups are advocating for greater direct or deliberative democratic fora on climate issues. For instance, one of the activist group Extinction Rebellion's key demands is to create a Citizens&#x02019; Assembly on climate and ecological justice in the United Kingdom.<sup>[</sup>
+<xref rid="gch21573-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>
+<sup>]</sup> Members of the umbrella group Rapid Transition Alliance (representing over a hundred international activist groups) have also advocated for a Citizens&#x02019; Assembly.<sup>[</sup>
+<xref rid="gch21573-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+<sup>]</sup> In Canada, the activist Leap Manifesto<sup>[</sup>
+<xref rid="gch21573-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+<sup>]</sup> calls for &#x0201c;town hall meetings&#x0201d; where local communities can determine how a transition would affect their future. Similar examples can be found worldwide. In contexts where campaigners advocate for greater (general) citizen say as opposed to a narrow, selected group (as with Citizens&#x02019; Assemblies), I actually think that this might not serve the goals of racial and climate justice campaigners for two reasons. First, greater citizen say in the United States has led to more veto points and local opposition to building, which slows or stops building that might be valuable, such as is the case with green infrastructure.<sup>[</sup>
+<xref rid="gch21573-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>
+<sup>]</sup> Second, there is a moral argument, which is that if there is greater say among residents about what gets built, the opportunity to object will be disproportionately taken up by those with political and economic power, namely, the elite (and elderly) who have the time and resources to make their voices heard (Feldman and Turner<sup>[</sup>
+<xref rid="gch21573-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>
+<sup>]</sup> consider this concern but ultimately dismiss it; I think their dismissal is too quick). In other words, a more general ability to voice objections in many cases could be expected to disproportionately increase power for those who already have it since those who self&#x02010;select into making their voices heard are unlikely to be representative. Note that this does not apply to Citizens&#x02019; Assemblies because the distribution of members is made to be (roughly) representative of the population along the lines of socioeconomic characteristics.</p><p>There is a good philosophical justification for policy&#x02010;evaluating procedures like Citizens&#x02019; Assemblies, a justification that follows what moral philosophers call &#x0201c;ideal observer theory&#x0201d;. The basic idea is that what we should do is not (necessarily) what we think we should do now or with our current information&#x02014;what we should do is what we <italic toggle="yes">would</italic> want to do if we were apprised of the relevant facts and mechanisms relevant to our situation. The analogy is with an imaginary or hypothetical ideal observer who had your values or goals but knew more (or everything!) about the context of your action; what <italic toggle="yes">she</italic> would prescribe for you is what <italic toggle="yes">you</italic> should do. For instance, I might really want to eat some more lemon sorbet, but if I truly understood the impacts of eating it, I would not want to do it. Similarly, my ideal observer would not recommend that I keep eating that sweet, sweet sorbet. In the political realm, the question is not what we currently think is good policy, since few of us know what the current policies in any area <italic toggle="yes">are</italic>, let alone understand what they <italic toggle="yes">should</italic> be.</p><p>In a Citizens&#x02019; Assembly, a group of randomly selected, but socially stratified (i.e., trying to match population distribution in terms of age, gender, religion, ethnic background, citizenship status, etc.) members are brought together and paid for their time to answer some specific policy question such as &#x0201c;Which voting system is better?&#x0201d; Not every question is appropriate for such an assembly&#x02014;&#x0201c;What should we do to make society better?&#x0201d; is too broad while &#x0201c;How should we design a power plant?&#x0201d; is too technical. These members then can ask various experts to give information (not policy suggestions or evaluations) that might be relevant. Sometimes, there is a set of experts chosen but, sometimes, the members are given options among some set of experts; in the best cases, the members can also request the experts that they want. The members go through several iterated processes of listening, deliberating, arguing, and voting on a range of issues relevant to their policy question.</p><p>Why is this morally relevant? Although most of us do not have the time to learn the details of various policy options, a Citizens&#x02019; Assembly can give us good evidence of which options, if we <italic toggle="yes">were</italic> to deliberate together, we might end up endorsing. Like an ideal observer, a Citizens&#x02019; Assembly is a well&#x02010;informed and well&#x02010;argued group that has (roughly) representative characteristics of the society from which they come. The key point is that the members exchange ideas and arguments, not just positions. This kind of working together is very different than simply polling various positions, where citizens are asked what their opinions on various policy options are even when these opinions are neither informed nor carefully thought through. If the ideal observer theory, or some theory like it, is true, then what we <italic toggle="yes">should</italic> do or endorse is what an informed body like a Citizens&#x02019; Assembly <italic toggle="yes">would</italic> do or endorse.</p><p>One could object that the results of a Citizens&#x02019; Assembly are not (or not sufficiently) procedurally just because a procedurally just process should include representatives of all affected groups&#x02014;and the most important affected groups are future generations who have not yet been born. They will face the full brunt of climate impacts, so any process that excludes them, one might think, is illegitimate or procedurally insufficient.</p><p>I will provide both a more concessive and a more combative answer to this objection. First, the concessive answer is, yes, it would be more convincing or more democratically legitimate to have a procedure that includes all affected. On the one hand, no process fully includes everyone who is affected (we simply do not have the time and resources to weigh in on all policies that affect us, nor is it feasible for politicians to consult everyone even if citizens were to b interested in doing so). Indeed, even in the Irish Citizens&#x02019; Assemblies instance, it is not necessarily the case that all citizens are equally likely to participate.<sup>[</sup>
+<xref rid="gch21573-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+<sup>]</sup> On the other hand, the objector might think that this is especially egregious in this instance because the preferences of future people may be very different from the preferences of current people. Of course, it is not possible for future or non&#x02010;existent people to participate in such procedures or for us to ask them what their preferences are or will be. One potential mechanism is to have some member(s) of a Citizens&#x02019; Assembly represent future people. Some parliaments have recently begun experimenting with representatives for future people, such as Wales, Hungary, and New Zealand.<sup>[</sup>
+<xref rid="gch21573-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>
+<sup>]</sup> The concessive answer is that this is only a limited response to the democratic concern.</p><p>Second, the more combative answer is that, if done properly, we can include people who are good proxies for future generations on both scientific and theoretical grounds. These people are young people. On scientific grounds, young people can be expected to have similar attitudes to future generations because they stand to benefit greatly from mitigating climate change. This is because mitigation could move us away from IPCC scenarios with likely outcomes of 4.0&#x000b0;C, and such temperature rises have been said to be compatible with climate collapse.<sup>[</sup>
+<xref rid="gch21573-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<sup>]</sup> This means currently existing young people have the motivation to act on behalf of future generations. If they are properly informed through the Citizens&#x02019; Assembly process, they would also have the relevant epistemic similarity to future generations, thus jointly satisfying what Byskov and Hyams<sup>[</sup>
+<xref rid="gch21573-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<sup>]</sup> call a &#x0201c;hypothetical acceptance criterion&#x0201d; for future people. (It is worth noting that Byskov and Hyams<sup>[</sup>
+<xref rid="gch21573-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+<sup>]</sup> come to a different conclusion; they believe that this shows communities already affected by climate change satisfy their criteria. I believe that this is true, but in light of current scientific literature, we can say that young people <italic toggle="yes">globally</italic> do.) Due to both the current scientific basis that climate change threatens young people in ways that align their motivations to future people and their capacity to be informed in ways that align their understanding to future people, they can reasonably represent future people in such processes.</p><p>So not only do some influential campaigning groups advocate for the formation of such groups, but there is also a good moral reason to take these groups seriously. And we have an example of such a national Citizens&#x02019; Assembly specifically in the context of climate policy.</p><p>This example is the Irish Citizens&#x02019; Assembly (100 members), which met in 2017 to discuss how Ireland might become an international leader in climate action and generated stunning and overwhelming agreement on a variety of measures. Most pertinent to the current topic, though, is that 89% of the members &#x0201c;recommended that there should be a tax on greenhouse gas emissions from agriculture [with] resulting revenue [&#x02026;] reinvested to support climate friendly agricultural practices&#x0201d; and 80% of members voting that they (themselves) &#x0201c;would be willing to pay higher taxes on carbon intensive activities&#x0201d;.<sup>[</sup>
+<xref rid="gch21573-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>
+<sup>]</sup> That is much higher than most surveys done for carbon pricing, a difference I would attribute to the care, time, and information allowed for deliberation in this context. Obviously, not every country would vote as an Irish assembly would, and even within Ireland, we do not know whether a repeat assembly held on the same question with different participants would generate the same answers. This is just one instance of something that I believe is procedurally just; it is possible that, if re&#x02010;run at different times in different locales, different support from carbon pricing would occur. However, Citizens&#x02019; Assemblies are expensive, and the methodology is convincing, so we should not take this deliberative democratic exercise lightly, even if it is a lone case&#x02014;especially because it was well&#x02010;run.</p><p>What can we conclude from this? Not only is carbon pricing <italic toggle="yes">in principle</italic> compatible with more direct or more deliberative democratic procedures (or, indeed, <italic toggle="yes">less</italic> direct or <italic toggle="yes">less</italic> deliberative democratic procedures), but we have evidence that it is <italic toggle="yes">in fact</italic> supported by such activities. These procedures are also philosophically justifiable using the moral framework of the ideal observer theory. The supermajoritarian support for carbon pricing in the Irish Citizens&#x02019; Assembly is evidence that, when regular citizens are apprised of relevant information and able to devote time to thinking through and discussing related issues, carbon pricing is a policy that many would come to support. Those of us who have spent less time understanding and debating the policy mechanisms should consider the possibility that we would also come to endorse such policies in similar circumstances.</p></sec></sec><sec id="gch21573-sec-0050"><label>3</label><title>Fundamental Change Takes Time</title><p>Having argued that carbon pricing is neither distributively nor procedurally unjust, it is worth considering what a carbon pricing critic might say. Such a critic might argue that, even if it were granted that carbon pricing did not set back distributive and other dimensions of justice, not setting back justice is aiming too low. Instead of just considering how we can incrementally become more just and merely avoiding unjust policies (call this &#x0201c;justice&#x02010;constrained&#x0201d; policy choice, with thanks to Ross Mittiga for the suggested terminology), we should aim for justice&#x02010;maximizing policy frameworks (call this &#x0201c;justice&#x02010;determinative&#x0201d; policy choice). I will respond that such criticism is reasonable in some policy domains, but it is not appropriate when discussing climate policy, due to the immediacy of this issue.</p><p>The idea is that this critic might object that what we have done so far is just check whether carbon pricing sets back the progress of certain kinds of justice. This kind of justice&#x02010;constrained policy choice reflects slogans like &#x0201c;no justice, no peace&#x0201d;, or the idea that if a policy is not (sufficiently) just, it should be taken off the table. But this would be insufficiently ambitious for this critic. Perhaps she would endorse a view like Naomi Klein's that we need nothing short of a framework that is a comprehensive &#x0201c;all&#x02010;out war&#x0201d; on a variety of injustices.<sup>[</sup>
+<xref rid="gch21573-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>]</sup> Perhaps she would point out that a broader tent of activists might be more politically coherent and powerful. The kind of justice&#x02010;determinative policy choice she would advocate is high risk, high reward, where the only acceptable policy frameworks are those that increase the likelihood of reaching optimally overall just outcomes. This strategy reflects slogans like &#x0201c;system change, not climate change&#x0201d;, where the goal is to endorse frameworks that move societies toward outcomes that reflect a variety of forms of justice (e.g., racial justice, economic justice).</p><p>I believe that many campaigners are motivated by this kind of maximalist vision of justice. Indeed, I would grant that it might be instrumentally valuable in a policy ecosystem to have justice&#x02010;maximizing positions in discussion in order to expand the Overton window. It is certainly the case that a technocratic policy instrument like carbon pricing might seem like an unsatisfying or visionless alternative in this context (even if only as part of a policy portfolio). However, I think a more substantive response can be offered.</p><p>That response is that, while this kind of maximalist approach might be appropriate for domains or challenges for which there is time to coordinate and iterate policy frameworks, this is not the case with climate change. (I say &#x0201c;might be appropriate&#x0201d; because I am agnostic about whether this is true in general; what I do believe is that, in the current case, the downsides of a maximalist approach are decisive.) After all, both climate campaigners and climate experts agree that climate change requires urgent action (terms like &#x0201c;climate crisis&#x0201d; and &#x0201c;climate emergency&#x0201d; express this urgency for activists whereas scientists such as those behind the special report on 1.5 degrees tell us that climate models suggest we need to be rapidly decelerating emissions by 2030 with an aim to be at approximately net zero by 2050 to be compatible with 1.5 degrees).<sup>[</sup>
+<xref rid="gch21573-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="gch21573-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="gch21573-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>, <xref rid="gch21573-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+<sup>]</sup> We also know that climate outcomes have the potential to be disastrous<sup>[</sup>
+<xref rid="gch21573-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+<sup>]</sup>&#x02014;indeed, they are already causing massive harms that are disproportionately borne by the global South (the recent 2022 flooding in Bangladesh being especially catastrophic). And we know that delayed action is costly.<sup>[</sup>
+<xref rid="gch21573-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+<sup>]</sup> So, climate policy is one of the few policy domains where we are at a hinge point; delayed action is, to a first approximation, inefficacious action.</p><p>This sets the stage for an objection I call &#x0201c;(fundamental) change takes time&#x0201d;.<sup>[</sup>
+<xref rid="gch21573-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+<sup>]</sup> The objection is that, in the context of climate change, trying to make fundamental changes to society requires time both (a) to agree on which changes to make and how and (b) even once that agreement is made, to iterate and refine the implementation of those changes. I conclude that, at least in the climate context, these frameworks advocating overall just outcomes would be too slow&#x02014;or at least slower than various incremental policies <italic toggle="yes">without</italic> such grand overarching goals.</p><p>Consider the two points in turn. First, a more fundamental and comprehensive social change involves more decision points; thus, it allows more space for disagreement among advocates. Building consensus on a range of contested issues is intuitively slower than reaching an agreement on a single narrower issue, even among those who are on the &#x0201c;same side&#x0201d; or have the &#x0201c;same opponents&#x0201d;. Wolff,<sup>[</sup>
+<xref rid="gch21573-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>
+<sup>]</sup> for instance, notes that it can be difficult when &#x0201c;coalitions set out broad agendas&#x0201d; which can easily lead to &#x0201c;distract[tions] by emerging crises, and numerous side issues&#x0201d;. This is easy to overlook when a group is united against the status quo, whether on narrow (polluted neighborhoods) or broad (capitalism) grounds. It is much easier to unite in opposition than to unite in favor, and it is easier to converge in favor of something narrow and simple than something broad and complex. This difficulty takes time, and in the context of climate change, I would suggest that we do not have the time for complex policy frameworks that are aimed at addressing many social ills. Note that I am not claiming that carbon pricing alone addresses climate change; this issue may well require a portfolio of climate policies working in conjunction, each contributing marginally to incentivizing green action and some reinforcing others. However, the point is that the goals of reducing emissions and adapting to climate impacts are complicated enough without requiring that policies simultaneously address other social ills. (I differ here from Boyce et&#x000a0;al.<sup>[</sup>
+<xref rid="gch21573-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>]</sup> in that I see some political costs to carving out particular benefits for racially or socioeconomically vulnerable groups. In particular, those kinds of carve&#x02010;outs might be objectionable to other groups and considered to reflect favoritism or special pleading. I would prefer the benefits to accrue to these vulnerable groups without explicit dispensation, and I believe that neutral policies would actually be disproportionately beneficial to vulnerable groups in effect, even if not with explicit intent.)</p><p>Indeed, economists point out that, in general, with multiple policy goals, one requires multiple policy instruments. They call this the &#x0201c;Tinbergen Rule&#x0201d;.<sup>[</sup>
+<xref rid="gch21573-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>
+<sup>]</sup> Otherwise, one will be unable to determine which instrument to use since policy instruments are usually designed to achieve some particular kind of goal and rarely can optimize for multiple things at the same time. It is highly uncertain that a single policy instrument could meet the diverse goals that the maximalist is concerned with. A maximalist might answer that the proper response is a <italic toggle="yes">variety</italic> of policy instruments, but then a justice&#x02010;constrainer could say that (a) that is fully compatible with carbon prices being a component of a suite of policy instruments and (b) this acknowledges that the work required to implement the suite could reasonably be many times as much as that required to implement a single policy instrument.</p><p>Second, even if a campaign group manages to coordinate a particular framework that addresses a variety of social ills, more time is needed to refine and iterate it. By this, I mean two things. First, they need to make the case to the public that this is a valuable framework, which might take longer if it is a more complex and ambitious framework. Second, and this is crucial, if they have public support and buy&#x02010;in, they also need to implement it and more complex policies are less likely to succeed or be implementable immediately. Carbon prices would affect some sectors of the economy significantly. However, more broad plans that are also trying to address racial and gender justice or that are trying to limit capitalism are likely to require even more tinkering. There are, for instance, all kinds of ways that social changes can go wrong, all kinds of edge cases that might become salient that would not have been recognized beforehand, and all kinds of conflicts that could arise. All of these various considerations would likely take time to recognize, diagnose, and respond to.</p><p>Since a framework that tries to address a variety of social ills will (try to) change many social facts, there are more of these issues that might arise, leading to a process of adjustment and iteration. That is not straightforwardly a bad thing; we should want our policies to be sensitive to their implementation and to be adjusted on the basis of tensions that arise. However, this process is likely to slow the implementation of the framework and generate various kinds of objections and backlash.</p><p>In short, when an ambitious framework is proposed, we should expect that it is slower to develop and slower to enact than narrow (simpler) policies. While such frameworks may do more overall good (once they are developed and enacted), that is a trade&#x02010;off that should be taken seriously. In the context of climate change, this is especially worrying since action to address climate change must be soon if it is to be effective. This is why I call this the &#x0201c;(fundamental) change takes time&#x0201d; objection.</p></sec><sec id="gch21573-sec-0060"><label>4</label><title>Conclusion</title><p>One of the intuitions that leads some to consider carbon pricing to be unjust is that they think carbon pricing is unfair. But I would suggest the opposite. What is unfair is letting people pollute for free. It's unfair partially because society has to pay instead,<sup>[</sup>
+<xref rid="gch21573-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>
+<sup>]</sup> but it's also unfair because the people who generate the most emissions are already disproportionately wealthy.<sup>[</sup>
+<xref rid="gch21573-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="gch21573-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>
+<sup>]</sup>
+</p><p>So, in this context, what I have argued in this perspective&#x02014;that carbon pricing is not unjust&#x02014;is less surprising. Both in distributive and procedural justice terms, carbon pricing can be justified. In distributive justice terms, the revenues from a carbon price can be used to avoid net regressive effects. In procedural justice terms, I argued that the outcomes of the Irish Citizens&#x02019; Assembly suggest that many of us, if suitably informed, would support carbon pricing policies. When combined with an influential moral theory (ideal observer theory), this supports the claim that our actual (uninformed) selves should also support carbon pricing policies.</p><p>These justifications are obviously not enough to say that carbon pricing is always the best policy. However, it is enough to say that it has more strengths than are commonly recognized, that it should not be dismissed and that it has a legitimate spot within the portfolio of climate policy responses. My hope is that the kind of carbon pricing policy operational in places like British Columbia could be exported to other jurisdictions, but for the purposes of this perspective my goals were simply to demonstrate that justice as a consideration should not be an impediment to spreading such policies.</p></sec><sec sec-type="COI-statement" id="gch21573-sec-0070"><title>Conflict of Interest</title><p>The author declares no conflict of interest.</p></sec></body><back><ref-list id="gch21573-bibl-0001"><ref id="gch21573-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="gch21573-cit-0001">
+<string-name>
+<given-names>C.</given-names>
+<surname>Gravert</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Shreedhar</surname>
+</string-name>, <source>Nat. Clim. Change</source>
+<year>2022</year>, <volume>12</volume>, <fpage>1073</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="gch21573-cit-0002">
+<string-name>
+<given-names>J.</given-names>
+<surname>Jebari</surname>
+</string-name>, <string-name>
+<given-names>O. O.</given-names>
+<surname>T&#x000e1;&#x000ed;w&#x000f2;</surname>
+</string-name>, <string-name>
+<given-names>T. M.</given-names>
+<surname>Andrews</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Aquila</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Beckage</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Belaia</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Clifford</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Fuhrman</surname>
+</string-name>, <string-name>
+<given-names>D. P.</given-names>
+<surname>Keller</surname>
+</string-name>, <string-name>
+<given-names>K. J.</given-names>
+<surname>Mach</surname>
+</string-name>, <string-name>
+<given-names>D. R.</given-names>
+<surname>Morrow</surname>
+</string-name>, <string-name>
+<given-names>K. T.</given-names>
+<surname>Raimi</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Visioni</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Nicholson</surname>
+</string-name>, <string-name>
+<given-names>C. H.</given-names>
+<surname>Trisos</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Trisos</surname>
+</string-name>, <source>Climate Risk Manag.</source>
+<year>2021</year>, <volume>33</volume>, <elocation-id>100324</elocation-id>.</mixed-citation></ref><ref id="gch21573-bib-0003"><label>3</label><mixed-citation publication-type="miscellaneous" id="gch21573-cit-0003">
+<collab collab-type="authors">H.R. 109 &#x02010; 116th Congress</collab>
+. <article-title>Recognizing the duty of the Federal Government to create a Green New Deal</article-title>
+<year>2019</year>, <ext-link xlink:href="https://www.congress.gov/bill/116th-congress/house-resolution/109/" ext-link-type="uri">https://www.congress.gov/bill/116th&#x02010;congress/house&#x02010;resolution/109/</ext-link>.</mixed-citation></ref><ref id="gch21573-bib-0004"><label>4</label><mixed-citation publication-type="book" id="gch21573-cit-0004">
+<string-name>
+<given-names>N.</given-names>
+<surname>Klein</surname>
+</string-name>, <article-title>
+<italic toggle="yes">On Fire: The Burning Case for a Green New Deal</italic>, Verso</article-title>, <publisher-loc>London</publisher-loc>
+<year>2019</year>.</mixed-citation></ref><ref id="gch21573-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="gch21573-cit-0005">
+<string-name>
+<given-names>M.</given-names>
+<surname>Bergquist</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Nilsson</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Harring</surname>
+</string-name>, <string-name>
+<given-names>S. C.</given-names>
+<surname>Jagers</surname>
+</string-name>, <source>Nat. Clim. Change</source>
+<year>2022</year>, <volume>12</volume>, <fpage>235</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="gch21573-cit-0006">
+<string-name>
+<given-names>S.</given-names>
+<surname>Maestre&#x02010;Andr&#x000e9;s</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Drews</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Van Den Bergh</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>and van den Bergh</surname>
+</string-name>, <source>Climate Policy</source>
+<year>2019</year>, <volume>19</volume>, <fpage>1186</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="gch21573-cit-0007">
+<string-name>
+<given-names>L.</given-names>
+<surname>Tank</surname>
+</string-name>, <source>J. Appl. Philos.</source>
+<year>2020</year>, <volume>37</volume>, <fpage>612</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="gch21573-cit-0008">
+<string-name>
+<given-names>K.</given-names>
+<surname>Mintz&#x02010;Woo</surname>
+</string-name>, <source>Les ateliers de l'&#x000e9;thique/The Ethics Forum</source>
+<year>2021</year>, <volume>16</volume>, <fpage>57</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="gch21573-cit-0009">
+<string-name>
+<given-names>I. I.</given-names>
+<surname>Dorband</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jakob</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kalkuhl</surname>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Steckel</surname>
+</string-name>, <source>World Development</source>
+<year>2019</year>, <volume>115</volume>, <fpage>246</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0010"><label>10</label><mixed-citation publication-type="book" id="gch21573-cit-0010">
+<string-name>
+<given-names>M.</given-names>
+<surname>Jakob</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Edenhofer</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Kornek</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Lenzi</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Minx</surname>
+</string-name>, in <source>Climate Justice: Integrating Economics and Philosophy</source> (Eds: <person-group person-group-type="editor">
+<string-name>
+<given-names>R.</given-names>
+<surname>Kanbur</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>H.</given-names>
+<surname>Shue</surname>
+</string-name>
+</person-group>), <publisher-name>Oxford University Press</publisher-name>, <publisher-loc>Oxford</publisher-loc>
+<year>2018</year>, pp. <fpage>42</fpage>&#x02013;<lpage>62</lpage>.</mixed-citation></ref><ref id="gch21573-bib-0011"><label>11</label><mixed-citation publication-type="book" id="gch21573-cit-0011">
+<string-name>
+<given-names>A.</given-names>
+<surname>Thomas</surname>
+</string-name>, in <source>Republic of Equals: Predistribution and Property&#x02010;Owning Democracy</source>, <publisher-name>Oxford University Press</publisher-name>, <publisher-loc>Oxford</publisher-loc>
+<year>2016</year>.</mixed-citation></ref><ref id="gch21573-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="gch21573-cit-0012">
+<string-name>
+<given-names>I.</given-names>
+<surname>Robeyns</surname>
+</string-name>, <source>J. Human Dev. Capab.</source>
+<year>2019</year>, <volume>20</volume>, <fpage>251</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0013"><label>13</label><mixed-citation publication-type="book" id="gch21573-cit-0013">
+<string-name>
+<given-names>B.</given-names>
+<surname>Eggleston</surname>
+</string-name>, in <source>Moral Theory and Climate Change</source> (Eds: <person-group person-group-type="editor">
+<string-name>
+<given-names>D. E.</given-names>
+<surname>Miller</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>B.</given-names>
+<surname>Eggleston</surname>
+</string-name>
+</person-group>), <publisher-name>Routledge</publisher-name>, <publisher-loc>New York</publisher-loc>
+<year>2020</year>, pp. <fpage>58</fpage>&#x02013;<lpage>77</lpage>.</mixed-citation></ref><ref id="gch21573-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="gch21573-cit-0014">
+<string-name>
+<given-names>T.</given-names>
+<surname>P&#x000f6;lzler</surname>
+</string-name>, <source>Philos. Compass</source>
+<year>2021</year>, <volume>16</volume>, <elocation-id>e12732</elocation-id>.<pub-id pub-id-type="pmid">35860457</pub-id>
+</mixed-citation></ref><ref id="gch21573-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="gch21573-cit-0015">
+<string-name>
+<given-names>M.</given-names>
+<surname>Budolfson</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Dennig</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Errickson</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Feindt</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ferranna</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Fleurbaey</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Klenert</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Kornek</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kuruc</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>M&#x000e9;jean</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Peng</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Scovronick</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Spears</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Wagner</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zuber</surname>
+</string-name>, <source>Nat. Clim. Change</source>
+<year>2021</year>, <volume>11</volume>, <fpage>1111</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="gch21573-cit-0016">
+<string-name>
+<given-names>J. K.</given-names>
+<surname>Boyce</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ash</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Ranalli</surname>
+</string-name>, <source>Glob Chall</source>
+<year>2023</year>, <volume>7</volume>, <elocation-id>2200204</elocation-id>.<pub-id pub-id-type="pmid">37020631</pub-id>
+</mixed-citation></ref><ref id="gch21573-bib-0017"><label>17</label><mixed-citation publication-type="miscellaneous" id="gch21573-cit-0017">
+<string-name>
+<given-names>K.</given-names>
+<surname>Aronoff</surname>
+</string-name>, in <article-title>
+<italic toggle="yes">The Guardian</italic>, The IMF thinks carbon taxes will stop the climate crisis. That's a terrible idea</article-title>, <year>2019</year>, <ext-link xlink:href="https://www.theguardian.com/commentisfree/2019/oct/12/carbon-tax-imf-inequality-climate-change" ext-link-type="uri">https://www.theguardian.com/commentisfree/2019/oct/12/carbon&#x02010;tax&#x02010;imf&#x02010;inequality&#x02010;climate&#x02010;change</ext-link> (accessed: 4 March 2023).</mixed-citation></ref><ref id="gch21573-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="gch21573-cit-0018">
+<string-name>
+<given-names>J.</given-names>
+<surname>Skovgaard</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Van Asselt</surname>
+</string-name>, <source>WIREs Climate Change</source>
+<year>2019</year>, <volume>10</volume>, <elocation-id>e581</elocation-id>.</mixed-citation></ref><ref id="gch21573-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="gch21573-cit-0019">
+<string-name>
+<given-names>K.</given-names>
+<surname>Mintz&#x02010;Woo</surname>
+</string-name>, <source>Philos. Compass</source>
+<year>2022</year>, <volume>17</volume>, <elocation-id>e12803</elocation-id>.</mixed-citation></ref><ref id="gch21573-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="gch21573-cit-0020">
+<string-name>
+<given-names>L. H.</given-names>
+<surname>Meyer</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Sanklecha</surname>
+</string-name>, <source>Politics, Philos. Econ.</source>
+<year>2014</year>, <volume>13</volume>, <fpage>369</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="gch21573-cit-0021">
+<string-name>
+<given-names>H.</given-names>
+<surname>Shue</surname>
+</string-name>, <source>Law Policy</source>
+<year>1993</year>, <volume>15</volume>, <fpage>39</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="gch21573-cit-0022">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Oswald</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Millward&#x02010;Hopkins</surname>
+</string-name>, <string-name>
+<given-names>J. K.</given-names>
+<surname>Steinberger</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Owen</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ivanova</surname>
+</string-name>, <source>One Earth</source>
+<year>2023</year>, <volume>6</volume>, <fpage>884</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="gch21573-cit-0023">
+<string-name>
+<given-names>I. M.</given-names>
+<surname>Otto</surname>
+</string-name>, <string-name>
+<given-names>K. M.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Dubrovsky</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Lucht</surname>
+</string-name>, <source>Nat. Clim. Change</source>
+<year>2019</year>, <volume>9</volume>, <fpage>82</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0024"><label>24</label><mixed-citation publication-type="book" id="gch21573-cit-0024">
+<string-name>
+<given-names>J. K.</given-names>
+<surname>Boyce</surname>
+</string-name>, in <source>The Routledge Handbook of the Political Economy of the Environment</source> (Eds: <person-group person-group-type="editor">
+<string-name>
+<given-names>&#x000c9;.</given-names>
+<surname>Laurent</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>K.</given-names>
+<surname>Zwickl</surname>
+</string-name>
+</person-group>), <publisher-name>Routledge</publisher-name>, <publisher-loc>Abingdon</publisher-loc>
+<year>2022</year>, pp. <fpage>243</fpage>&#x02013;<lpage>257</lpage>.</mixed-citation></ref><ref id="gch21573-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="gch21573-cit-0025">
+<string-name>
+<given-names>R.</given-names>
+<surname>Majumdar</surname>
+</string-name>, <string-name>
+<given-names>E. U.</given-names>
+<surname>Weber</surname>
+</string-name>, <source>WIREs Climate Change</source>
+<year>2023</year>, <volume>14</volume>, <elocation-id>e836</elocation-id>.</mixed-citation></ref><ref id="gch21573-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="gch21573-cit-0026">
+<string-name>
+<given-names>R. D.</given-names>
+<surname>Bullard</surname>
+</string-name>, <source>Phylon</source>
+<year>2001</year>, <volume>49</volume>, <fpage>151</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="gch21573-cit-0027">
+<string-name>
+<given-names>M.</given-names>
+<surname>Chowkwanyun</surname>
+</string-name>, <source>Ann. Rev. Public Health</source>
+<year>2023</year>, <volume>44</volume>, <fpage>93</fpage>.<pub-id pub-id-type="pmid">36623927</pub-id>
+</mixed-citation></ref><ref id="gch21573-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="gch21573-cit-0028">
+<string-name>
+<given-names>M. T.</given-names>
+<surname>Hicken</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Payne&#x02010;Sturges</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Mccoy</surname>
+</string-name>, <source>Curr. Environ. Health Rep.</source>
+<year>2023</year>, <volume>10</volume>, <fpage>1</fpage>.<pub-id pub-id-type="pmid">36689136</pub-id>
+</mixed-citation></ref><ref id="gch21573-bib-0029"><label>29</label><mixed-citation publication-type="book" id="gch21573-cit-0029">
+<string-name>
+<given-names>D.</given-names>
+<surname>Miller</surname>
+</string-name>, in <source>The Stanford Encyclopedia of Philosophy</source> (Eds: <person-group person-group-type="editor">
+<string-name>
+<given-names>E. N.</given-names>
+<surname>Zalta</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>U.</given-names>
+<surname>Nodelman</surname>
+</string-name>
+</person-group>), <publisher-name>Stanford University</publisher-name>, <publisher-loc>California</publisher-loc>
+<year>2023</year>.</mixed-citation></ref><ref id="gch21573-bib-0030"><label>30</label><mixed-citation publication-type="book" id="gch21573-cit-0030">
+<collab collab-type="authors">The Citizens' Assembly</collab>
+, <article-title>
+<italic toggle="yes">Third Report and Recommendations of the Citizens' Assembly. How the state can make Ireland a leader in tackling climate change</italic>, The Citizens' Assembly</article-title>, <publisher-loc>Dublin</publisher-loc>
+<year>2018</year>, <ext-link xlink:href="https://citizensassembly.ie/" ext-link-type="uri">https://citizensassembly.ie/</ext-link>.</mixed-citation></ref><ref id="gch21573-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="gch21573-cit-0031">
+<string-name>
+<given-names>N.</given-names>
+<surname>Gunningham</surname>
+</string-name>, <source>King's Law J.</source>
+<year>2019</year>, <volume>30</volume>, <fpage>194</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0032"><label>32</label><mixed-citation publication-type="miscellaneous" id="gch21573-cit-0032">
+<string-name>
+<given-names>F.</given-names>
+<surname>Foley</surname>
+</string-name>, <article-title>Rapid Transition Alliance</article-title>
+<year>2019</year>. <ext-link xlink:href="https://www.rapidtransition.org/commentaries/how-irelands-citizens-assembly-helped-climate-action/" ext-link-type="uri">https://www.rapidtransition.org/commentaries/how&#x02010;irelands&#x02010;citizens&#x02010;assembly&#x02010;helped&#x02010;climate&#x02010;action/</ext-link>, (accessed: March 2023).</mixed-citation></ref><ref id="gch21573-bib-0033"><label>33</label><mixed-citation publication-type="miscellaneous" id="gch21573-cit-0033">
+<collab collab-type="authors">The &#x0201c;This Changes Everything&#x0201d; Team</collab>
+, <article-title>
+The Leap Manifesto
+</article-title>
+<year>2015</year>. <ext-link xlink:href="https://leapmanifesto.org/en/the-leap-manifesto/" ext-link-type="uri">https://leapmanifesto.org/en/the&#x02010;leap&#x02010;manifesto/</ext-link>, (accessed: March 2023).</mixed-citation></ref><ref id="gch21573-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="gch21573-cit-0034">
+<string-name>
+<given-names>C. D.</given-names>
+<surname>Walsh</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Elkink</surname>
+</string-name>, <source>Irish Political Studies</source>
+<year>2021</year>, <volume>36</volume>, <fpage>647</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0035"><label>35</label><mixed-citation publication-type="book" id="gch21573-cit-0035">
+<string-name>
+<given-names>A.</given-names>
+<surname>Karnein</surname>
+</string-name>, in <source>Institutions for Future Generations</source> (Eds: <person-group person-group-type="editor">
+<string-name>
+<given-names>I.</given-names>
+<surname>Gonz&#x000e1;lez&#x02010;Ricoy</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>A.</given-names>
+<surname>Gosseries</surname>
+</string-name>
+</person-group>), <publisher-name>Oxford University Press</publisher-name>, <publisher-loc>Oxford</publisher-loc>
+<year>2016</year>, pp. <fpage>83</fpage>&#x02013;<lpage>97</lpage>.</mixed-citation></ref><ref id="gch21573-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="gch21573-cit-0036">
+<string-name>
+<given-names>D.</given-names>
+<surname>Steel</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Mintz&#x02010;Woo</surname>
+</string-name>, <string-name>
+<given-names>C. T.</given-names>
+<surname>DesRoches</surname>
+</string-name>, <source>Politics, Philos. Econ.</source>
+<pub-id pub-id-type="doi">10.1177/1470594X231196432</pub-id>.</mixed-citation></ref><ref id="gch21573-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="gch21573-cit-0037">
+<string-name>
+<given-names>M. F.</given-names>
+<surname>Byskov</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Hymas</surname>
+</string-name>, <source>Ethics Int. Affairs</source>
+<year>2022</year>, <volume>36</volume>, <fpage>199</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="gch21573-cit-0038">
+<string-name>
+<given-names>L.</given-names>
+<surname>Kemp</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Depledge</surname>
+</string-name>, <string-name>
+<given-names>K. L.</given-names>
+<surname>Ebi</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Gibbins</surname>
+</string-name>, <string-name>
+<given-names>T. A.</given-names>
+<surname>Kohler</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Rockstr&#x000f6;m</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Scheffer</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Schellnhuber</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Steffen</surname>
+</string-name>, <string-name>
+<given-names>T. M.</given-names>
+<surname>Lenton</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>2022</year>, <volume>119</volume>, <elocation-id>e2108146119</elocation-id>.<pub-id pub-id-type="pmid">35914185</pub-id>
+</mixed-citation></ref><ref id="gch21573-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="gch21573-cit-0039">
+<string-name>
+<given-names>W. J.</given-names>
+<surname>Ripple</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wolf</surname>
+</string-name>, <string-name>
+<given-names>T. M.</given-names>
+<surname>Newsome</surname>
+</string-name>, <string-name>
+<given-names>J. W.</given-names>
+<surname>Gregg</surname>
+</string-name>, <string-name>
+<given-names>T. M.</given-names>
+<surname>Lenton</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Palomo</surname>
+</string-name>, <string-name>
+<given-names>J. A. J.</given-names>
+<surname>Eikelboom</surname>
+</string-name>, <string-name>
+<given-names>B. E.</given-names>
+<surname>Law</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Huq</surname>
+</string-name>, <string-name>
+<given-names>P. B.</given-names>
+<surname>Duffy</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Rockstr&#x000f6;m</surname>
+</string-name>, <source>BioScience</source>
+<year>2021</year>, <volume>71</volume>, <fpage>894</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="gch21573-cit-0040">
+<string-name>
+<given-names>D.</given-names>
+<surname>Steel</surname>
+</string-name>, <string-name>
+<given-names>C. T.</given-names>
+<surname>Desroches</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Mintz&#x02010;Woo</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>2022</year>, <volume>119</volume>, <elocation-id>e2210525119</elocation-id>.<pub-id pub-id-type="pmid">36201599</pub-id>
+</mixed-citation></ref><ref id="gch21573-bib-0041"><label>41</label><mixed-citation publication-type="book" id="gch21573-cit-0041">
+<collab collab-type="authors">IPCC</collab>
+, in <source>Global Warming of 1.5&#x000b0;C. An IPCC Special Report on the impacts of global warming of 1.5&#x000b0;C above pre&#x02010;industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change</source> (Eds: <person-group person-group-type="editor">
+<string-name>
+<given-names>V.</given-names>
+<surname>Masson&#x02010;Delmotte</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>P.</given-names>
+<surname>Zhai</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>H.&#x02010;O.</given-names>
+<surname>P&#x000f6;rtner</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>D.</given-names>
+<surname>Roberts</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>J.</given-names>
+<surname>Skea</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>P. R.</given-names>
+<surname>Shukla</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>T.</given-names>
+<surname>Waterfield</surname>
+</string-name>
+</person-group>, et&#x000a0;al.,), <publisher-name>Cambridge University Press</publisher-name>, <publisher-loc>Cambridge</publisher-loc>
+<year>2018</year>, pp. <fpage>3</fpage>&#x02013;<lpage>24</lpage>.</mixed-citation></ref><ref id="gch21573-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="gch21573-cit-0042">
+<string-name>
+<given-names>D.</given-names>
+<surname>Acemoglu</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Aghion</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Bursztyn</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Hemous</surname>
+</string-name>, <source>Am. Econ. Rev.</source>
+<year>2012</year>, <volume>102</volume>, <fpage>131</fpage>.<pub-id pub-id-type="pmid">26719595</pub-id>
+</mixed-citation></ref><ref id="gch21573-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="gch21573-cit-0043">
+<string-name>
+<given-names>T.</given-names>
+<surname>Wolff</surname>
+</string-name>, <source>Am. J. Commun. Psychol.</source>
+<year>2001</year>, <volume>29</volume>, <fpage>173</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="gch21573-cit-0044">
+<string-name>
+<given-names>W. A.</given-names>
+<surname>Knudson</surname>
+</string-name>, <source>Bulletin Sci., Technol. Soc.</source>
+<year>2009</year>, <volume>29</volume>, <fpage>308</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0045"><label>45</label><mixed-citation publication-type="miscellaneous" id="gch21573-cit-0045">
+<string-name>
+<given-names>P.</given-names>
+<surname>Singer</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Mintz&#x02010;Woo</surname>
+</string-name>, <article-title>Put a Price on Carbon Now!</article-title>
+<year>2020</year>. <ext-link xlink:href="https://www.project-syndicate.org/commentary/low-oil-prices-ideal-time-for-carbon-tax-by-peter-singer-and-kian-mintz-woo-2020-05" ext-link-type="uri">https://www.project&#x02010;syndicate.org/commentary/low&#x02010;oil&#x02010;prices&#x02010;ideal&#x02010;time&#x02010;for&#x02010;carbon&#x02010;tax&#x02010;by&#x02010;peter&#x02010;singer&#x02010;and&#x02010;kian&#x02010;mintz&#x02010;woo&#x02010;2020&#x02010;05</ext-link>, (accessed: April 2023).</mixed-citation></ref><ref id="gch21573-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="gch21573-cit-0046">
+<string-name>
+<given-names>K.</given-names>
+<surname>Hubacek</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Baiocchi</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Mu&#x000f1;oz Castillo</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xue</surname>
+</string-name>, <source>Energy Ecol. Environ.</source>
+<year>2017</year>, <volume>2</volume>, <fpage>361</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="gch21573-cit-0047">
+<string-name>
+<given-names>M.</given-names>
+<surname>Mildenberger</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Lachapelle</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Harrison</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Stadelmann&#x02010;Steffen</surname>
+</string-name>, <source>Nat. Clim. Change</source>
+<year>2022</year>, <volume>12</volume>, <fpage>141</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="gch21573-cit-0048">
+<string-name>
+<given-names>J. F.</given-names>
+<surname>Green</surname>
+</string-name>, <source>Environ. Res. Lett.</source>
+<year>2021</year>, <volume>16</volume>, <elocation-id>043004</elocation-id>.</mixed-citation></ref><ref id="gch21573-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="gch21573-cit-0049">
+<string-name>
+<given-names>R.</given-names>
+<surname>Best</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Burke</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Jotzo</surname>
+</string-name>, <source>Environ. Resource Econ.</source>
+<year>2020</year>, <volume>77</volume>, <fpage>69</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="gch21573-cit-0050">
+<string-name>
+<given-names>B.</given-names>
+<surname>Murray</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Rivers</surname>
+</string-name>, <source>Energy Policy</source>
+<year>2015</year>, <volume>86</volume>, <fpage>674</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="gch21573-cit-0051">
+<string-name>
+<given-names>A.</given-names>
+<surname>Yamazaki</surname>
+</string-name>, <source>J. Environ. Econ. Manage</source>
+<year>2017</year>, <volume>83</volume>, <fpage>197</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="gch21573-cit-0052">
+<string-name>
+<given-names>S.</given-names>
+<surname>Feldman</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Turner</surname>
+</string-name>, <source>Ethics, Place Environ.</source>
+<year>2010</year>, <volume>13</volume>, <fpage>251</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="gch21573-cit-0053">
+<string-name>
+<given-names>A. G.</given-names>
+<surname>Sayegh</surname>
+</string-name>, <source>Ethics, Policy Environ.</source>
+<year>2019</year>, <volume>22</volume>, <fpage>109</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="gch21573-cit-0054">
+<string-name>
+<given-names>A.</given-names>
+<surname>K&#x000f6;ppl</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Schratzenstaller</surname>
+</string-name>, <source>J. Econ. Surv.</source>
+<year>2023</year>, <volume>37</volume>, <fpage>1353</fpage>.</mixed-citation></ref><ref id="gch21573-bib-0055"><label>55</label><mixed-citation publication-type="miscellaneous" id="gch21573-cit-0055">
+<string-name>
+<given-names>E.</given-names>
+<surname>Klein</surname>
+</string-name>, <article-title>Why we can't build</article-title>, <year>2020</year>
+<ext-link xlink:href="https://www.vox.com/2020/4/22/21228469/marc-andreessen-build-government-coronavirus" ext-link-type="uri">https://www.vox.com/2020/4/22/21228469/marc&#x02010;andreessen&#x02010;build&#x02010;government&#x02010;coronavirus</ext-link>, (accessed: April 2023).</mixed-citation></ref></ref-list></back></article>

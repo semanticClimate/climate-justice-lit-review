@@ -1,28 +1,15 @@
-# \<Your Notebook Title\>
+# Climate Justice Demo #semanticClimate Tools
 
-DOI Zenodo badge: \<Add your DOI Zenodo badge code here. This will need to be added after the first Zenodo deposit.\>
+<a href="https://colab.research.google.com/github.com/semanticClimate/climate-justice-lit-review.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
 
-Description: \<Add description\>
+Data - DOI Zenodo badge: 
 
-Reviewers & review process: \<Add reviewers and review process link\> 
+Notebook publication - DOI Zenodo badge: 
+
+Description: This colab notebook describes the literature search on any query term and analyzing the results with the use of semanticClimate tools (`pygetpapers`, `amilib` and `docanalysis`)
+
+Reviewers & review process: @mrchristian - confirm the notebook ran without error
 
 Software citation information: [CITATION.cff](CITATION.cff)
 
 License: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ | License information: [LICENSE](LICENSE)
-
-# README
-
-\<Add info\>
-
-# Other info
-
-Instructions for using the template Git repository for DOI deposits and Research Data Management can be found here [here](https://github.com/orgs/semanticClimate/discussions/20).
-
-
-
-
-
-
-
-
-

@@ -1,0 +1,802 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jora13020" xml:lang="en" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with OASIS Tables with MathML3 v1.1 20151215//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-archive-oasis-article1-mathml3.dtd?><?SourceDTD.Version 1.1?><?ConverterInfo.XSLTName jats-oasis2jats3.xsl?><?ConverterInfo.Version 1?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Res Adolesc</journal-id><journal-id journal-id-type="iso-abbrev">J Res Adolesc</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1532-7795</journal-id><journal-id journal-id-type="publisher-id">JORA</journal-id><journal-title-group><journal-title>Journal of Research on Adolescence</journal-title></journal-title-group><issn pub-type="ppub">1050-8392</issn><issn pub-type="epub">1532-7795</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11758465</article-id><article-id pub-id-type="pmid">39351879</article-id>
+<article-id pub-id-type="doi">10.1111/jora.13020</article-id><article-id pub-id-type="publisher-id">JORA13020</article-id><article-id pub-id-type="other">2024-382.R1</article-id><article-categories><subj-group subj-group-type="overline"><subject>Special Issue Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Special Issue Article</subject></subj-group></article-categories><title-group><article-title>Seizing the moments and lessons learned from the global response to <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x02010;19 pandemic: Creating a platform to shape the scientific and public discourse of research on adolescence</article-title><alt-title alt-title-type="right-running-head">Creating a platform to shape research on adolescence</alt-title><alt-title alt-title-type="left-running-head">Murry</alt-title></title-group><contrib-group><contrib id="jora13020-cr-0001" contrib-type="author" corresp="yes"><name><surname>Murry</surname><given-names>Velma McBride</given-names></name><degrees>M.S., Ph.D.</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2663-2738</contrib-id><xref rid="jora13020-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jora13020-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>velma.m.murry@vanderbilt.edu</email></address></contrib></contrib-group><aff id="jora13020-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Health Policy</named-content>
+<institution>Institute for Medicine and Public Health, Vanderbilt University Medical Center</institution>
+<city>Nashville</city>
+<named-content content-type="country-part">Tennessee</named-content>
+<country country="US">USA</country>
+</aff><aff id="jora13020-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Human and Organizational Development</named-content>
+<institution>Peabody College, Vanderbilt University</institution>
+<city>Nashville</city>
+<named-content content-type="country-part">Tennessee</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Velma McBride Murry, Department of Health Policy, Institute for Medicine and Public Health, Vanderbilt University Medical Center, 2525 West End Avenue, Nashville, TN 37203, USA.<break/>
+Email: <email>velma.m.murry@vanderbilt.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>10</month><year>2024</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2025</year></pub-date><volume>35</volume><issue seq="290">1</issue><issue-id pub-id-type="doi">10.1111/jora.v35.1</issue-id><elocation-id>e13020</elocation-id><history>
+<date date-type="received"><day>16</day><month>7</month><year>2024</year></date>
+<date date-type="accepted"><day>07</day><month>9</month><year>2024</year></date>
+</history><permissions><!--&#x000a9; 2025 Society for Research on Adolescence--><copyright-statement content-type="article-copyright">&#x000a9; 2024 The Author(s). <italic toggle="yes">Journal of Research on Adolescence</italic> published by Wiley Periodicals LLC on behalf of Society for Research on Adolescence.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JORA-35-0.pdf"/><abstract><title>Abstract</title><p>COVID&#x02010;19 response offers a model to guide research and preventive interventions targeting adolescents, their families, and communities. My 2022 SRA Presidential Address posed: <italic toggle="no">What if the COVID&#x02010;19 Response Served as a Guidepost for Future Research on Adolescence? Solution versus Problem&#x02010;Focused Agenda</italic>. Several &#x0201c;pandemics&#x0201d; were already underway, emerging from historic and contemporary events that threaten the safety and survival of human lives. The Multi&#x02010;Transgenerational Life Course Theoretical model was selected to demonstrate pathways through which the transmission of generational exposure to crisis and trauma impact adolescents' developmental trajectories. Recommendations to inform and guide an adolescent research rapid response agenda are proposed minds to advance equity and social justice can become realities.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jora13020-kwd-0001">adolescence development</kwd><kwd id="jora13020-kwd-0002">structural stressors</kwd><kwd id="jora13020-kwd-0003">transgenerational life</kwd></kwd-group><counts><fig-count count="1"/><table-count count="0"/><page-count count="12"/><word-count count="10700"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.2 mode:remove_FC converted:24.01.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="JORA13020-cit-2001">
+<string-name>
+<surname>Murry</surname>, <given-names>V. M.</given-names>
+</string-name> (<year>2025</year>). <article-title>Seizing the moments and lessons learned from the global response to <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x02010;19 pandemic: Creating a platform to shape the scientific and public discourse of research on adolescence</article-title>. <source>Journal of Research on Adolescence</source>, <volume>35</volume>, <elocation-id>e13020</elocation-id>. <pub-id pub-id-type="doi">10.1111/jora.13020</pub-id>
+</mixed-citation>
+</p></notes></front><body id="jora13020-body-0001"><p>
+<disp-quote content-type="quotation" id="jora13020-blkfxd-0001"><p>A presidential appointment and New Year Celebration like No Other: My presidential message is filled with memories of well wishes to family, friends, neighbors, and colleagues, at the strike of 12:01 a.m. January 1, 2020, with a message that also included <italic toggle="yes">Welcome to a New Decade</italic>. Our New Year resolutions, goals, and plans have been truncated by the onset of &#x02026; COVID&#x02010;19. As I reflect on how live patterns of the entire world have changed, I am also reminded of Theodore Roethke's characterization of crisis&#x02014;&#x0201c;<italic toggle="yes">In a dark time</italic>&#x02014;[of uncertainties] <italic toggle="yes">the eye begins to see</italic>.&#x0201d; I see <italic toggle="yes">hope, resilience, strength</italic>, and affirmation that &#x0201c;<italic toggle="yes">this too shall pass</italic>&#x0201d; and when it does, it will leave behind opportunities for personal and professional transformation. Crises create opportunities. Let's seize the moment and shape the scientific and public discourse to advance research that enhances the well&#x02010;being of youth in a globalized world.</p></disp-quote>
+</p><sec id="jora13020-sec-0002"><title>INTRODUCTION</title><p>As the world transitioned into a new decade, January 2020, we were not only confronted with celebrations and resolutions for the new year, but overlaying this historic period was an unprecedented event that stopped the world; the COVID&#x02010;19 pandemic emerged, demanding new ways of being, interacting, and navigating everyday life patterns. While this event created major changes for everyone, causing immediate consequences for the world, it also illuminated the magnitude of pre&#x02010;existing inequities (National Academies of Sciences, Engineering, and Medicine [NASEM],&#x000a0;<xref rid="jora13020-bib-0049" ref-type="bibr">2023</xref>). These inequities disproportionately affect Black, Indigenous, Hispanic, Asian, and other people of color around the world. The pandemic was particularly devastating for those who have been marginalized, due to centuries of colonization, systemic racism, and structural oppression. Consequently, infants, children, youth, and families from these subpopulations experienced the greatest burden of danger, despair, hospitalizations, and deaths (NASEM,&#x000a0;<xref rid="jora13020-bib-0049" ref-type="bibr">2023</xref>).</p></sec><sec id="jora13020-sec-0003"><title>LESSONS LEARNED FROM <styled-content style="fixed-case" toggle="no">COVID&#x02010;19</styled-content>
+</title><p>Thus, <italic toggle="yes">the first lesson</italic> learned is that it the pandemic was a great revealer of how quickly the world came together to identify effective ways to increase safety and human survival. <italic toggle="yes">A second lesson</italic> was witnessing a major paradigm shift from research for the creation of knowledge, to research for immediate application. In this regard, frameworks guiding research moved from <italic toggle="yes">individual&#x02010;centered&#x02010;deficit&#x02010;problem&#x02010;focused approaches to upstream structures and systems to save lives. A third lesson learned</italic> emerged from witnessing the engagement of not only global team science research but a recognition of the need for research to inform and guide global policies and practices, and the need for immediate translation, dissemination, and implementation. Solutions included not only ways to save human lives but focusing on saving systems that impact human survival, including social, economic, employment, education, and health care systems. Collectively, these lessons, in particular the rapid response models, can serve as exemplars for the field of research on adolescence of ways to develop global team science for immediate translation, dissemination, and implementation for worldwide use.</p><p>It was astonishing to witness that when circumstances are considered urgent, policies can be immediately implemented to release emergency funding. In fact, over 18&#x02009;billion dollars were allocated to meet the urgent needs of the COVID&#x02010;19 pandemic. This unveiled <italic toggle="yes">a fourth lesson</italic>, urgent, investments in efforts to address the COVID&#x02010;19 pandemic affirmed that when the heart and mind are willing to address a crisis, possibilities become realities. The <italic toggle="yes">fifth lesson learned</italic> was the affirmation that the pandemic was also a great revealer that, while the entire world's safety and survival were at stake, COVID&#x02010;19 landed in an inequitable socio&#x02010;political environment, in which youth, families, and communities that have been historically marginalized were disproportionately impacted. This population not only experienced high rates of infections and hospitalization but also deaths, as many were members of essential workers, without the flexibility to shelter&#x02010;at&#x02010;home. Great efforts were undertaken to design, develop, and implement tailored interventions, including embedding medical health service delivery in their communities, and removing barriers to ensure that all had access to vaccines and equipment to reduce the spread of COVID&#x02010;19.</p><p>
+<italic toggle="yes">The final lesson learned</italic> was the reframing of high prevalence of social media and technology use. Rather than viewing these platforms as destructive for mental health, compromising family relationships, and social interactions, it was one of the most useful, efficient, and effective for disseminating new discoveries, timely and reliable information about the virus, as well as updates on the daily devastations (Sahni &#x00026; Sharma,&#x000a0;<xref rid="jora13020-bib-0061" ref-type="bibr">2020</xref>).</p></sec><sec id="jora13020-sec-0004"><title>SOLUTION&#x02010;FOCUSED APPROACHES: ENGAGING RESEARCHERS, POLICYMAKERS, EDUCATORS, PRACTITIONERS, AND COMMUNITIES' INFLUENCERS</title><p>The massive outbreaks, hospitalizations, and deaths, lead to unprecedent global research collaborations, ranging from bench scientists to policymakers, community influencers, and practice scientists. The openness to new ways of doing science and community engagement was also reflected in an appreciation of the contribution of transdisciplinary, multidisciplinary, and interdisciplinary research as key informants of practical knowledge generators and a recognition of the need for mixed methodological approaches (qualitative and quantitative methods, community engagement, and participatory approaches) to create discoveries to save lives. Thus, the pandemic created a sense of urgency that captured the attention of many, including but not limited to researchers, policymakers, medical providers, community stakeholders, school administrators, faith&#x02010;based leaders, employers, city officials, and youth and their families.</p><p>As President of the Society for Research on Adolescence (SRA), I felt this same sense of urgency to engage SRA in this scientific and public discourse. I collaborated with Andrea Hussong, University of North Carolina&#x02010;Chapel Hill, and the International Consortium of Developmental Science Societies, to establish an <italic toggle="yes">SRA COVID&#x02010;19 Rapid Response Steering Committee</italic> consisting of representatives from 12 countries to guide this initiative. The <italic toggle="yes">SRA COVID&#x02010;19 Rapid Response Committee</italic> was charged with developing infrastructure to support global collaborations among adolescent scholars to document, track, and share findings that captured ways in which adolescents' lives were being impacted by the COVID&#x02010;19 pandemic.</p><p>Similar to efforts ongoing in medical and clinical research, I sought to foster international and interdisciplinary research, engaging researchers, including early scholars, to build a global body of research adopting a life course perspective that would serve as baseline data to track the long&#x02010;term prognostic effects of the pandemic on adolescents as they transition through subsequent developmental stages. This initiative led to a two&#x02010;volume <italic toggle="yes">Journal of Research on Adolescence Special Issues</italic>: The Impact of COVID&#x02010;19 Pandemic on Adolescent Emotional, Social, and Academic Adjustment (Eds. Susan Branje and Amanda Morris). This Special Issue included an introductory article, Adolescence Amid a Pandemic: Short&#x02010; and Long&#x02010;Term Implications (Hussong et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0036" ref-type="bibr">2021</xref>), which provided the foundational basis for this initiative and an investigative lens to guide research and recovery efforts targeting adolescent development. This publication sought to &#x0201c;describe guideposts for setting a global, shared research agenda that can hasten research to recovery efforts surrounding the pandemic and youth development and included 21 studies of Asia, Europe, North America, and South America&#x0201d; (Hussong et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0036" ref-type="bibr">2021</xref>).</p><p>Emphasizing the need to seize moments and leverage lessons learned from the world's response to COVID&#x02010;19 served as the impetus for my SRA Presidential Address, <italic toggle="yes">Redefining Possibilities and Amplifying Marginalized Voices</italic>, during the SRA Biennial in New Orleans, LA, March 2022. In my address, I posed the question: <italic toggle="yes">What if the COVID&#x02010;19 Response Served as a Guidepost for Future Research on Adolescence? Solution versus Problem&#x02010;Focused Agenda</italic>. The <italic toggle="yes">all&#x02010;hands&#x02010;on&#x02010;deck</italic> response affirmed that when there is a will, equity and social justice can prevail. What if the same sense of urgency was given to other pandemics that also heighten safety and survival risks for children, youth, families, and communities? Addressing these questions can provide a sense of <italic toggle="yes">hope, resilience, and strength</italic> to address other critical issues confronting adolescents and their families by engaging in solution&#x02010;focused responses to create structural and system&#x02010;level change to increase safety and human survival.</p><p>In my presentation, specific attention was given to acknowledging the need to continue engaging in research and public discourse with a global perspective. With increase publications on COVID&#x02010;19 appearing in Journal of Research on Adolescence, I also emphasized the need to expand our work to include other pandemics that threaten the safety and survival of youth and adolescents, such as mass shootings, climate change, implications of anti&#x02010;immigration laws leading to unsupported refugees, ongoing war and civil conflict, and the continued consequences and devastation of poverty throughout the world. Each of these situations are major crisis that not only widen inequalities and disparities gaps but also threaten safety and survival of many children, adolescents, and families around the world. Thus, similar sense of urgency and rapid&#x02010;response solutions are needed, as these, too, can be characterized as pandemics. They are widespread events and circumstances that create despair, devastation, and early deaths. I further expanded this discussion by emphasizing multiple ways in which COVID&#x02010;19 and the other pandemics truncate future life opportunities with long&#x02010;term consequences, specifically providing examples of early deaths due to social and political unrest, police brutality and racialized shootings, and gun violence/mass shootings (Lawrance et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0040" ref-type="bibr">2021</xref>; South et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0072" ref-type="bibr">2022</xref>).</p><p>The sentiment of my presidential address echoes the message conveyed in Dr. Stephen Russell's SRA Presidential Address article&#x000a0;(<xref rid="jora13020-bib-0060" ref-type="bibr">2016</xref>), entitled, <italic toggle="yes">Social Justice, Research, and Adolescence</italic>. In his JRA publication, Dr. Russell posed the question: <italic toggle="yes">Can we imagine our research and our field as being in the service of realizing the potential of young people</italic>. Russell notes, &#x0201c;We need research that attends to urgencies, which I define as issues or conditions that influence adolescents' lives and well&#x02010;being which demand attention and action&#x0201d; (p. 4).</p><p>Similarly, I, too, charged adolescent scholars to engage in work that identifies pathways forward in a time of uncertainty. This vision for a brighter day and to hope, in the midst of darkness, is possible, if we seize the moments and lessons learned from COVID&#x02010;19 to inform and guide future research on adolescence. Embracing this framework to guide our work may offer greater insights on how pre&#x02010;existing pandemics, such as historical vestiges of enslavement, social and political unrest, climate change, mass shootings, and other traumatic situations, are impacting developmental trajectories of adolescents.</p></sec><sec id="jora13020-sec-0005"><title>ADDRESSING <styled-content style="fixed-case" toggle="no">COVID</styled-content>&#x02010;19 IN THE CONTEXT OF PRE&#x02010;EXISTING PANDEMICS</title><p>In the following sections, I summarize relevant research that substantiates the need to characterize social and political unrest, police brutality and racialized shootings, gun violence/mass shootings, and climate change as pandemics, as they also pose major threats to safety and human survival. Emphasized in this manuscript is the significance of environmental and context as fundamental basis for also considering ways in which pre&#x02010;existing conditions may amplify vulnerabilities and affect life course trajectories of adolescents, especially those whose lives have been impacted by generational trauma (Scott&#x02010;Jones &#x00026; Kamara,&#x000a0;<xref rid="jora13020-bib-0064" ref-type="bibr">2020</xref>). To explain the implications of generational exposure to both historical and contemporary pandemics on variability in developmental trajectories of adolescents, I draw on tenets from the Life Course Theory (Elder,&#x000a0;<xref rid="jora13020-bib-0089" ref-type="bibr">1981</xref>) and the Integrative Model for the Study of Stress in Black American Families (Murry et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0047" ref-type="bibr">2018</xref>). These two models informed the conceptualization of a new theoretical framework, the Multi&#x02010;Transgenerational Generational Life Course Theory (MTG&#x02010;LCT), to guide the summary of relevant research studies that support the need to expand explanations of the life course development of adolescents to consider both historic and contemporary conditions A detailed overview and conceptualization of the origin of the MTG&#x02010;LCT is provided in the following section.</p></sec><sec id="jora13020-sec-0006"><title>OVERVIEW OF THE MULTI&#x02010;TRANSGENERATIONAL LIFE COURSE THEORETICAL FRAMEWORK</title><p>Elder's&#x000a0;(<xref rid="jora13020-bib-0024" ref-type="bibr">1999</xref>) LCT emerged as a framework to explain how structural changes emerging from the Great Depression of the 1930s impacted individuals' development overtime. This theory posits that several key factors explained the extent to which one successfully navigated this historic event. These factors included the contexts, environment, or place where people live; the timing and sequencing of transitions or life changes; nature of linked lives or social relationships; and individuals' choices during and throughout their development. Thus, major tenets of LCT, historical timing, place, context, and social relationships, are especially important for explaining how major events, such as COVID&#x02010;19, may affect one's life course. However, the theory falls short in several ways. First, the conceptualization of linked lives narrowly focuses on current social relationships, often conceptualized between one&#x02010;generation&#x02010;parents/caregivers and their children. While historical time, place, and context are included, the is a missed opportunity to capture the interconnectivity of historic events, historical contexts, and time to linked lives across generations. Doing so would explain ways in which the lived experiences the previous generations are shared and transmitted across historical time context, and place to influence and affect lived experiences of later generations. Further, while LCT assume that lives and development are shaped by age, social structures, and historical change (Elder et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0025" ref-type="bibr">2003</xref>) and that development is a lifelong process (i.e., neonate through adulthood), it is not a process model. Consequently, it does describe how historical time, place, and context and linked lives influence sequencing of transitions and in turn human agency that affect development and adjustment overtime. Further, limited attention is given accounting for the cumulative effects of a historic event occurring in the context of other adverse traumatic experiences, such as the vestiges of enslavement and violence associated with colonization of indigenous peoples, may amplify negative experiences and in turn affect developmental trajectories.</p><p>While there have been several advancements in LCT over time, there remains a need to explain the processes through which historical time, place, and context cascade through families, across time to affect developmental trajectories across multiple generations. Thus, greater emphasis on the contributions of linked lives and social relationships may explain ways in which multi&#x02010;transgenerational life experiences create a historic pileup of major traumatic events that have implications for navigating pandemics. This historic pandemic exposure effect may create unique challenges for adolescents from marginalized or minoritized members of marginalized groups. Imagine the developmental trajectories of adolescents, ascribed to a minoritized social positions, navigating a pandemic with challenges associated with pre&#x02010;existing conditions emerging from generational oppression. These youths are at increased risk for exposure to police brutality, fear of being deported, higher vulnerability of being separated from their parents in the enforcements of 2003 US Immigration and Customs Enforcement policies. Further, the recent whitewashing of education is a carryover of efforts to denigrate the worthiness of generations of enslaved family members, designed to eliminate their histories under the gaslighting of anti&#x02010;Critical Race Theory.</p><p>Each of these events, historic and contemporary, creates harm that disrupts youths' development and compromises social cognition, psychological, physiological, and emotional, and behavioral regulation, with broad cumulative and lasting effects that can lead to PTSD and other disorders (Brown,&#x000a0;<xref rid="jora13020-bib-0012" ref-type="bibr">2003</xref>; Brenick et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0090" ref-type="bibr">2024</xref>; Petruccelli et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0054" ref-type="bibr">2019</xref>). Yet, the scope of LCT does not sufficiently explain how these critical issues affect the life course development of adolescents. To address these limitations, I draw on The Integrative Model for the Study of Stress in Black American Families (Murry et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0047" ref-type="bibr">2018</xref>). This theoretical model provides a comprehensive perspective on the ways in which historical and current discrimination has direct and indirect effects on child behavioral health (Murry et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0047" ref-type="bibr">2018</xref>). The integration of tenets of each model informed the development of the Multi&#x02010;Transgenerational Life Course Theory.</p><p>The fundamental premise of the Multi&#x02010;Transgenerational Life Course Theory, as shown in Figure&#x000a0;<xref rid="jora13020-fig-0001" ref-type="fig">1</xref>, is the need to expand LCT to include processes that affect developmental trajectories. These processes include historic events that linked to families over multiple generations and are embedded in and are filtered across not only multiple contexts: ecological, historical, geographic, and cultural, but ancestorial experiences are transmitted across generations. Thus, ancestorial experiences have continued effects and consequences, manifested by and through the transmission of advantaged or disadvantaged social positions, namely, sociodemographic, racial/ethnic group membership, familial, community, and environmental and societal contexts of individuals and families. As such, the effects and consequences of a pandemic will disproportionately affect the lives of youth and families depending on pre&#x02010;conditions and circumstances that may have placed them in a more vulnerable state due to the consequences of marginalization. Similar to Murry et&#x000a0;al.&#x000a0;(<xref rid="jora13020-bib-0047" ref-type="bibr">2018</xref>) Integrative Model for the Study of Stress in Black American Families, the MTG&#x02010;LCT model begins with illustrating the carryforward effects and consequences of historic trauma over multiple generations. The process through these experiences continue to manifest in families to affect the experiences over generations is through the transgenerational transmission of these experiences. Transgenerational processes describe ways in which ancestors' traumatic experiences are directly or indirectly transmitted from one generation to the next: directly through epigenetic inheritance and indirectly through storytelling/narratives of ancestors' lived experiences. That the experiences of earlier generations have consequences for later generations can be demonstrated in the following example. Social positions and identities can be traced back to historical connections with their ancestors. For subpopulations that are ascribed to be marginalized, this social position can be traced by to sociocultural contextual stressors experienced that began with their ancestors. The consequences of these experiences are characterized as post&#x02010;traumatic syndrome, due to the transmission of generational exposure to historical trauma through enslavement, lynching; trauma and violence associated with colonization of indigenous peoples, including Indian Boarding Schools; encampment of Japanese Americans; and forced deportation of Mexican Americans in the 1930s. These experiences create pre&#x02010;existing conditions, many of which can be considered pandemics, through the creation of mundane, extreme environmental stressor that limit opportunities by increasing marginalization through oppressive policies and practices. For adolescents relegated to minoritized or marginalized positions, across the world, often bear the greatest burden with more devastating outcomes during pandemics. Imagine life course trajectories of adolescents growing up in poverty that spans over multiple generations navigating COVID&#x02010;19, in a high crime community with high police surveillance, and loss of electricity during extreme weather patterns, due to climate change. While many of these challenges are structural and beyond the immediate control of families, a plethora of studies have demonstrated the powerful nature of parenting for adolescent development. In this regard, another viewpoint is to imagine an adolescent confronting these challenges but are able to survive and thrive through the generational transmission of families' cultural strength&#x02010;based assets.</p><fig position="float" fig-type="FIGURE" id="jora13020-fig-0001"><label>FIGURE 1</label><caption><p>Multi&#x02010;transgenerational life course model (Murry et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0091" ref-type="bibr">2024</xref>).</p></caption><graphic xlink:href="JORA-35-0-g001" position="anchor" id="jats-graphic-1"/></fig><p>In addition to the transmission of generational trauma, the MTG&#x02010;LCT also includes generational transference of cultural strength&#x02010;based assets that explains why some adolescents and their families are able to successful navigate adversities and survive and thrive. Highlighted in this process is the significance of narrative and storytelling across generations of how their families have survived, drawing on assets. These assets also influence time during one's developmental stage when change occurs (i.e., age, period, and cohort), transitions (e.g., entrance into various roles and developmental milestones) and human agency (e.g., perceived capacity to influence one's future) (Brave Heart,&#x000a0;<xref rid="jora13020-bib-0008" ref-type="bibr">2003</xref>; Burnett,&#x000a0;<xref rid="jora13020-bib-0015" ref-type="bibr">2015</xref>; Mohatt et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0044" ref-type="bibr">2014</xref>). Thus, a multi&#x02010;transgenerational life course, risk&#x02010;strength&#x02010;based model illustrates the amplification and compounding effects of multiple pandemics on and in families, including the multiple pandemics addressed in the following sections.</p></sec><sec id="jora13020-sec-0007"><title>POLITICAL AND SOCIAL UNREST: CONSEQUENCES FOR ADOLESCENTS IN MARGINALIZED FAMILIES</title><p>Political and social upheavals are particularly detrimental to marginalized adolescents' development, but empirical evidence shows that major life events have long&#x02010;term consequences beyond the intrapersonal level (i.e., identity formation). The disproportionate effects of socio&#x02010;political events and unrest on marginalized families' health and well&#x02010;being have been documented throughout history.</p><p>Policies enacted by conservative leaders have mischaracterized marginalized families (e.g., as &#x02018;threats&#x02019; to the United States) and resulted in elevated exclusionary practices at structural and interpersonal levels. A few examples of sociopolitical events that have contributed to the widespread hostility and are associated with consequent unrest include administration threats to dismantle the Deferred Action for Childhood Arrivals (DACA; American Council on Education,&#x000a0;<xref rid="jora13020-bib-0001" ref-type="bibr">2017</xref>), as well as Trump's public anti&#x02010;Latinx remarks about Mexicans being like drug dealers, rapists, and criminals (Reilly,&#x000a0;<xref rid="jora13020-bib-0058" ref-type="bibr">2016</xref>), massive social media coverage demoralizing Chinese as major source of COVID&#x02010;19 in the United States, leading to heightened anti&#x02010;Asian discrimination and public ridicule and physical assaults (Misra et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0042" ref-type="bibr">2020</xref>).</p><p>Anti&#x02010;immigration policies affect individuals' everyday life experiences, creating political uncertainty and fear of family separation (Andrade,&#x000a0;<xref rid="jora13020-bib-0002" ref-type="bibr">2017</xref>). The enactment of these policies has also been associated with increased anxiety, with eventual physical health problems, including increased blood pressure rates, disrupted sleep patterns (Eskenazi et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0027" ref-type="bibr">2019</xref>; Perreira &#x00026; Pedroza,&#x000a0;<xref rid="jora13020-bib-0052" ref-type="bibr">2019</xref>), and elevated risk for substance use as stress coping strategy among adults (Pinedo,&#x000a0;<xref rid="jora13020-bib-0055" ref-type="bibr">2020</xref>). These policies also negatively impact adolescents, as they navigate forming an identity and worldview (Wray&#x02010;Lake et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0086" ref-type="bibr">2016</xref>), in a society that rejects them, their families, and their community.</p><p>Violent and oppressive acts toward LGBTQIA+ students, according to a Centers for Disease Control and Prevention (CDC) study, have elevated concerns for their safety, as exposure to cyberbullying and physical threats on school campuses increase, which has been shown to not only increase school absenteeism but also heighten the risk for social isolation, anxiety, and depression (CDC,&#x000a0;<xref rid="jora13020-bib-0018" ref-type="bibr">2023</xref>). Collectively, anti&#x02010;Black, anti&#x02010;Muslim rhetoric anti&#x02010;immigrant, and anti&#x02010;Latinx sentiments, have not only heightened risk vulnerabilities among marginalized students (Costello,&#x000a0;<xref rid="jora13020-bib-0019" ref-type="bibr">2016</xref>; Santos &#x00026; Menjivar,&#x000a0;<xref rid="jora13020-bib-0063" ref-type="bibr">2013</xref>) but also have had cascading effects on their families, creating fear that hindered help&#x02010;seeking from social services. Many families stay in isolation due to fear of deportation (Doshi et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0022" ref-type="bibr">2020</xref>). In alignment, Potochnick et&#x000a0;al.&#x000a0;(<xref rid="jora13020-bib-0056" ref-type="bibr">2017</xref>) showed that local immigration enforcement was associated with a 10%&#x02010;point increase in food insecurity risk for undocumented Mexican households with children. Other negative consequences included, but not limited to, avoiding both physical and mental health care, not reporting crime to authorities, and reluctance to send their children to school (Gonz&#x000e1;lez,&#x000a0;<xref rid="jora13020-bib-0031" ref-type="bibr">2012</xref>). Essentially, racialized political and social unrest create fear across populations; for those in positions of power and privilege fear is associated with losing their &#x0201c;dominant&#x0201d; position, while for those relegated to marginalized positions, fear is often linked to heightened concerns for their safety and lives (Lake &#x00026; Rothchild,&#x000a0;<xref rid="jora13020-bib-0039" ref-type="bibr">1996</xref>). This is especially true for youth and families with intersectional marginalized identities (Purdie&#x02010;Vaughns &#x00026; Eibach,&#x000a0;<xref rid="jora13020-bib-0057" ref-type="bibr">2008</xref>). The coping responses have long&#x02010;term consequences with detrimental effects over the life course.</p><p>While at least 88% of Black American adults' report having had some race&#x02010;related experience during their lifetime, Simons et&#x000a0;al.&#x000a0;(<xref rid="jora13020-bib-0070" ref-type="bibr">2002</xref>) reported that 46% of early adolescents reported having experienced racial slurs, 33% had been excluded from an activity due to race, and 18% indicated that they had been threatened with physical harm because of their race. Both children and adolescents report discriminatory experiences in schools, neighborhoods, and with the police (Berkel et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0005" ref-type="bibr">2009</xref>; Fisher et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0028" ref-type="bibr">2000</xref>; Saleem &#x00026; Byrd,&#x000a0;<xref rid="jora13020-bib-0062" ref-type="bibr">2021</xref>; Seaton &#x00026; Douglass,&#x000a0;<xref rid="jora13020-bib-0065" ref-type="bibr">2014</xref>; Simons et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0070" ref-type="bibr">2002</xref>; Spears Brown &#x00026; Bigler,&#x000a0;<xref rid="jora13020-bib-0073" ref-type="bibr">2005</xref>; Wong et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0085" ref-type="bibr">2003</xref>). Extensive evidence shows direct pathways from racial discrimination during adolescence to immediate and long&#x02010;lasting effects on mental health (e.g., Brody et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0010" ref-type="bibr">2006</xref>; Del Toro et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0020" ref-type="bibr">2019</xref>; Hughes et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0035" ref-type="bibr">2016</xref>; Simons et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0070" ref-type="bibr">2002</xref>; Smith&#x02010;Bynum et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0071" ref-type="bibr">2014</xref>). In addition, vicarious experiences of discrimination (like the effect of exposure to secondhand smoke on chronic disease) in which children observe discriminatory acts against family members or other community members can also diminish mental health (Ford et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0029" ref-type="bibr">2018</xref>; Simons et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0070" ref-type="bibr">2002</xref>). Some evidence suggests that vicarious discrimination experiences may be even more insidious than personal experiences for children (Simons et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0070" ref-type="bibr">2002</xref>), perhaps by increasing perceptions that discrimination is ubiquitous and unavoidable. Results from Berkel et&#x000a0;al.&#x000a0;(<xref rid="jora13020-bib-0005" ref-type="bibr">2009</xref>) noted in their mixed&#x02010;methods study when youth questions were posed during face&#x02010;to&#x02010;face interviews, youth overly reported concerns about how racism was affecting their parents and other adults in their communities. These concerns were further embellished through shared examples of their daily experiences, demonstrating ways in which they were being devalued by their White teachers and peers at school and Black males.</p><p>It is noteworthy that experiences of social marginalization, negative stereotyping, microaggressions, scapegoating, and low expectations about competence and morality by teachers and peers begin as early as 5&#x02009;years of age for Black children (Spears Brown &#x00026; Bigler,&#x000a0;<xref rid="jora13020-bib-0073" ref-type="bibr">2005</xref>) and continue to escalate as youth transition into middle school age with greater frequency and intensity and grave consequences during adolescence and young adulthood (Fisher et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0028" ref-type="bibr">2000</xref>; Murry et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0048" ref-type="bibr">2022</xref>; Sellers et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0067" ref-type="bibr">2006</xref>). Gibbons et&#x000a0;al.&#x000a0;(<xref rid="jora13020-bib-0030" ref-type="bibr">2012</xref>), for example, found that among 10&#x02010;year&#x02010;old Black American children, early experience with racial discrimination was predictive of substance use 5&#x02009;years later. Other scholars reported that among fourth and sixth grade Black American students, anticipating being exposed to racial discrimination experiences, was associated with lower reading skills, higher externalizing behaviors, and increased reports of stress have been associated with elevated anxiety and depression (Burchinal et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0014" ref-type="bibr">2008</xref>; Sellers et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0066" ref-type="bibr">2003</xref>; Simons et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0070" ref-type="bibr">2002</xref>; Williams et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0084" ref-type="bibr">2003</xref>), elevating risk for suicide ideation and linked to 78% increase in suicide from 2000 to 2020 (Sheftall et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0068" ref-type="bibr">2022</xref>). In addition, Stein et&#x000a0;al.&#x000a0;(<xref rid="jora13020-bib-0074" ref-type="bibr">2019</xref>) found that discrimination in fifth grade for Mexican&#x02010;origin youth predicted greater depression and anxiety at the end of 11th grade.</p><p>These examples may highlight racism as it occurs for African Americans and Latino/a/x in the United States, but multi&#x02010;racism extends beyond these populations. For example, the UNICEF Report&#x000a0;(<xref rid="jora13020-bib-0079" ref-type="bibr">2022</xref>), <italic toggle="yes">Rights denied: The impact of discrimination on children</italic> revealed that two&#x02010;thirds of children experienced discrimination in their everyday life based on their nationality, ethnicity, language, and/or religion, with significant impact and consequences. They are more likely to be excluded from receiving critical services, education, water and sanitation, ample food, and access to rights through the justice system.</p><p>Thus, it is not surprising that the &#x0201c;CDC Director Rochelle P. Walensky, in&#x000a0;<xref rid="jora13020-bib-0018" ref-type="bibr">2023</xref>, <italic toggle="yes">declared racism a public health threat</italic> that directly affects the well&#x02010;being of millions of Americans and, as a result, affects the health of our entire nation.&#x0201d; The long&#x02010;term effects and costs of racism are also far&#x02010;reaching in other groups although often researched with Black families. Discrimination and racialized conflict are global problems, casting universal devastation and harm through unique local enactments, affecting the development of youth around the world, over the life course.</p><p>Political and social unrest has been met with civic engagement, as youth advocate for social justice and corrective actions to address critical issues that hinder their developmental trajectories, including protesting against racial discrimination, xenophobia, anti&#x02010;immigration, police brutality, and climate change. Some youth, especially those representing marginalized groups, join protests to cope and feel empowered amidst uncertainty (Wray&#x02010;Lake et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0087" ref-type="bibr">2018</xref>, <xref rid="jora13020-bib-0088" ref-type="bibr">2022</xref>). Examples of youth civic engagement include protesting in opposition to the anti&#x02010;LGBTQIA+ legislation (Parris et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0050" ref-type="bibr">2021</xref>), which included confronting school boards through community organizing (Carrabino,&#x000a0;<xref rid="jora13020-bib-0016" ref-type="bibr">2023</xref>). In addition, joining adults in the 1&#x02010;day strike called &#x0201c;A Day Without Immigrants&#x0201d; (Stein,&#x000a0;<xref rid="jora13020-bib-0075" ref-type="bibr">2017</xref>) to demonstrate the contribution and worth of immigrants to the economic wellbeing of the United States. Finally, many youths marched in the Black Lives Matter Movement (BLM). BLM was created in 2013 in response to police brutality and racial injustice in law enforcement and legal decisions regarding the deaths of Black people, in particular Black males. In 2020, the killing of George Floyd and Breonna Taylor promoted a historic wave of youth activism across the United States, igniting a &#x0201c;global diffusion of Black Lives Matter protests,&#x0201d; especially in European countries (Ellefsen &#x00026; Sandberg,&#x000a0;<xref rid="jora13020-bib-0026" ref-type="bibr">2022</xref>, p. 1104). Police brutality as well as mass shootings are also critical issues that warrant urgent solution&#x02010;focused responses.</p></sec><sec id="jora13020-sec-0008"><title>MASS SHOOTINGS AND GUN VIOLENCE: PUBLIC HEALTH EPIDEMIC OR PANDEMIC</title><p>Mass shootings and increased deaths due to firearm access should be characterized as a pandemic. These are public health concerns, as they threaten safety, increase lost lives, increase early deaths, and global occurrences. Yet, it is commonly viewed as an epidemic because, in comparison to other countries, namely Western Asia, Northern and Southern Africa, and South America (Silva,&#x000a0;<xref rid="jora13020-bib-0069" ref-type="bibr">2023</xref>), mass shootings are more prevalent in the United States (Jedwab et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0038" ref-type="bibr">2021</xref>). In 2022, the estimate of deaths due to firearms was 20,138 (Brownlee,&#x000a0;<xref rid="jora13020-bib-0013" ref-type="bibr">2022</xref>). Deaths due to firearms, among children in the United States, is 36.5 times the overall rate observed in other high&#x02010;income countries.</p><p>In fact, the use of firearms is the leading cause of death for children and adolescents in the United States. Those at greatest risk are children aged 5&#x02013;14&#x02009;years, who are 21 times more likely to be killed with guns. Furthermore, access to firearms has been associated with increased adolescent suicide risk (Reinbergs et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0059" ref-type="bibr">2024</xref>), particularly among Black youth, who are more likely to have access to guns (Mascia &#x00026; Pierce,&#x000a0;<xref rid="jora13020-bib-0041" ref-type="bibr">2022</xref>). In 2020, 4368 children and teens (ages 0&#x02013;19) died from self&#x02010;imposed firearm injuries, prompting the president of the American Academy of Family Physicians, Dr. Tochi Iroku&#x02010;Malize to declare gun violence a public health crisis. In a recent decision Surgeon General Vivek Murthy issued a landmark Surgeon General's Advisory on Firearm Violence, declaring it as a public health crisis, with devastating safety and concerns for human lives, and the need for rapid response is warranted, given the massive numbers of individuals dying from a preventable situation (The US Surgeon General's Advisory,&#x000a0;<xref rid="jora13020-bib-0078" ref-type="bibr">2024</xref>).</p><p>While acknowledging that the concentration of mass shootings and gun&#x02010;related deaths in the United States is the rationale for an epidemic classification, it is also a global phenomenon, with the potential for widespread occurrences, leading to threats to safety and human survival. These characteristics meet the criteria that reflect a pandemic. Classifying mass shootings and gun violence as a global public health pandemic may hold promise to move beyond counting the number of deaths to identifying ways to de&#x02010;escalate gun&#x02010;related deaths, and in turn, lead to engaging in efforts with a sense of urgency to advance scientific and public health resources to identify solutions from a global perspective. Potential solutions may include the development of global policies that guide the enforcement of responsible gun legislation, data sharing of the incidences and prevalence across countries, posting profiles and backgrounds of mass shooters, and common targeted locations for these attacks (Silva,&#x000a0;<xref rid="jora13020-bib-0069" ref-type="bibr">2023</xref>). Finally, establishing and supporting research teams to document the global impact of mass shootings and gun violence as well as providing more in&#x02010;depth insight on key processes and mechanisms to inform policies and practices is needed. Similar rapid response global preventive interventions to address the threats to human survival due to climate change are also warranted.</p></sec><sec id="jora13020-sec-0009"><title>CLIMATE CHANGE: ONE OF THE GREATEST GLOBAL HEALTH THREATS</title><p>Climate change has been defined as one of the greatest global health threats to human survival (Watts et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0080" ref-type="bibr">2015</xref>). Climate change has been characterized as racialized environmental injustice, as youth and families that are racially and socioeconomically marginalized are disproportionately impacted by climate change&#x02010;related extreme weather conditions (Berberian et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0004" ref-type="bibr">2022</xref>). Berberian et&#x000a0;al.&#x000a0;(<xref rid="jora13020-bib-0004" ref-type="bibr">2022</xref>) contend that deaths and destructions from both hurricanes Katrina and Maria were consequences of pre&#x02010;existing, structural, and systemic oppression, due to the vestiges of enslavements' historical racialized neglect of their communities. Moreover, climate change has also been linked with major flooding in the Southern Hemisphere, destroying entire towns, and causing physical harm, met with devastating consequences for children, youth, families, and their communities. For example, climate change and natural disasters, have been associated with elevated anxiety, depression, post&#x02010;traumatic stress disorder (PTSD), and worry about what might happen in the future, thereby disrupting everyday life patterns (Lawrance et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0040" ref-type="bibr">2021</xref>). These emotional reactions have spawned a new field of research, eco&#x02010;anxiety (chronic fear of suffering an environmental cataclysm) or climate anxiety (Pearson,&#x000a0;<xref rid="jora13020-bib-0051" ref-type="bibr">2024</xref>). Eco&#x02010;anxiety can take a toll on one's mental health, leading to hopelessness and helplessness, as youth, families, and their communities witness increasing patterns of catastrophic weather, devastating storms, tornados, floods, hurricanes, unbearable health and cold, destroying way of life (Doherty &#x00026; Clayton,&#x000a0;<xref rid="jora13020-bib-0021" ref-type="bibr">2011</xref>). Data from the Pew Foundation revealed that 60% of adolescents are very to extremely worried about global warming and climate change, feeling afraid about their future, and 77% reported feeling sad, angry, helpless, and feeling that their future and humanity are doomed (Stokes et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0076" ref-type="bibr">2015</xref>). In addition, a recent landmark study of 10,000 youth ages 16&#x02013;25&#x02009;years, in 10 countries (Hickman et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0033" ref-type="bibr">2021</xref>), revealed that respondents across all countries were worried about climate change, 59% were very or extremely worried, and more than 50% reported being sad, anxious, angry, powerless, helpless, and guilty. A statement by one adolescent clearly illustrates a sense of devastation, &#x0201c;I don't want to die. But I don't want to live in a world that doesn't care about children and animals&#x0201d; (Hickman,&#x000a0;<xref rid="jora13020-bib-0032" ref-type="bibr">2020</xref>, p. 58). This emotional response is not uncommon as more than 45% youth participating in Hickman et&#x000a0;al.'s&#x000a0;(<xref rid="jora13020-bib-0033" ref-type="bibr">2021</xref>) global study indicated that their emotions about climate change were negatively affecting their daily life, with 75% feeling frightened about the future, and attributed inadequate government response as reasons for climate change and felt betrayed (Hickman et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0033" ref-type="bibr">2021</xref>). Youths' responses not only reflected despair but &#x0201c;the care they have for our world&#x0201d; (p. e872).</p><p>The need for an urgent response is warranted, as climate creates chronic stressors that could threaten the mental health and well&#x02010;being of children and young people around the world, including health, safety, agency, schooling/learning, early onset of chronic disease, food insecurity, psychological trauma, and displacement (Drumm &#x00026; Vandermause,&#x000a0;<xref rid="jora13020-bib-0023" ref-type="bibr">2023</xref>), with greater disparities among racial&#x02010;ethnic minoritized adolescents who reside in low resource communities. As youth are encumbered with the weight of the climate crisis, in combination with other ongoing pandemics, including those that may occur in the future, they are a critical part of the solution. Efforts to address safety concerns and save human lives need to include youth voices, to validate and respect their concerns, as well as their perspectives, and ideas to move society forward. It is also important to elevate the significance of both historic and contemporary events in shaping adolescents' lives, and the key role of transgenerational linked lives in their development.</p><p>The sense of urgency served as the impetus for and informed the major research questions framing my 2022 SRA Presidential Address: &#x0201c;What if COVID&#x02010;19 Response served as the Guidepost for Future Research on Adolescence: Solution versus Problem Focused Agenda?&#x0201d; Specifically, the COVID&#x02010;19 pandemic response was a great revealer of ways to address major life events, with a sense of urgency, when the safety and survival of human life is at stake. That solutions emerged rapidly to control COVID&#x02010;19 pandemic is not surprising, given the immediate federal funding of $18&#x02009;billion (Azoulay &#x00026; Jones,&#x000a0;<xref rid="jora13020-bib-0003" ref-type="bibr">2020</xref>). Highlighted in this paper is the urgent need to engage in rapid solution focused translational research to respond to other pandemics, namely, social political unrest, racism and structural oppression, mass shootings, and climate change, to also reduce risk, harm, and save lives. The increasing complexity of the scientific, political, economic, and social challenges mandate a paradigm shift toward systems&#x02010;level approaches, with a goal of more far&#x02010;reaching and systemic change. It also requires the formation of transdisciplinary collaborations that focus on practical, application research to more efficiently and effectively inform and guide policies and preventive interventions for rapid response to address challenges confronting adolescents and their families and communities.</p><p>Each of the major life events discussed in the current manuscript, historic and contemporary, creates harm that disrupts youths' development and compromises social cognition, psychological, physiological, and emotional, and behavioral regulation. Further, these events have potential negative broad and cumulative consequences over the life course. For some adolescents, their contemporary experiences are shaped by multiple generational traumas, elevating risk for lack of access and opportunities due to marginalized social positions and ascribed minoritized identities. These socio&#x02010;political placements create pre&#x02010;existing conditions that increase vulnerabilities and with long&#x02010;term consequences. To illustrate these linkages, the Multi&#x02010;Transgenerational Life Course Theoretical model was developed. This model draws both LCT and Murry et&#x000a0;al.'s&#x000a0;(<xref rid="jora13020-bib-0047" ref-type="bibr">2018</xref>) Integrative Model for the Study of Stress in Black American Families. MTG&#x02010;LCT acknowledges the critical role of linked lives, social relationships, historical time, place, and context in adolescents' development. As a process model, it describes ways in these processes are transmitted generationally, such that socio&#x02010;historical contextual stressors, linked to historical pandemics, namely enslavement and Jim Crow Laws, Japanese encampment, Indian Boarding Schools, and others, continue to affect the lives of families over generations. Contemporary manifestations are illustrated in overrepresentation of non&#x02010;White adolescents who are, and their families are communities, are marginalized economically, politically, and geographically in segregated communities. Further, those of marginalized because of gender identity are also subjected to oppression and trauma. These potentially traumatic events existed prior to the COVID&#x02010;19 pandemic, what I have characterized as pre&#x02010;existing pandemics with consequences that are experienced through social determinants (e.g., mundane extreme environmental stressors&#x02010;MEES). MEES take a toll on adolescents and their families, compromising healthy family functioning, and, in turn, directly affecting developmental outcomes of adolescents.</p><p>Conceptually, MTG&#x02010;LCT also specifies the cascading effects of ancestors' traumatic experiences on subsequent generations, characterized as transgenerational transmission of development. Methodologically, this model allows for the inclusion of traumatic experiences over multiple generations and include processes to track the transmission of these experiences by documenting transitions and changes. These changes may be manifested by witnessing shifts in epigenetic inheritance or by engaging caregivers, elders, and adolescents in storytelling/narratives of ancestors' lived experiences. Both approaches provide insight on the potential significance of linked lives, social relationships, historical place and space over generations. That generations have survived and thrived reflects human agency in the transference of risk, resilience, resistance, and the capacity to navigate &#x0201c;toxic waters&#x0201d; (Murry et&#x000a0;al.,&#x000a0;<xref rid="jora13020-bib-0048" ref-type="bibr">2022</xref>). Recognizing generational transmission of hope, strength, and resilience has implications for deeper understanding of how and why some adolescents survive despite adversities. Thus, an examination of the significance of cultural, strength&#x02010;based assets, as noted in the MTG&#x02010;LCT, may be informative to explain variability in developmental trajectories among a cohort of adolescents across generations, who fares well, under what circumstances, and why. MTG&#x02010;LCT provides a framework to explain how cascading effects of historic events, such as COVID&#x02010;19 and other pandemics, in the creation of socio&#x02010;contextual risk factors, also require solutions to save lives, but it also recognizes immediate human survival needs that also emerge. For example, floods emerging from climate change, not only require solutions to save lives but also the need for immediate access to resources for safety and survival, including the need for health care, housing, food, employment, and other public health concerns.</p><p>The solution&#x02010;focused approach undertaken to address COVID&#x02010;19 primarily targeted system level strategies. System level approaches recognize that social drivers or social determinants of health are interconnected within a web of developmentally&#x02010; and socio&#x02010;historically&#x02010;grounded relationships and cultural dynamics. The MTG&#x02010;LCT offer guidance on how to address system level change, by targeting mundane extreme structural and environmental stressors. To do so will require the formation of interdisciplinary and transdisciplinary&#x02010;community partnership team science&#x02014;a collaboration among scientists, power holders, communities, and systems&#x02014;that transcends traditional boundaries, integrates diverse methodological knowledge, and theoretical perspectives from a wider range of fields. This approach also allows for a more holistic approach to save lives, and in this instance, foster positive developmental outcomes among adolescents.</p><p>System level solution focused approaches also require posing research questions that are not only policy and public health driven but also to inform and guide the political will of public power holders (i.e., policymakers and community leaders), as well as funding at levels to sufficiently support research to address and eradicate presenting crises, including the multiple pandemics that are hindering optimal development among adolescents, their families, and communities. In addition, system level solutions require the use of rapid response models to guide actionable approaches, including tearing down silos that encourage the pooling resource, both domestically and globally, to improve the quality of research. Engaging in research without borders hold promise for creating worldwide system level change, as the creation of global teams can increase the capacity of researchers, whose siloed specialties become more integrated when exposed to other expertise and approaches different from their own. In this respect, transdisciplinary team science is not only viewed as strategically imperative but also as a methodological choice. For example, developing collaborations across and within disciplines, as well as applying mixed methodological approaches, and engaging adolescents, their caregivers, and key community informants as expert partners, may hold promise for unearthing new discoveries to inform and guide system level preventive interventions that are not only universal but also global. To illustrate this perspective, addressing the impact of climate change on today's adolescents requires combining climate and environmental science, economics, behavioral and social science, political and health policy researchers, as well as geneticists, may more readily identify pathways to not only reduce global, community and individual&#x02010;level greenhouse gas emissions but also deescalate and emerging mental health toll of climate change, eco&#x02010;anxiety.</p><p>This global system level, transdisciplinary approach will not only be critical for addressing climate change but may also inform ways to address the consequences of social and political unrest on adolescent development. The benefit of this approach is that it may lead to the creation of global policies and practices for advancing the safety and survival of humans around the world.</p></sec><sec id="jora13020-sec-0010"><title>CREATING A SOLUTION&#x02010;FOCUSED RESEARCH AGENDA THROUGH THE VOICES OF ADOLESCENTS</title><p>Imagine the kind of policies and practices that might emerge if the same level of funding, support for global, trans&#x02010;multi&#x02010;interdisciplinary research, adolescent&#x02010;caregivers&#x02010;community engaged research, and scientific&#x02010;policy maker collaborative efforts were leveraged to address this issue. A rapid response centered on scientific solution&#x02010;focused discoveries, in which research findings are designed for translation into policies and practices to address solutions. Imagine a solutions&#x02010;focused research agenda when adolescents serve as expert partners in the process. In the spirit of&#x02014;nothing for us without us, I urge adolescent researchers, preventive interventionist, and practitioners to engage youth as expert collaborators. They can serve as key advisors and informants to inform and guide not only research questions and methodological approaches but also design and develop youth&#x02010;centered implementation and dissemination platforms. Their involvement is a pathway forward to &#x0201c;find the answers.&#x0201d; Elevating adolescents' voices in the rapid&#x02010;solution response acknowledges that they are a critical part of the solution to critical issues that affect the future of adolescents around the world.</p></sec><sec sec-type="conclusions" id="jora13020-sec-0011"><title>CONCLUSION</title><p>In conclusion, while the COVID&#x02010;19 pandemic created despair, devastation, everyday life disruptions, and massive lost lives, it also provided opportunities to siege moments and lessons learned from the rapid&#x02010;solutions&#x02010;focused response to reduce threat to safety and survival of human lives. In this regard, I pose the question: <italic toggle="yes">What if the COVID&#x02010;19 Response Served as a Guidepost for Future Research on Adolescence? Solution</italic> versus <italic toggle="yes">Problem&#x02010;Focused Agenda?</italic> Drawing from COVID&#x02010;19 response, great contributions to the field of adolescent research may be rendered from targeting system&#x02010;level preventive interventions, engaging researchers, practitioners, policymakers, trusted community partners, families, and other power influencers to invest in research with specific focus on human safety and survival. In addition, given that subpopulations of adolescents are disproportionately at risk for safety and survival, there is a need for greater emphasis on research that informs and guides an equity and justice research agenda. To advance this agenda may require &#x0201c;Re&#x02010;envisioning, Retooling, and Rebuilding [Research on Adolescence] and Prevention Science,&#x0201d; as proposed by Murry et&#x000a0;al.&#x000a0;(<xref rid="jora13020-bib-0048" ref-type="bibr">2022</xref>).</p><p>In addition, I urge adolescent researchers to engage in more interdisciplinary and transdisciplinary research, applying the same all&#x02010;hands&#x02010;on deck, and work collaboratively to remove political and structural barriers that hinder efforts to address other pandemics. Specifically, exposure to racism, xenophobia, anti&#x02010;immigration, mass shootings, and climate change also threaten safety and human survival. We can also siege on of the most notable moments from the world's response to COVID&#x02010;19&#x02014;<italic toggle="yes">when hearts and minds are willing to address crises structural barriers are removed and solutions&#x02010;focused possibilities become realities</italic>.</p><p>In sum, there is an urgent call to action to invest in action&#x02010;applied&#x02010;solution&#x02010;focused research and re&#x02010;envision the purpose of research, moving from knowledge for knowledge sake to the creation of knowledge that informs and guides infrastructures to rebuild, as Louis Armstrong reminded us, a &#x0201c;<italic toggle="yes">Wonderful World</italic>.&#x0201d; A wonderful world that is safe and fosters optimal development for all youth, their families, and communities. A wonderful world guided by just and humane principle: All humans deserve to grow up in a world in that is safe, just, and equitable in which structures and systems are designed to foster environmental, social, political, economic conditions to live a successful life from neonate to the grave. I urge adolescent researchers and practitioners to boldly find ways to leverage our platform and engage in center solution&#x02010;focused translational approaches. Doing so may hold promise for not only ensuring the safety and survival of all youth and their families but may also can encourage willing hearts and minds to address and change the fundamental structures and systems that stand in the way of advancing equities to improve the health and wellbeing of all humans, and particularly those who are disproportionately impacted by structural and systems that perpetuate marginalization and oppression.</p></sec><sec sec-type="COI-statement" id="jora13020-sec-0013"><title>CONFLICT OF INTEREST STATEMENT</title><p>The author has no known conflict to disclose.</p></sec></body><back><ack id="jora13020-sec-0012"><title>ACKNOWLEDGMENTS</title><p>I am grateful for the support from the Lois Autrey Betts Endowment. I am most appreciative to Drs. Rachel Hanebutt and Juliet Nyanamba for their assistance in the development of the manuscript, including providing technical support. Sincere appreciation to my dear friends and colleagues, Drs. Charissa S. L. Cheah, Andrea Hussong, Anne Petersen, Stephen T. Russell, and Gabriel Livas Stein, for their review and very helpful feedback on an earlier version of this article.</p></ack><sec sec-type="data-availability" id="jora13020-sec-0015"><title>DATA AVAILABILITY STATEMENT</title><p>Data sharing not applicable to this article as no datasets were generated or analyzed during the current study.</p></sec><ref-list content-type="cited-references" id="jora13020-bibl-0001"><title>REFERENCES</title><ref id="jora13020-bib-0001"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0001">
+<collab collab-type="authors">American Council on Education</collab>
+. (<year>2017</year>, September 5). <article-title>
+Trump administration ends DACA
+</article-title>. <ext-link xlink:href="https://www.acenet.edu/News-Room/Pages/Trump-Administration-Ends-DACA.aspx" ext-link-type="uri">https://www.acenet.edu/News&#x02010;Room/Pages/Trump&#x02010;Administration&#x02010;Ends&#x02010;DACA.aspx</ext-link>
+</mixed-citation></ref><ref id="jora13020-bib-0002"><mixed-citation publication-type="journal" id="jora13020-cit-0002">
+<string-name>
+<surname>Andrade</surname>, <given-names>L. M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Latina/o transfer students' selective integration and spatial awareness of university spaces</article-title>. <source>Journal of Hispanic Higher Education</source>, <volume>14</volume>(<issue>4</issue>), <elocation-id>1252</elocation-id>. <pub-id pub-id-type="doi">10.1177/1538192717701252</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0003"><mixed-citation publication-type="journal" id="jora13020-cit-0003">
+<string-name>
+<surname>Azoulay</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jones</surname>, <given-names>B.</given-names>
+</string-name> (<year>2020</year>). <article-title>Beat COVID&#x02010;19 through innovation</article-title>. <source>Science</source>, <volume>368</volume>(<issue>6491</issue>), <fpage>553</fpage>. <pub-id pub-id-type="doi">10.1126/science.abc5792</pub-id>
+<pub-id pub-id-type="pmid">32381693</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0004"><mixed-citation publication-type="journal" id="jora13020-cit-0004">
+<string-name>
+<surname>Berberian</surname>, <given-names>A. G.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>, <given-names>D. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cushing</surname>, <given-names>L. J.</given-names>
+</string-name> (<year>2022</year>). <article-title>Racial disparities in climate change&#x02010;related health effects in the United States</article-title>. <source>Current Environmental Health Reports</source>, <volume>9</volume>(<issue>3</issue>), <fpage>451</fpage>&#x02013;<lpage>464</lpage>. <pub-id pub-id-type="doi">10.1007/s40572-022-00360-w</pub-id>
+<pub-id pub-id-type="pmid">35633370</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0005"><mixed-citation publication-type="journal" id="jora13020-cit-0005">
+<string-name>
+<surname>Berkel</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Murry</surname>, <given-names>V. M.</given-names>
+</string-name>, <string-name>
+<surname>Hurt</surname>, <given-names>T. R.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Brody</surname>, <given-names>G. H.</given-names>
+</string-name>, <string-name>
+<surname>Simons</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<surname>Cutrona</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gibbons</surname>, <given-names>F. X.</given-names>
+</string-name> (<year>2009</year>). <article-title>It takes a village: Protecting rural African American youth in the context of racism</article-title>. <source>Journal of Youth and Adolescence</source>, <volume>38</volume>(<issue>2</issue>), <fpage>175</fpage>&#x02013;<lpage>188</lpage>. <pub-id pub-id-type="doi">10.1007/s10964-008-9346-z</pub-id>
+<pub-id pub-id-type="pmid">19636716</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0008"><mixed-citation publication-type="journal" id="jora13020-cit-0008">
+<string-name>
+<surname>Brave Heart</surname>, <given-names>M. Y. H.</given-names>
+</string-name> (<year>2003</year>). <article-title>The historical trauma response among natives and its relationship with substance abuse: A Lakota illustration</article-title>. <source>Journal of Psychoactive Drugs</source>, <volume>35</volume>(<issue>1</issue>), <fpage>7</fpage>&#x02013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1080/02791072.2003.10399988</pub-id>
+<pub-id pub-id-type="pmid">12733753</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0090"><mixed-citation publication-type="journal" id="jora13020-cit-0090">
+<string-name>
+<surname>Brenick</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Millerm</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Moadel&#x02010;Attie</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Salter</surname>, <given-names>P. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bonam</surname>, <given-names>C. M.</given-names>
+</string-name> (<year>2024</year>). <article-title>Shifting systems of racial inequity: Applying critical race psychology to advance racial justice</article-title>. <source>Journal of Social Issues</source>, <volume>80</volume>, <fpage>415</fpage>&#x02013;<lpage>422</lpage>.</mixed-citation></ref><ref id="jora13020-bib-0010"><mixed-citation publication-type="journal" id="jora13020-cit-0010">
+<string-name>
+<surname>Brody</surname>, <given-names>G. H.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y. F.</given-names>
+</string-name>, <string-name>
+<surname>Murry</surname>, <given-names>V. M.</given-names>
+</string-name>, <string-name>
+<surname>Ge</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Simons</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<surname>Gibbons</surname>, <given-names>F. X.</given-names>
+</string-name>, <string-name>
+<surname>Gerrard</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cutrona</surname>, <given-names>C. E.</given-names>
+</string-name> (<year>2006</year>). <article-title>Perceived discrimination and the adjustment of African American youths: A five&#x02010;year longitudinal analysis with contextual moderation effects</article-title>. <source>Child Development</source>, <volume>77</volume>(<issue>5</issue>), <fpage>1170</fpage>&#x02013;<lpage>1189</lpage>. <pub-id pub-id-type="doi">10.1111/j.1467-8624.2006.00927.x</pub-id>
+<pub-id pub-id-type="pmid">16999791</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0012"><mixed-citation publication-type="journal" id="jora13020-cit-0012">
+<string-name>
+<surname>Brown</surname>, <given-names>T. N.</given-names>
+</string-name> (<year>2003</year>). <article-title>Critical race theory speaks to the sociology of mental health: Mental health problems produced by racial stratification</article-title>. <source>Journal of Health and Social Behavior</source>, <volume>44</volume>, <fpage>292</fpage>&#x02013;<lpage>301</lpage>.<pub-id pub-id-type="pmid">14582309</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0013"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0013">
+<string-name>
+<surname>Brownlee</surname>, <given-names>C.</given-names>
+</string-name> (<year>2022</year>). <article-title>
+Gun violence in 2022, by the numbers
+</article-title>. The Trace. <ext-link xlink:href="https://www.thetrace.org/2022/12/gun-violence-deaths-statistics-america/" ext-link-type="uri">https://www.thetrace.org/2022/12/gun&#x02010;violence&#x02010;deaths&#x02010;statistics&#x02010;america/</ext-link>
+</mixed-citation></ref><ref id="jora13020-bib-0014"><mixed-citation publication-type="journal" id="jora13020-cit-0014">
+<string-name>
+<surname>Burchinal</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Zeisel</surname>, <given-names>S. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rowley</surname>, <given-names>S. J.</given-names>
+</string-name> (<year>2008</year>). <article-title>Social risk and protective factors for African American children's academic achievement and adjustment during the transition to middle school</article-title>. <source>Developmental Psychology</source>, <volume>44</volume>(<issue>1</issue>), <fpage>286</fpage>&#x02013;<lpage>292</lpage>. <pub-id pub-id-type="doi">10.1037/0012-1649.44.1.286</pub-id>
+<pub-id pub-id-type="pmid">18194027</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0015"><mixed-citation publication-type="journal" id="jora13020-cit-0015">
+<string-name>
+<surname>Burnett</surname>, <given-names>C.</given-names>
+</string-name> (<year>2015</year>). <article-title>Historical oppression and intimate partner violence experienced by indigenous women in the United States: Understanding connections</article-title>. <source>Social Service Review</source>, <volume>89</volume>, <fpage>531</fpage>&#x02013;<lpage>563</lpage>. <pub-id pub-id-type="doi">10.1086/683336</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0016"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0016">
+<string-name>
+<surname>Carrabino</surname>, <given-names>S.</given-names>
+</string-name> (<year>2023</year>). <article-title>
+Community organization in opposition to anti&#x02010;LGBTQ policies implemented by public school administrations and school board in Bucks County, Pennsylvania
+</article-title>. Unpublished education studies capstone. Yale University, New Haven, CT.</mixed-citation></ref><ref id="jora13020-bib-0018"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0018">
+<collab collab-type="authors">Centers for Disease Control and Prevention</collab>
+. (<year>2023</year>, August 28). <article-title>
+CDC declares racism a public health threat. Minority health
+</article-title>. <ext-link xlink:href="https://www.cdc.gov/minorityhealth/racism-disparities/expert-perspectives/threat/index.html" ext-link-type="uri">https://www.cdc.gov/minorityhealth/racism&#x02010;disparities/expert&#x02010;perspectives/threat/index.html</ext-link>
+</mixed-citation></ref><ref id="jora13020-bib-0019"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0019">
+<string-name>
+<surname>Costello</surname>, <given-names>M. B.</given-names>
+</string-name> (<year>2016</year>). <article-title>
+The Trump effect: The impact of the presidential campaign on our nation's schools
+</article-title>. Southern Poverty Law Center (SPLC). <ext-link xlink:href="https://www.splcenter.org/sites/default/files/splc_the_trump_effect.pdf" ext-link-type="uri">https://www.splcenter.org/sites/default/files/splc_the_trump_effect.pdf</ext-link>
+</mixed-citation></ref><ref id="jora13020-bib-0020"><mixed-citation publication-type="journal" id="jora13020-cit-0020">
+<string-name>
+<surname>Del Toro</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lloyd</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Buchanan</surname>, <given-names>K. S.</given-names>
+</string-name>, <string-name>
+<surname>Robins</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Bencharit</surname>, <given-names>L. Z.</given-names>
+</string-name>, <string-name>
+<surname>Smiedt</surname>, <given-names>M. G.</given-names>
+</string-name>, <string-name>
+<surname>Reddy</surname>, <given-names>K. S.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez Pouget</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Kerrison</surname>, <given-names>E. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Goff</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2019</year>). <article-title>The criminogenic and psychological effects of police stops on adolescent Black and Latino boys</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>116</volume>(<issue>17</issue>), <fpage>8261</fpage>&#x02013;<lpage>8268</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1808976116</pub-id>
+<pub-id pub-id-type="pmid">30962370</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0021"><mixed-citation publication-type="journal" id="jora13020-cit-0021">
+<string-name>
+<surname>Doherty</surname>, <given-names>T. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Clayton</surname>, <given-names>S.</given-names>
+</string-name> (<year>2011</year>). <article-title>The psychological impacts of global climate change</article-title>. <source>American Psychologist</source>, <volume>66</volume>(<issue>4</issue>), <fpage>265</fpage>. <pub-id pub-id-type="doi">10.1037/a0023141</pub-id>
+<pub-id pub-id-type="pmid">21553952</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0022"><mixed-citation publication-type="journal" id="jora13020-cit-0022">
+<string-name>
+<surname>Doshi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lopez</surname>, <given-names>W. D.</given-names>
+</string-name>, <string-name>
+<surname>Mesa</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Bryce</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Rabinowitz</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Rion</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fleming</surname>, <given-names>P. J.</given-names>
+</string-name> (<year>2020</year>). <article-title>Barriers &#x00026; facilitators to healthcare and social services among undocumented Latino (a)/Latinx immigrant clients: Perspectives from frontline service providers in Southeast Michigan</article-title>. <source>PLoS One</source>, <volume>15</volume>(<issue>6</issue>), <elocation-id>e0233839</elocation-id>.<pub-id pub-id-type="pmid">32502193</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0023"><mixed-citation publication-type="journal" id="jora13020-cit-0023">
+<string-name>
+<surname>Drumm</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vandermause</surname>, <given-names>R.</given-names>
+</string-name> (<year>2023</year>). <article-title>Adolescents concerned about climate change: A hermeneutic study</article-title>. <source>International Journal of Environmental Research and Public Health</source>, <volume>20</volume>(<issue>22</issue>), <elocation-id>7063</elocation-id>. <pub-id pub-id-type="doi">10.3390/ijerph20227063</pub-id>
+<pub-id pub-id-type="pmid">37998294</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0089"><mixed-citation publication-type="book" id="jora13020-cit-0089">
+<string-name>
+<surname>Elder</surname>, <given-names>Glen H.</given-names>, <suffix>Jr.</suffix>
+</string-name> (<year>1981</year>). <part-title>Social history and life experience</part-title>. In <person-group person-group-type="editor">
+<string-name>
+<given-names>Dorothy H.</given-names>
+<surname>Eichorn</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name>
+<given-names>John A.</given-names>
+<surname>Clausen</surname>
+</string-name>
+</person-group>, &#x00026; <person-group person-group-type="editor">
+<string-name>
+<given-names>Norma</given-names>
+<surname>Haan</surname>
+</string-name>
+</person-group> (Eds.), <source>Present and past in middle life</source> (pp. <fpage>3</fpage>&#x02013;<lpage>31</lpage>). <publisher-name>Academic Press</publisher-name>.</mixed-citation></ref><ref id="jora13020-bib-0024"><mixed-citation publication-type="book" id="jora13020-cit-0024">
+<string-name>
+<surname>Elder</surname>, <given-names>G. H.</given-names>
+</string-name> (<year>1999</year>). <source>Children of the great depression: Social change in life experiences</source> 25th Anniversary edition. <publisher-name>Westview Press</publisher-name>.</mixed-citation></ref><ref id="jora13020-bib-0025"><mixed-citation publication-type="book" id="jora13020-cit-0025">
+<string-name>
+<surname>Elder</surname>, <given-names>G. H.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>M. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Crosnoe</surname>, <given-names>R.</given-names>
+</string-name> (<year>2003</year>). <part-title>The emergence and development of life course theory</part-title>. In <person-group person-group-type="editor">
+<string-name>
+<given-names>R. A.</given-names>
+<surname>Settersten</surname>
+</string-name>
+</person-group> (Ed.), <source>Handbook of the life course</source> (pp. <fpage>3</fpage>&#x02013;<lpage>19</lpage>). <publisher-name>Springer</publisher-name>.</mixed-citation></ref><ref id="jora13020-bib-0026"><mixed-citation publication-type="journal" id="jora13020-cit-0026">
+<string-name>
+<surname>Ellefsen</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sandberg</surname>, <given-names>S.</given-names>
+</string-name> (<year>2022</year>). <article-title>Black lives matter: The role of emotions in political engagement</article-title>. <source>Sociology</source>, <volume>56</volume>, <fpage>1103</fpage>&#x02013;<lpage>1120</lpage>. <pub-id pub-id-type="doi">10.1177/00380385221081385</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0027"><mixed-citation publication-type="journal" id="jora13020-cit-0027">
+<string-name>
+<surname>Eskenazi</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Fahey</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Kogut</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Gunier</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Torres</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gonzales</surname>, <given-names>N. A.</given-names>
+</string-name>, <string-name>
+<surname>Holland</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Deardorff</surname>, <given-names>J.</given-names>
+</string-name> (<year>2019</year>). <article-title>Association of perceived immigration policy vulnerability with mental and physical health among US&#x02010;born Latino adolescents in California</article-title>. <source>JAMA Pediatrics</source>, <volume>173</volume>(<issue>8</issue>), <fpage>744</fpage>&#x02013;<lpage>753</lpage>. <pub-id pub-id-type="doi">10.1001/jamapediatrics.2019.1475</pub-id>
+<pub-id pub-id-type="pmid">31233132</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0028"><mixed-citation publication-type="journal" id="jora13020-cit-0028">
+<string-name>
+<surname>Fisher</surname>, <given-names>C. B.</given-names>
+</string-name>, <string-name>
+<surname>Wallace</surname>, <given-names>S. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fenton</surname>, <given-names>R. E.</given-names>
+</string-name> (<year>2000</year>). <article-title>Discrimination distress during adolescence</article-title>. <source>Journal of Youth and Adolescence</source>, <volume>29</volume>(<issue>6</issue>), <fpage>679</fpage>&#x02013;<lpage>695</lpage>. <pub-id pub-id-type="doi">10.1023/A:1026455906512</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0029"><mixed-citation publication-type="journal" id="jora13020-cit-0029">
+<string-name>
+<surname>Ford</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Salim</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Goodman</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Logan</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Henley</surname>, <given-names>W.</given-names>
+</string-name> (<year>2018</year>). <article-title>The relationship between exclusion from school and mental health: A secondary analysis of the British child and adolescent mental health surveys 2004 and 2007</article-title>. <source>Psychological Medicine</source>, <volume>48</volume>(<issue>4</issue>), <fpage>629</fpage>&#x02013;<lpage>641</lpage>. <pub-id pub-id-type="doi">10.1017/s003329171700215x</pub-id>
+<pub-id pub-id-type="pmid">28838327</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0030"><mixed-citation publication-type="journal" id="jora13020-cit-0030">
+<string-name>
+<surname>Gibbons</surname>, <given-names>F. X.</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Gerrard</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Beach</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name>
+<surname>Simons</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<surname>Weng</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Philibert</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>The impact of stress on the life history strategies of African American adolescents: Cognitions, genetic moderation, and the role of discrimination</article-title>. <source>Developmental Psychology</source>, <volume>48</volume>(<issue>3</issue>), <fpage>722</fpage>&#x02013;<lpage>739</lpage>. <pub-id pub-id-type="doi">10.1037/a0026599</pub-id>
+<pub-id pub-id-type="pmid">22251000</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0031"><mixed-citation publication-type="journal" id="jora13020-cit-0031">
+<string-name>
+<surname>Gonz&#x000e1;lez</surname>, <given-names>T.</given-names>
+</string-name> (<year>2012</year>). <article-title>Keeping kids in schools: Restorative justice, punitive discipline, and the school to prison pipeline</article-title>. <source>Journal of Law and Education</source>, <volume>41</volume>(<issue>2</issue>), <fpage>281</fpage>&#x02013;<lpage>335</lpage>.</mixed-citation></ref><ref id="jora13020-bib-0032"><mixed-citation publication-type="journal" id="jora13020-cit-0032">
+<string-name>
+<surname>Hickman</surname>, <given-names>C.</given-names>
+</string-name> (<year>2020</year>). <article-title>We need to (find a way to) talk about &#x02026; eco&#x02010;anxiety</article-title>. <source>Journal of Social Work Practice</source>, <volume>34</volume>(<issue>4</issue>), <fpage>411</fpage>&#x02013;<lpage>424</lpage>. <pub-id pub-id-type="doi">10.1080/02650533.2020.1844166</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0033"><mixed-citation publication-type="journal" id="jora13020-cit-0033">
+<string-name>
+<surname>Hickman</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Marks</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Pihkala</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Clayton</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lewandowski</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Mayall</surname>, <given-names>E. E.</given-names>
+</string-name>, <string-name>
+<surname>Wray</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Mellor</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Van Susteren</surname>, <given-names>L.</given-names>
+</string-name> (<year>2021</year>). <article-title>Climate anxiety in children and young people and their beliefs about government responses to climate change: A global survey</article-title>. <source>The Lancet Planetary Health</source>, <volume>5</volume>(<issue>12</issue>), <fpage>e863</fpage>&#x02013;<lpage>e873</lpage>. <pub-id pub-id-type="doi">10.1016/s2542-5196(21)00278-3</pub-id>
+<pub-id pub-id-type="pmid">34895496</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0035"><mixed-citation publication-type="journal" id="jora13020-cit-0035">
+<string-name>
+<surname>Hughes</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Gregory</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Joseph</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name>
+<surname>Sonesh</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Marlow</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>Lacerenza</surname>, <given-names>C. N.</given-names>
+</string-name>, <string-name>
+<surname>Benishek</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name>
+<surname>King</surname>, <given-names>H. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Salas</surname>, <given-names>E.</given-names>
+</string-name> (<year>2016</year>). <article-title>Saving lives: A meta&#x02010;analysis of team training in healthcare</article-title>. <source>Journal of Applied Psychology</source>, <volume>101</volume>(<issue>9</issue>), <fpage>1266</fpage>&#x02013;<lpage>1304</lpage>. <pub-id pub-id-type="doi">10.1037/apl0000120</pub-id>
+<pub-id pub-id-type="pmid">27599089</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0036"><mixed-citation publication-type="journal" id="jora13020-cit-0036">
+<string-name>
+<surname>Hussong</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Benner</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Erdem</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Lansford</surname>, <given-names>J. E.</given-names>
+</string-name>, <string-name>
+<surname>Makila</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Petrie</surname>, <given-names>R. C.</given-names>
+</string-name>, &#x00026; <collab collab-type="authors">SRA COVID&#x02010;19 Response Team</collab>
+. (<year>2021</year>). <article-title>Adolescence amid a pandemic: Short&#x02010; and long&#x02010;term implications</article-title>. <source>Journal of Research on Adolescence: The Official Journal of the Society for Research on Adolescence</source>, <volume>31</volume>(<issue>3</issue>), <fpage>820</fpage>&#x02013;<lpage>835</lpage>. <pub-id pub-id-type="doi">10.1111/jora.12671</pub-id>
+<pub-id pub-id-type="pmid">34448291</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0038"><mixed-citation publication-type="journal" id="jora13020-cit-0038">
+<string-name>
+<surname>Jedwab</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Russ</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zaveri</surname>, <given-names>E. D.</given-names>
+</string-name> (<year>2021</year>). <article-title>Epidemics, pandemics, and social conflict: Lessons from the past and possible scenarios for COVID&#x02010;19</article-title>. <source>World Development</source>, <volume>147</volume>, <elocation-id>105629</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.worlddev.2021.105629</pub-id>
+<pub-id pub-id-type="pmid">34866756</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0039"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0039">
+<string-name>
+<surname>Lake</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rothchild</surname>, <given-names>D.</given-names>
+</string-name> (<year>1996</year>). <article-title>
+Ethnic fears and global engagement: The international spread and management of ethnic conflict
+</article-title>. IDEAS Working Paper Series from RePEc.</mixed-citation></ref><ref id="jora13020-bib-0040"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0040">
+<string-name>
+<surname>Lawrance</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Fontana</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jennings</surname>, <given-names>N.</given-names>
+</string-name> (<year>2021</year>). <article-title>
+The impact of climate change on mental health and emotional wellbeing: Current evidence and implications for policy and practice
+</article-title>. Grantham Institute Briefing Paper 36. <pub-id pub-id-type="doi">10.1080/09540261.2022.2128725</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0041"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0041">
+<string-name>
+<surname>Mascia</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pierce</surname>, <given-names>O.</given-names>
+</string-name> (<year>2022</year>). <article-title>
+Youth gun suicide is rising, particularly among children of color
+</article-title>. The Trace. <ext-link xlink:href="https://www.thetrace.org/2022/02/firearm-suicide-rate-cdc-data-teen-mental-health-research/" ext-link-type="uri">https://www.thetrace.org/2022/02/firearm&#x02010;suicide&#x02010;rate&#x02010;cdc&#x02010;data&#x02010;teen&#x02010;mental&#x02010;health&#x02010;research/</ext-link>
+</mixed-citation></ref><ref id="jora13020-bib-0042"><mixed-citation publication-type="journal" id="jora13020-cit-0042">
+<string-name>
+<surname>Misra</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Le</surname>, <given-names>P. D.</given-names>
+</string-name>, <string-name>
+<surname>Goldmann</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yang</surname>, <given-names>L. H.</given-names>
+</string-name> (<year>2020</year>). <article-title>Psychological impact of anti&#x02010;Asian stigma due to the COVID&#x02010;19 pandemic: A call for research, practice, and policy responses</article-title>. <source>Psychological Trauma Theory Research Practice and Policy</source>, <volume>12</volume>(<issue>5</issue>), <fpage>461</fpage>&#x02013;<lpage>464</lpage>. <pub-id pub-id-type="doi">10.1037/tra0000821</pub-id>
+<pub-id pub-id-type="pmid">32525390</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0044"><mixed-citation publication-type="journal" id="jora13020-cit-0044">
+<string-name>
+<surname>Mohatt</surname>, <given-names>N. V.</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>, <given-names>A. B.</given-names>
+</string-name>, <string-name>
+<surname>Thai</surname>, <given-names>N. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tebes</surname>, <given-names>J. K.</given-names>
+</string-name> (<year>2014</year>). <article-title>Historical trauma as public narrative: A conceptual review of how history impacts present&#x02010;day health</article-title>. <source>Social Science &#x00026; Medicine</source>, <volume>106</volume>, <fpage>128</fpage>&#x02013;<lpage>136</lpage>. <pub-id pub-id-type="doi">10.1016/j.socscimed.2014.01.043</pub-id>
+<pub-id pub-id-type="pmid">24561774</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0047"><mixed-citation publication-type="journal" id="jora13020-cit-0047">
+<string-name>
+<surname>Murry</surname>, <given-names>V. M.</given-names>
+</string-name>, <string-name>
+<surname>Butler&#x02010;Barnes</surname>, <given-names>S. T.</given-names>
+</string-name>, <string-name>
+<surname>Mayo&#x02010;Gamble</surname>, <given-names>T. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Inniss&#x02010;Thompson</surname>, <given-names>M. N.</given-names>
+</string-name> (<year>2018</year>). <article-title>Excavating new constructs for family stress theories in the context of everyday life experiences of Black American families</article-title>. <source>Journal of Family Theory &#x00026; Review</source>, <volume>10</volume>(<issue>2</issue>), <fpage>384</fpage>&#x02013;<lpage>405</lpage>. <pub-id pub-id-type="doi">10.1111/jftr.12256</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0048"><mixed-citation publication-type="journal" id="jora13020-cit-0048">
+<string-name>
+<surname>Murry</surname>, <given-names>V. M.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Hanebutt</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name>
+<surname>Bulgin</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Coates</surname>, <given-names>E. E.</given-names>
+</string-name>, <string-name>
+<surname>Inniss&#x02010;Thompson</surname>, <given-names>M. N.</given-names>
+</string-name>, <string-name>
+<surname>Debreaux</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>, <given-names>W. E.</given-names>
+</string-name>, <string-name>
+<surname>Abel</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cortez</surname>, <given-names>M. B.</given-names>
+</string-name> (<year>2022</year>). <article-title>Longitudinal study of the cascading effects of racial discrimination on parenting and adjustment among African American youth</article-title>. <source>Attachment &#x00026; Human Development</source>, <volume>24</volume>(<issue>3</issue>), <fpage>322</fpage>&#x02013;<lpage>338</lpage>. <pub-id pub-id-type="doi">10.1080/14616734.2021.1976926</pub-id>
+<pub-id pub-id-type="pmid">34697999</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0091"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0091">
+<string-name>
+<surname>Murry</surname>, <given-names>V. M.</given-names>
+</string-name>, <string-name>
+<surname>Hanebutt</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nyanamba</surname>, <given-names>J.</given-names>
+</string-name> (<year>2024</year>). <article-title>
+Multi&#x02010;generational life course model: Connecting structural opression and historical trauma to cultural strenghs based assets
+</article-title>. Unpublished.</mixed-citation></ref><ref id="jora13020-bib-0049"><mixed-citation publication-type="book" id="jora13020-cit-0049">
+<collab collab-type="authors">National Academies of Sciences, Engineering, and Medicine</collab>
+. (<year>2023</year>). <source>Addressing the long&#x02010;term effects of the COVID&#x02010;19 pandemic on children and families</source>. <publisher-name>The National Academies Press</publisher-name>. <pub-id pub-id-type="doi">10.17226/26809</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0050"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0050">
+<string-name>
+<surname>Parris</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Fulks</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kelley</surname>, <given-names>C.</given-names>
+</string-name> (<year>2021</year>). <article-title>
+Anti&#x02010;LGBTQ policy proposals can harm youth mental health
+</article-title>. Child Trends. <ext-link xlink:href="https://childtrends.org/publications/anti-lgbtq-policy-proposals-can-harm-youth-mental-health" ext-link-type="uri">https://childtrends.org/publications/anti&#x02010;lgbtq&#x02010;policy&#x02010;proposals&#x02010;can&#x02010;harm&#x02010;youth&#x02010;mental&#x02010;health</ext-link>
+</mixed-citation></ref><ref id="jora13020-bib-0051"><mixed-citation publication-type="journal" id="jora13020-cit-0051">
+<string-name>
+<surname>Pearson</surname>, <given-names>H.</given-names>
+</string-name> (<year>2024</year>). <article-title>The rise of eco&#x02010;anxiety: Scientists wake up to the mental&#x02010;health toll of climate change</article-title>. <source>Nature</source>, <volume>628</volume>, <fpage>256</fpage>&#x02013;<lpage>258</lpage>. <pub-id pub-id-type="doi">10.1038/d41586-024-00998-6</pub-id>
+<pub-id pub-id-type="pmid">38600270</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0052"><mixed-citation publication-type="journal" id="jora13020-cit-0052">
+<string-name>
+<surname>Perreira</surname>, <given-names>K. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pedroza</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2019</year>). <article-title>Policies of exclusion: Implications for the health of immigrants and their children</article-title>. <source>Annual Review of Public Health</source>, <volume>40</volume>, <fpage>147</fpage>&#x02013;<lpage>166</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-publhealth-040218-044115</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0054"><mixed-citation publication-type="journal" id="jora13020-cit-0054">
+<string-name>
+<surname>Petruccelli</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Berman</surname>, <given-names>T.</given-names>
+</string-name> (<year>2019</year>). <article-title>Adverse childhood experiences and associated health outcomes: A systematic review and meta&#x02010;analysis</article-title>. <source>Child Abuse &#x00026; Neglect</source>, <volume>97</volume>, <elocation-id>104127</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.chiabu.2019.104127</pub-id>
+<pub-id pub-id-type="pmid">31454589</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0055"><mixed-citation publication-type="journal" id="jora13020-cit-0055">
+<string-name>
+<surname>Pinedo</surname>, <given-names>M.</given-names>
+</string-name> (<year>2020</year>). <article-title>The impact of deportation policies on the substance using behaviors of US&#x02010;citizen Latinos</article-title>. <source>International Journal of Drug Policy</source>, <volume>75</volume>, <elocation-id>102605</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.drugpo.2019.11.013</pub-id>
+<pub-id pub-id-type="pmid">31759306</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0056"><mixed-citation publication-type="journal" id="jora13020-cit-0056">
+<string-name>
+<surname>Potochnick</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>J.&#x02010;H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Perreira</surname>, <given-names>K.</given-names>
+</string-name> (<year>2017</year>). <article-title>Local&#x02010;level immigration enforcement and food insecurity risk among Hispanic immigrant families with children: National&#x02010;level evidence</article-title>. <source>Journal of Immigrant and Minority Health</source>, <volume>19</volume>(<issue>5</issue>), <fpage>1042</fpage>&#x02013;<lpage>1049</lpage>. <pub-id pub-id-type="doi">10.1007/s10903-016-0464-5</pub-id>
+<pub-id pub-id-type="pmid">27435475</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0057"><mixed-citation publication-type="journal" id="jora13020-cit-0057">
+<string-name>
+<surname>Purdie&#x02010;Vaughns</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Eibach</surname>, <given-names>R. P.</given-names>
+</string-name> (<year>2008</year>). <article-title>Intersectional invisibility: The distinctive advantages and disadvantages of multiple subordinate group identities</article-title>. <source>Sex Roles</source>, <volume>59</volume>, <fpage>377</fpage>&#x02013;<lpage>391</lpage>. <pub-id pub-id-type="doi">10.1007/s11199-008-9424-4</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0058"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0058">
+<string-name>
+<surname>Reilly</surname>, <given-names>K.</given-names>
+</string-name> (<year>2016</year>, August 31). <article-title>
+Here are all the times Donald Trump insulted Mexico
+</article-title>. <ext-link xlink:href="http://time.com/4473972/donald-trump-mexico-meeting-insult/" ext-link-type="uri">http://time.com/4473972/donald&#x02010;trump&#x02010;mexico&#x02010;meeting&#x02010;insult/</ext-link>
+</mixed-citation></ref><ref id="jora13020-bib-0059"><mixed-citation publication-type="journal" id="jora13020-cit-0059">
+<string-name>
+<surname>Reinbergs</surname>, <given-names>E. J.</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>J. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pryor</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>2024</year>). <article-title>Firearm carrying and adolescent suicide risk outcomes between 2015 and 2021 across nationally representative samples</article-title>. <source>Suicide &#x00026; Life&#x02010;Threatening Behavior</source>, <volume>54</volume>(<issue>2</issue>), <fpage>302</fpage>&#x02013;<lpage>309</lpage>. <pub-id pub-id-type="doi">10.1111/sltb.13042</pub-id>
+<pub-id pub-id-type="pmid">38223934</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0060"><mixed-citation publication-type="journal" id="jora13020-cit-0060">
+<string-name>
+<surname>Russell</surname>, <given-names>S. T.</given-names>
+</string-name> (<year>2016</year>). <article-title>Social justice, research, and adolescence</article-title>. <source>Journal of Research on Adolescence</source>, <volume>26</volume>, <fpage>4</fpage>&#x02013;<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1111/jora.12249</pub-id>
+<pub-id pub-id-type="pmid">27307689</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0061"><mixed-citation publication-type="journal" id="jora13020-cit-0061">
+<string-name>
+<surname>Sahni</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sharma</surname>, <given-names>H.</given-names>
+</string-name> (<year>2020</year>). <article-title>Role of social media during the COVID&#x02010;19 pandemic: Beneficial, destructive, or reconstructive?</article-title>
+<source>International Journal of Academic Medicine</source>, <volume>6</volume>, <fpage>70</fpage>&#x02013;<lpage>75</lpage>. <pub-id pub-id-type="doi">10.4103/IJAM.IJAM_50_20</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0062"><mixed-citation publication-type="journal" id="jora13020-cit-0062">
+<string-name>
+<surname>Saleem</surname>, <given-names>F. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Byrd</surname>, <given-names>C. M.</given-names>
+</string-name> (<year>2021</year>). <article-title>Unpacking school ethnic&#x02010;racial socialization: A new conceptual model</article-title>. <source>Journal of Social Issues</source>, <volume>77</volume>(<issue>4</issue>), <fpage>1106</fpage>&#x02013;<lpage>1125</lpage>. <pub-id pub-id-type="doi">10.1111/josi.12498</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0063"><mixed-citation publication-type="journal" id="jora13020-cit-0063">
+<string-name>
+<surname>Santos</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Menjivar</surname>, <given-names>C.</given-names>
+</string-name> (<year>2013</year>). <article-title>Youths' perspective on Senate Bill 1070 in Arizona: The socio&#x02010;emotional effects of immigration policy</article-title>. <source>Association of Mexican American Educators Journal</source>, <volume>7</volume>(<issue>2</issue>), <fpage>7</fpage>&#x02013;<lpage>17</lpage>. <ext-link xlink:href="https://eric.ed.gov/?redir=http%3a%2f%2famaejournal.asu.edu%2findex.php%2famae%2farticle%2fview%2f122" ext-link-type="uri">https://eric.ed.gov/?redir=http%3a%2f%2famaejournal.asu.edu%2findex.php%2famae%2farticle%2fview%2f122</ext-link>
+</mixed-citation></ref><ref id="jora13020-bib-0064"><mixed-citation publication-type="journal" id="jora13020-cit-0064">
+<string-name>
+<surname>Scott&#x02010;Jones</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kamara</surname>, <given-names>M. R.</given-names>
+</string-name> (<year>2020</year>). <article-title>The traumatic impact of structural racism on African Americans</article-title>. <source>Delaware Journal of Public Health</source>, <volume>6</volume>, <fpage>80</fpage>&#x02013;<lpage>82</lpage>. <pub-id pub-id-type="doi">10.32481/djph.2020.11.019</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0065"><mixed-citation publication-type="journal" id="jora13020-cit-0065">
+<string-name>
+<surname>Seaton</surname>, <given-names>E. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Douglass</surname>, <given-names>S.</given-names>
+</string-name> (<year>2014</year>). <article-title>School diversity and racial discrimination among African&#x02010;American adolescents</article-title>. <source>Cultural Diversity and Ethnic Minority Psychology</source>, <volume>20</volume>(<issue>2</issue>), <fpage>156</fpage>&#x02013;<lpage>165</lpage>. <pub-id pub-id-type="doi">10.1037/a0035322</pub-id>
+<pub-id pub-id-type="pmid">24773002</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0066"><mixed-citation publication-type="journal" id="jora13020-cit-0066">
+<string-name>
+<surname>Sellers</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Caldwell</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name>
+<surname>Schmeelk&#x02010;Cone</surname>, <given-names>K. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zimmerman</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2003</year>). <article-title>Racial identity, racial discrimination, perceived stress, and psychological distress among African American young adults</article-title>. <source>Journal of Health and Social Behavior</source>, <volume>44</volume>, <fpage>302</fpage>&#x02013;<lpage>317</lpage>. <pub-id pub-id-type="doi">10.2307/1519781</pub-id>
+<pub-id pub-id-type="pmid">14582310</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0067"><mixed-citation publication-type="journal" id="jora13020-cit-0067">
+<string-name>
+<surname>Sellers</surname>, <given-names>R. M.</given-names>
+</string-name>, <string-name>
+<surname>Copeland&#x02010;Linder</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>P. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lewis</surname>, <given-names>R. L. H.</given-names>
+</string-name> (<year>2006</year>). <article-title>Racial identity matters: The relationship between racial discrimination and psychological functioning in African American adolescents</article-title>. <source>Journal of Research on Adolescence</source>, <volume>16</volume>(<issue>2</issue>), <fpage>187</fpage>&#x02013;<lpage>216</lpage>. <pub-id pub-id-type="doi">10.1111/j.1532-7795.2006.00128.x</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0068"><mixed-citation publication-type="journal" id="jora13020-cit-0068">
+<string-name>
+<surname>Sheftall</surname>, <given-names>A. H.</given-names>
+</string-name>, <string-name>
+<surname>Vakil</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Ruch</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Boyd</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>Lindsey</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bridge</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2022</year>). <article-title>Black youth suicide: Investigation of current trends and precipitating circumstances</article-title>. <source>Journal of the American Academy of Child &#x00026; Adolescent Psychiatry</source>, <volume>61</volume>(<issue>5</issue>), <fpage>662</fpage>&#x02013;<lpage>675</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaac.2021.08.021</pub-id>
+<pub-id pub-id-type="pmid">34509592</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0069"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0069">
+<string-name>
+<surname>Silva</surname>, <given-names>J.</given-names>
+</string-name> (<year>2023</year>, November 22). <article-title>Mass shootings as a global phenomenon</article-title>. <italic toggle="yes">Oxford Research Encyclopedia of Global Public Health</italic>. <ext-link xlink:href="https://oxfordre.com/publichealth/view/10.1093/acrefore/9780190632366.001.0001/acrefore-9780190632366-e-501" ext-link-type="uri">https://oxfordre.com/publichealth/view/10.1093/acrefore/9780190632366.001.0001/acrefore&#x02010;9780190632366&#x02010;e&#x02010;501</ext-link>
+</mixed-citation></ref><ref id="jora13020-bib-0070"><mixed-citation publication-type="journal" id="jora13020-cit-0070">
+<string-name>
+<surname>Simons</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<surname>Murry</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>McLoyd</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Cutrona</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Conger</surname>, <given-names>R. D.</given-names>
+</string-name> (<year>2002</year>). <article-title>Discrimination, crime, ethnic identity, and parenting as correlates of depressive symptoms among African American children: A multilevel analysis</article-title>. <source>Development and Psychopathology</source>, <volume>14</volume>(<issue>2</issue>), <fpage>371</fpage>&#x02013;<lpage>393</lpage>. <pub-id pub-id-type="doi">10.1017/S0954579402002109</pub-id>
+<pub-id pub-id-type="pmid">12030697</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0071"><mixed-citation publication-type="journal" id="jora13020-cit-0071">
+<string-name>
+<surname>Smith&#x02010;Bynum</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Lambert</surname>, <given-names>S. F.</given-names>
+</string-name>, <string-name>
+<surname>English</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ialongo</surname>, <given-names>N. S.</given-names>
+</string-name> (<year>2014</year>). <article-title>Associations between trajectories of perceived racial discrimination and psychological symptoms among African American adolescents</article-title>. <source>Development and Psychopathology</source>, <volume>26</volume>(<issue>4pt1</issue>), <fpage>1049</fpage>&#x02013;<lpage>1065</lpage>. <pub-id pub-id-type="doi">10.1017/S0954579414000571</pub-id>
+<pub-id pub-id-type="pmid">24955844</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0072"><mixed-citation publication-type="journal" id="jora13020-cit-0072">
+<string-name>
+<surname>South</surname>, <given-names>E. C.</given-names>
+</string-name>, <string-name>
+<surname>Hemenway</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Webster</surname>, <given-names>D. W.</given-names>
+</string-name> (<year>2022</year>). <article-title>Gun violence research is surging to inform solutions to a devastating public health crisis</article-title>. <source>Preventive Medicine</source>, <volume>165</volume>(<issue>Pt A</issue>), <elocation-id>107325</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.ypmed.2022.107325</pub-id>
+<pub-id pub-id-type="pmid">36374716</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0073"><mixed-citation publication-type="journal" id="jora13020-cit-0073">
+<string-name>
+<surname>Spears Brown</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bigler</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2005</year>). <article-title>Children's perceptions of discrimination: A developmental model</article-title>. <source>Child Development</source>, <volume>76</volume>(<issue>3</issue>), <fpage>533</fpage>. <pub-id pub-id-type="doi">10.1111/j.1467-8624.2005.00862.x</pub-id>
+<pub-id pub-id-type="pmid">15892777</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0074"><mixed-citation publication-type="journal" id="jora13020-cit-0074">
+<string-name>
+<surname>Stein</surname>, <given-names>G. L.</given-names>
+</string-name>, <string-name>
+<surname>Castro&#x02010;Schilo</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Cavanaugh</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Mejia</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Christophe</surname>, <given-names>N. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Robins</surname>, <given-names>R.</given-names>
+</string-name> (<year>2019</year>). <article-title>When discrimination hurts: The longitudinal impact of increases in peer discrimination on anxiety and depressive symptoms in Mexican&#x02010;origin youth</article-title>. <source>Journal of Youth and Adolescence</source>, <volume>48</volume>(<issue>5</issue>), <fpage>864</fpage>&#x02013;<lpage>875</lpage>. <pub-id pub-id-type="doi">10.1007/s10964-019-01012-3</pub-id>
+<pub-id pub-id-type="pmid">30879164</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0075"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0075">
+<string-name>
+<surname>Stein</surname>, <given-names>P.</given-names>
+</string-name> (<year>2017</year>, February 16). <article-title>Restaurants, schools close in &#x0201c;day without immigrants&#x0201d; protest</article-title>. <italic toggle="yes">The Washington Post</italic>. <ext-link xlink:href="https://www.washingtonpost.com/local/restaurants-schools-close-in-day-without-immigrants-protest/2017/02/16/ac2af2f8-f44c-11e6-a9b0-ecee7ce475fc_story.html" ext-link-type="uri">https://www.washingtonpost.com/local/restaurants&#x02010;schools&#x02010;close&#x02010;in&#x02010;day&#x02010;without&#x02010;immigrants&#x02010;protest/2017/02/16/ac2af2f8&#x02010;f44c&#x02010;11e6&#x02010;a9b0&#x02010;ecee7ce475fc_story.html</ext-link>
+</mixed-citation></ref><ref id="jora13020-bib-0076"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0076">
+<string-name>
+<surname>Stokes</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wike</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Carle</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>). <article-title>Global concern about climate change, broad support for limiting emissions</article-title>. <italic toggle="yes">Pew Research Center's Global Attitudes Project</italic>. <ext-link xlink:href="https://www.pewresearch.org/global/2015/11/05/global-concern-about-climate-change-broad-support-for-limiting-emissions/" ext-link-type="uri">https://www.pewresearch.org/global/2015/11/05/global&#x02010;concern&#x02010;about&#x02010;climate&#x02010;change&#x02010;broad&#x02010;support&#x02010;for&#x02010;limiting&#x02010;emissions/</ext-link>
+</mixed-citation></ref><ref id="jora13020-bib-0078"><mixed-citation publication-type="miscellaneous" id="jora13020-cit-0078">
+<collab collab-type="authors">The US Surgeon General's Advisory</collab>
+. (<year>2024</year>). <article-title>
+The U.S. surgeon general's report: Firearm violence prevention
+</article-title>. Department of Health and Human Services, Washington, DC.</mixed-citation></ref><ref id="jora13020-bib-0079"><mixed-citation publication-type="book" id="jora13020-cit-0079">
+<collab collab-type="authors">United Nations Children's Fund</collab>
+. (<year>2022</year>). <source>Rights denied: The impact of discrimination on children</source>. <publisher-name>UNICEF</publisher-name>.</mixed-citation></ref><ref id="jora13020-bib-0080"><mixed-citation publication-type="journal" id="jora13020-cit-0080">
+<string-name>
+<surname>Watts</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Adger</surname>, <given-names>W. N.</given-names>
+</string-name>, <string-name>
+<surname>Agnolucci</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Blackstock</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Byass</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Chaytor</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Colbourn</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Cooper</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Cox</surname>, <given-names>P. M.</given-names>
+</string-name>, <string-name>
+<surname>Depledge</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Drummond</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ekins</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Galaz</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Grace</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Graham</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Grubb</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Haines</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Costello</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Health and climate change: Policy responses to protect public health</article-title>. <source>The Lancet</source>, <volume>386</volume>(<issue>10006</issue>), <fpage>1861</fpage>&#x02013;<lpage>1914</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(15)60854-6</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0084"><mixed-citation publication-type="journal" id="jora13020-cit-0084">
+<string-name>
+<surname>Williams</surname>, <given-names>D. R.</given-names>
+</string-name>, <string-name>
+<surname>Neighbors</surname>, <given-names>H. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jackson</surname>, <given-names>J. S.</given-names>
+</string-name> (<year>2003</year>). <article-title>Racial/ethnic discrimination and health: Findings from community studies</article-title>. <source>American Journal of Public Health</source>, <volume>93</volume>(<issue>2</issue>), <fpage>200</fpage>&#x02013;<lpage>208</lpage>. <pub-id pub-id-type="doi">10.2105/ajph.93.2.200</pub-id>
+<pub-id pub-id-type="pmid">12554570</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0085"><mixed-citation publication-type="journal" id="jora13020-cit-0085">
+<string-name>
+<surname>Wong</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Eccles</surname>, <given-names>J. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sameroff</surname>, <given-names>A.</given-names>
+</string-name> (<year>2003</year>). <article-title>The influence of ethnic discrimination and ethnic identification on African American adolescents' school and socioemotional adjustment</article-title>. <source>Journal of Personality</source>, <volume>71</volume>(<issue>6</issue>), <fpage>1197</fpage>&#x02013;<lpage>1232</lpage>. <pub-id pub-id-type="doi">10.1111/1467-6494.7106012</pub-id>
+<pub-id pub-id-type="pmid">14633063</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0086"><mixed-citation publication-type="journal" id="jora13020-cit-0086">
+<string-name>
+<surname>Wray&#x02010;Lake</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Syvertsen</surname>, <given-names>A. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Flanagan</surname>, <given-names>C. A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Developmental change in social responsibility during adolescence: An ecological perspective</article-title>. <source>Developmental Psychology</source>, <volume>52</volume>(<issue>1</issue>), <fpage>130</fpage>&#x02013;<lpage>142</lpage>. <pub-id pub-id-type="doi">10.1037/dev0000067</pub-id>
+<pub-id pub-id-type="pmid">26619322</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0087"><mixed-citation publication-type="journal" id="jora13020-cit-0087">
+<string-name>
+<surname>Wray&#x02010;Lake</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Wells</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Alvis</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Delgado</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Syvertsen</surname>, <given-names>A. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Metzger</surname>, <given-names>A.</given-names>
+</string-name> (<year>2018</year>). <article-title>Being a Latinx adolescent under a trump presidency: Analysis of Latinx youth's reactions to immigration politics</article-title>. <source>Children and Youth Services Review</source>, <volume>87</volume>, <fpage>192</fpage>&#x02013;<lpage>204</lpage>. <pub-id pub-id-type="doi">10.1016/j.childyouth.2018.02.032</pub-id>
+</mixed-citation></ref><ref id="jora13020-bib-0088"><mixed-citation publication-type="journal" id="jora13020-cit-0088">
+<string-name>
+<surname>Wray&#x02010;Lake</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Witherspoon</surname>, <given-names>D. P.</given-names>
+</string-name>, <string-name>
+<surname>Halgunseth</surname>, <given-names>L. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Morris</surname>, <given-names>A. S.</given-names>
+</string-name> (<year>2022</year>). <article-title>Dismantling systems of racism and oppression during adolescence: An agenda for anti&#x02010;racist research</article-title>. <source>Journal of Research on Adolescence</source>, <volume>32</volume>(<issue>4</issue>), <fpage>1285</fpage>&#x02013;<lpage>1297</lpage>. <pub-id pub-id-type="doi">10.1111/jora.12814</pub-id>
+<pub-id pub-id-type="pmid">36519422</pub-id>
+</mixed-citation></ref></ref-list></back></article>

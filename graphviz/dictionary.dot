@@ -1,0 +1,21 @@
+digraph SemanticTools {
+    label="Climate Justice Dictionary";
+    labelloc="t";  // Positions the label at the top
+    fontsize=20;   // Sets the font size of the title
+	
+    // Define node styles
+    node [shape=box style=filled];
+
+    // Nodes with specific labels
+    "Literature search" [label="Literature search" fillcolor=lightpink];
+	Wordlist [label="Wordlist" fillcolor=lightyellow];
+	"Dictionary (Wikimedia enhanced)" [label="Dictionary (Wikimedia enhanced)" fillcolor=lightblue];
+	"IPCC chapters (on climate justice)" [label="IPCC chapters (on climate justice)" fillcolor=lightpink];
+	
+      
+    // Define edges
+   "Literature search" -> Wordlist [color=black];
+    Wordlist -> "Dictionary (Wikimedia enhanced)" [color=black , label="   amilib"];
+   "IPCC chapters (on climate justice)" -> Wordlist [color=black , label="   Keyword extraction "]
+
+   }

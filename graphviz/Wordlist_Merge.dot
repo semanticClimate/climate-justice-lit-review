@@ -1,0 +1,15 @@
+digraph {
+   	
+    // Define node styles
+    node [shape=box style=filled];
+
+    // Nodes with specific labels
+    "Word list 100 articles – 25 terms" [label="Word list 100 articles – 25 terms " fillcolor=lightpink];
+	"Word list IPCC Report – 51 terms" [label="Word list IPCC Report – 51 terms" fillcolor=lightpink];
+	"Word list: Climate Justice Dictionary – 76 terms" [label="Word list: Climate Justice Dictionary – 76 terms" fillcolor=lightblue];
+      
+    // Define edges
+    "Word list 100 articles – 25 terms" -> "Word list: Climate Justice Dictionary – 76 terms" [color=black , label="   Keyword extraction "];
+    "Word list IPCC Report – 51 terms" -> "Word list: Climate Justice Dictionary – 76 terms" [color=black ,];
+	  
+   }

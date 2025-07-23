@@ -1,0 +1,639 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="article-commentary"><?properties open_access?><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Environ Sci Technol</journal-id><journal-id journal-id-type="iso-abbrev">Environ Sci Technol</journal-id><journal-id journal-id-type="publisher-id">es</journal-id><journal-id journal-id-type="coden">esthag</journal-id><journal-title-group><journal-title>Environmental Science &#x00026; Technology</journal-title></journal-title-group><issn pub-type="ppub">0013-936X</issn><issn pub-type="epub">1520-5851</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11137869</article-id><article-id pub-id-type="pmid">38752553</article-id>
+<article-id pub-id-type="doi">10.1021/acs.est.3c10711</article-id><article-categories><subj-group><subject>Policy Analysis</subject></subj-group></article-categories><title-group><article-title>Socio-environmental
+Opportunities for Organic Material
+Management in California&#x02019;s Sustainability Transition</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6200-2883</contrib-id><name><surname>Hall</surname><given-names>Anaya L.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Ponomareva</surname><given-names>Aleksandra I.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Torn</surname><given-names>Margaret S.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Potts</surname><given-names>Matthew D.</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Energy
+&#x00026; Resources Group <institution>University of California&#x02014;Berkeley</institution> 345 Giannini Hall Berkeley, California 94720, <country>United States</country></aff><aff id="aff2"><label>&#x02021;</label>Climate
+and Ecosystem Sciences Division <institution>Lawrence
+Berkeley National Laboratory</institution> Berkeley, California 94720, <country>United States</country></aff><aff id="aff3"><label>&#x000a7;</label>Department
+of Environmental Science, Policy, and Management <institution>University of California&#x02014;Berkeley</institution> 130 Mulford Hall Berkeley, California 94720, <country>United States</country></aff><aff id="aff4"><label>&#x02225;</label><institution>Carbon
+Direct, Incorporated</institution> 17 State Street New York, New York 10004, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>anayahall@berkeley.edu</email>.</corresp></author-notes><pub-date pub-type="epub"><day>16</day><month>05</month><year>2024</year></pub-date><pub-date pub-type="collection"><day>28</day><month>05</month><year>2024</year></pub-date><volume>58</volume><issue>21</issue><fpage>9031</fpage><lpage>9039</lpage><history><date date-type="received"><day>20</day><month>12</month><year>2023</year></date><date date-type="accepted"><day>02</day><month>05</month><year>2024</year></date><date date-type="rev-recd"><day>01</day><month>05</month><year>2024</year></date></history><permissions><copyright-statement>&#x000a9; 2024 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es3c10711_0005" id="ab-tgr1"/></p><p>Contemporary resource management is doubly burdened by
+high rates
+of organic material disposal in landfills, generating potent greenhouse
+gases (GHG), and globally degraded soils, which threaten future food
+security. Expansion of composting can provide a resilient alternative,
+by avoiding landfill GHG emissions, returning valuable nutrients to
+the soil to ensure continued agricultural production, and sequestering
+carbon while supporting local communities. Recognizing this opportunity,
+California has set ambitious organics diversion targets in the Short-Lived
+Climate Pollutant Law (SB1383) which will require significant increases
+(5 to 8 million tonnes per year) in organic material processing capacity.
+This paper develops a spatial optimization model to consider how to
+handle this flow of additional material while achieving myriad social
+and ecological benefits through compost production. We consider community-based
+and on-farm facilities alongside centralized, large-scale infrastructure
+to explore decentralized and diversified alternative futures of composting
+infrastructure in the state of California. We find using a diversity
+of facilities would provide opportunity for cost savings while achieving
+significant emissions reductions of approximately 3.4 &#x000b1; 1 MMT
+CO<sub>2</sub>e and demonstrate that it is possible to incorporate
+community protection into compost infrastructure planning while meeting
+economic and environmental objectives.</p></abstract><abstract abstract-type="short"><p>This policy
+analysis provides a framework and methodology
+for policymakers and stakeholders to incorporate environmental, economic,
+and social objectives into compost facility planning to support broader
+organic waste and climate change mitigation goals.</p></abstract><kwd-group><kwd>carbon sequestration</kwd><kwd>climate change mitigation</kwd><kwd>environmental justice</kwd><kwd>food waste</kwd><kwd>organics</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>National Science Foundation</institution><institution-id institution-id-type="doi">10.13039/100000160</institution-id></institution-wrap></funding-source><award-id>1739676</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>California Strategic Growth Council</institution><institution-id institution-id-type="doi">10.13039/100022421</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>es3c10711</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>es3c10711</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Increasing the use of
+composting is frequently touted as an opportunity
+to simultaneously divert organic materials from landfills, where they
+produce high quantities of methane, and to sequester carbon (C) in
+degraded soils, offering a double win for climate change mitigation.<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref4">4</xref></sup> To help ensure a just sustainable transition, composting also offers
+an opportunity to unite climate change mitigation and landscape restoration
+goals with broader social justice objectives.<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref></sup> In
+this paper, we evaluate overlapping economic and socio-environmental
+goals associated with developing new composting infrastructure in
+the state of California.</p><p>California has implemented a suite
+of programs and policies to
+tackle landfill emissions, the source of 20% of the state&#x02019;s
+anthropogenic methane emissions.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> The most
+comprehensive piece of legislation is Senate Bill 1383, passed in
+2016, (Short-lived Climate Pollutants (SLCP): Organic Waste Reductions;
+Lara, Chapter 395), which sets bold goals for landfill methane reduction,
+including a 75% reduction in the statewide disposal of organic waste
+from the 2014 level by 2025.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> Much of this
+material is expected to be composted, but at present there is not
+enough capacity to handle all of this diverted organic waste. A key
+objective of this bill is to prompt a paradigm shift in how waste
+is managed in California, creating a circular system in which food
+scraps and organic materials are recovered and repurposed, rather
+than a linear system in which they are landfill-bound. This transformation
+requires new infrastructure and significant changes in the management
+of organic materials, including how they are used, collected, processed,
+and redistributed.</p><p>California is increasingly looking to its
+working lands (grazed
+grasslands and cultivated croplands) for climate mitigation and biodiversity
+enhancement. As part of its Natural and Working Land Climate Smart
+Strategy and the Healthy Soils Program, the state has set clear goals
+around increasing carbon (C) storage and improving soil health through
+compost application.<sup><xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup> Once land applied, compost, the
+product of controlled aerobic microbial decomposition, promotes C
+sequestration in soil by stimulating microorganism activity and increasing
+the soil&#x02019;s photosynthetically derived C biomass.<sup><xref ref-type="bibr" rid="ref11">11</xref>&#x02212;<xref ref-type="bibr" rid="ref14">14</xref></sup> Compost can increase water retention and nutrient availability,
+and can displace the use of traditional fertilizers.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> California has over 24 million acres of rangelands and
+cultivated cropland which make up nearly a fifth of the State&#x02019;s
+land area&#x02014;they provide a significant compost application opportunity.<sup><xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup></p><p>Enhancing the role of compost in California&#x02019;s waste
+management
+paradigm also offers an opportunity to incorporate considerations
+of environmental and economic justice into the state&#x02019;s sustainability
+transition. Traditional waste management has historically burdened
+disadvantaged communities with disproportional environmental harms;<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> repeated studies have shown waste facilities
+tend to be concentrated in areas of relative social deprivation.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Beyond methane emissions reductions, composting
+can benefit food security and economic resiliency through local production
+of food and expanded employment opportunities, especially when developed
+at smaller, community-centered scales.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> Actively considering the social and economic cobenefits of climate
+change mitigation policies such as organic waste diversion can offer
+benefits to disadvantaged communities in line with California&#x02019;s
+codified environmental justice (EJ) principles.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup></p><p>This is the first study that we know of to focus
+on the necessary
+expansion of composting infrastructure in California and to consider
+the diversity of facility types available to meet organics management
+capacity needs and social justice goals. Building on field trials
+that demonstrate the carbon (C) sequestration potential of a single
+application of compost,<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> past work has quantified
+the potential costs and emissions benefits associated with compost
+diversion in California.<sup><xref ref-type="bibr" rid="ref24">24</xref>&#x02212;<xref ref-type="bibr" rid="ref27">27</xref></sup> However, these studies focus only on existing conventional,
+industrial-scale composting facilities and do not consider the variety
+of composting facility types that may be deployed to simultaneously
+meet both environmental and social objectives.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup></p><p>To address this knowledge gap, we investigate how
+California&#x02019;s
+additional composting infrastructure needs can be met under a range
+of social, economic, and environmental constraints. We build on past
+studies analyzing existing infrastructure using a similar lifecycle
+approach<sup><xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref28">28</xref></sup> to address
+three primary goals: (1) review the variety of composting facility
+types and their different technical and economic factors; (2) estimate
+the distribution and size of new composting facilities needed to minimize
+cost or emissions; and (3) evaluate whether social and environmental
+policy objectives can be met by incorporating community and on-farm
+composters. Although this analysis centers on California, the results
+are intended to provide a framework and methodology for decision-makers
+across the country.</p></sec><sec id="sec2"><label>2</label><title>Materials and Methods</title><p>This analysis
+was completed in three steps. First, we collected
+spatially explicit data estimates on available biomass feedstocks
+across the state, existing composting capacity, land-use characteristics
+for compost application on working lands, and relevant policy considerations
+for composting infrastructure development, including air quality and
+contemporary pollution burden. Second, we consulted literature and
+expert stakeholders to develop a typology of composter facilities,
+in which small-scale community-based and on-farm composting were considered
+alongside conventional centralized, large-scale infrastructure. This
+allowed for a better comparison of trade-offs based on bundled attributes
+of each facility type and for appropriate parametrization of our model.
+Finally, we constructed a linear optimization model to evaluate these
+variables and determine where best to locate new composting facilities
+under policy-relevant objectives and constraints.</p><p>We developed
+a set of 12 scenarios that minimized either cost or
+GHG emissions to robustly assess the impact of incorporating facility
+diversity and socio-environmental considerations in new compost infrastructure
+development. The results of the model return least-cost supply chains
+for compost, including geographically bounded estimates of new build
+per facility type (in tonnes), mass and distance of feedstock and
+compost moved, net CO<sub>2</sub>e reductions and cost. Modeled scenario
+results outline a framework for organic material management that incorporates
+the social and ecological objectives of California&#x02019;s climate
+change mitigation, working land, and environmental justice planning.</p><sec id="sec2.1"><label>2.1</label><title>Compost Facility Considerations</title><p>To
+achieve its compost-related diversion, soil health, and mitigation
+goals, the State of California will need to add 5&#x02013;8 million
+tonnes/year of additional compost capacity to handle municipal solid
+waste material newly diverted away from landfills.<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup> The distribution and size of these new facilities will depend on
+regional attributes, like land use in the area, feedstock availability,
+end-market access, and air quality and community health considerations.
+Though it possesses numerous beneficial qualities, compost is an expensive
+product to transport, as it is water-rich and heavy.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> As a result, the strategic placement of new facilities
+such that they are close to feedstock collection points and end uses
+is paramount to minimize costs and emissions for the whole system.</p><p>The analysis considered two feedstock source types: the organic
+fraction of municipal solid waste (OFMSW, hereafter MSW, consisting
+of food scraps and green waste) and agricultural materials (manure
+and orchard residue). We focused primarily on MSW in line with SB1383
+goals. However, agricultural feedstocks represent an impressive volume
+of organic materials in the state and are included in a few scenarios
+to assess their potential impact on emission reduction outcomes and
+to envision a future where feedstocks are managed holistically across
+California.</p><p>We also considered compost facility heterogeneity;
+operations range
+from small-scale community facilities to on-farm agriculturally based
+facilities to large-scale industrial facilities, each associated with
+different sizes, costs, land uses, technologies, and community impacts.<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> For example, diversified and decentralized composting
+infrastructure, as opposed to large industrial facilities, has been
+shown to reduce transportation cost, provide for greater community-buy
+in, and can be more resilient and adaptable to local conditions.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup></p><p>Finally, we included air quality and community health considerations
+in compost facility development. Regional air quality constraints
+may restrict the type of facilities that can be developed in an area&#x02014;air
+districts that have already reached maximum capacity for air pollutant
+concentrations may not be permitted to build new large industrial
+facilities due to the volatile organic compounds they release.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> For the same reason, areas that have been identified
+as Disadvantaged Communities (DAC) based on their high CalEnviroScreen
+score, which indicates that they already experience a high pollution
+burden, may not be able to accommodate a large industrial facility.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> Consideration of environmental justice is critical
+as the state expands composting capacity&#x02014;at present, over 35%
+of existing composters are in DAC census blocks according to our analysis
+of CalRecycle data. By volume, over half of existing capacity is located
+in these communities. We investigated how these socio-environmental
+constraints can be managed while still meeting state capacity needs.</p><sec id="sec2.1.1"><label>2.1.1</label><title>Facility Typology</title><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> illustrates a general compost
+facility typology drawn from expert interviews and literature review.
+We highlight several key differentiating factors for facility type
+including size, feedstock, end-markets, land use type, and capital
+costs. Maximum facility size, feedstocks, and capital costs were all
+included in the next step of the analysis, the spatial optimization
+model. It is important to note that facilities exhibited important
+differences in community benefits, though these are challenging to
+quantify and were not directly modeled in this work.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Composting facility typology.
+Capacity is measured in tons per
+year (TPY) (tonnes). Feedstocks include municipal solid waste (MSW)
+and agricultural residue (AG). Capital costs include a per ton estimate
+for construction of a new facility&#x02014;land costs and labor are
+not included. *Denotes values used in the analysis.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es3c10711_0001" id="gr1" position="float"/></fig><p>Industrial composters are currently the dominant
+model of compost
+processing facilities in the state. The average facility processes
+60&#x0202f;000 tonnes per year of capacity.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> Existing facilities are located throughout the state, with a noticeably
+heavy presence in the Central Valley, and near urban centers in Northern
+and Southern California (see <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>). They can process most feedstocks (including MSW,
+agricultural, and wood) and are associated with high capital costs
+and stringent permitting requirements based on throughput and footprint.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Key model
+inputs and zones. Black hexagons delineate the zones
+used in this analysis. Panel (a) presents organic fraction of municipal
+solid waste (MSW) within each zone. Panel (b) shows both the locations
+of existing composters and the maximum CalEnviroScreen Environmental
+Justice score in each zone. Panel (c) displays the distribution of
+end-markets for land application of compost.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es3c10711_0002" id="gr2" position="float"/></fig><p>On-farm composters are those facilities located
+on actively operating
+agricultural enterprises. They tend to be smaller in scale, and to
+process uncontaminated agricultural residue (like manure, crop, and
+orchard residue) as feedstocks, though can accept MSW as well.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> Finally, community composters tend to be associated
+with community gardens and operated by nonprofit organizations to
+produce soil amendments for local community members. They are the
+smallest type of compost facility and often provide a range of social
+cobenefits, including added community green space, education opportunities,
+local jobs, food security, and embeddedness in communities. Although
+community composters produce much less compost than industrial processors
+and face unique challenges related to land access, feedstock contamination,
+and processing capacity, there is increasing interest in using these
+decentralized facilities across the state and beyond as demonstrated
+by recently established sources of funding.<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref></sup> We
+investigate the technical and economic potential of on-farm and community
+composters given their smaller throughput capacity.</p></sec></sec><sec id="sec2.2"><label>2.2</label><title>Siting Model</title><p>Given this facility
+typology, a linear programming model was developed to estimate build-out
+of compost infrastructure across available facility types and efficiently
+allocate newly diverted organic feedstocks from generation through
+end-use land application. We developed two functional forms for this
+model, one in which the objective is to minimize cost and one in which
+the objective is to minimize emissions. This spatially explicit model
+was used to evaluate multiple scenarios under a series of physical
+and policy-motivated constraints.</p><p>To effectively model the heterogeneity
+of resources across California, we regionalized the state into 78
+hexagonal zones shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, which allow for more granularity and consistency
+than a county-scaled model. Although the zones are not uniform given
+the geography of the state, they reflect realistic waste management
+and compost market regions. The use of hexagons aligns our zones with
+the scale and radii of average collection and hauling distances for
+a robust assessment of transportation logistics and resource distribution.</p><p>Each zone was associated with an array of attributes relevant to
+the decision of whether to site a new composting facility: these included
+land use, feedstock availability, existing composting infrastructure, end-market access (i.e., cultivated
+cropland or rangeland where finished compost can be applied), air
+quality indices, and environmental justice scores. The solved results
+of the model are the capacities (in tonnes) of each newly built facility
+type per zone. More information on model formulation, parameter descriptions
+and data sources can be found in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c10711/suppl_file/es3c10711_si_001.pdf">Supporting Information</ext-link> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c10711/suppl_file/es3c10711_si_001.pdf">SI</ext-link>).</p><p>A set of
+scenarios were developed to reflect potential policy objectives,
+detailed in <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>. Business-as-usual (&#x0201c;BAU&#x0201d;) was defined by limiting
+potential builds to industrial only, both with and without a maximum
+cap allowed per zone. &#x0201c;Baseline&#x0201d; incorporated the additional
+facility types of community composters and on-farm composters. The
+&#x0201c;Land-use&#x0201d; scenario incentivized community and/or on-farm
+facilities to align land use and facility characteristics by limiting
+the amount of industrial facilities built in zones where the proportion
+of land classified as &#x0201c;developed&#x0201d; or &#x0201c;agricultural&#x0201d;
+was above the 60<sup>th</sup> percentile across all zones. Under this
+scenario, in those zones, maximum industrial capacity was uniformly
+reduced by 75%. Maximum community was increased 100% in urban zones;
+on-farm capacity was increased 100% in agricultural zones. The &#x0201c;EJ&#x0201d;
+scenario prohibited building industrial facilities in DAC zones, defined
+as those with EJ scores above 75%.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> Another
+scenario (&#x0201c;AQ&#x0201d;) also prohibited industrial facilities
+in zones that included any portion of an impacted airshed. These two
+constraints were combined in the &#x0201c;EJ &#x00026; AQ&#x0201d; scenario.
+A final scenario did not allow industrial facility build in any zone
+(&#x0201c;Community &#x00026; On-Farm&#x0201d;).</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Scenario Definitions for Each of 24
+Scenarios</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="left"/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center">scenario
+name</th><th style="border:none;" align="center">feedstock</th><th style="border:none;" align="center">objective</th><th style="border:none;" align="center">constraints</th></tr></thead><tbody><tr><td style="border:none;" align="left">BAU No Cap</td><td style="border:none;" align="left">MSW</td><td style="border:none;" align="left">cost;&#x000a0;emis.</td><td style="border:none;" align="left">only&#x000a0;industrial, no cap on build per zone</td></tr><tr><td style="border:none;" align="left">BAU Cap</td><td style="border:none;" align="left">MSW</td><td style="border:none;" align="left">cost;&#x000a0;emis.</td><td style="border:none;" align="left">only&#x000a0;industrial, cap on build per zone</td></tr><tr><td style="border:none;" align="left">Baseline</td><td style="border:none;" align="left">MSW</td><td style="border:none;" align="left">cost; emis.</td><td style="border:none;" align="left">facility
+diversity (all&#x000a0;types&#x000a0;permitted)</td></tr><tr><td style="border:none;" align="left">Land-use</td><td style="border:none;" align="left">MSW</td><td style="border:none;" align="left">cost; emis.</td><td style="border:none;" align="left">incentives for community
+and on-farm by zone land-use</td></tr><tr><td style="border:none;" align="left">EJ</td><td style="border:none;" align="left">MSW</td><td style="border:none;" align="left">cost; emis.</td><td style="border:none;" align="left">no industrial in EJ zones</td></tr><tr><td style="border:none;" align="left">AQ</td><td style="border:none;" align="left">MSW</td><td style="border:none;" align="left">cost; emis.</td><td style="border:none;" align="left">no industrial in AQ zones</td></tr><tr><td style="border:none;" align="left">EJ &#x00026; AQ</td><td style="border:none;" align="left">MSW</td><td style="border:none;" align="left">cost; emis.</td><td style="border:none;" align="left">no
+industrial in EJ or AQ
+zones</td></tr><tr><td style="border:none;" align="left">Comm.&#x000a0;&#x00026;&#x000a0;On&#x000a0;Farm</td><td style="border:none;" align="left">MSW</td><td style="border:none;" align="left">cost; emis.</td><td style="border:none;" align="left">no industrial allowed</td></tr><tr><td style="border:none;" align="left">BAU Cap +</td><td style="border:none;" align="left">MSW + AR</td><td style="border:none;" align="left">cost; emis.</td><td style="border:none;" align="left">both&#x000a0;feedstocks; only industrial</td></tr><tr><td style="border:none;" align="left">Baseline +</td><td style="border:none;" align="left">MSW + AR</td><td style="border:none;" align="left">cost; emis.</td><td style="border:none;" align="left">both&#x000a0;feedstocks; facility diversity</td></tr><tr><td style="border:none;" align="left">Land-use +</td><td style="border:none;" align="left">MSW&#x000a0;+&#x000a0;AR</td><td style="border:none;" align="left">cost; emis.</td><td style="border:none;" align="left">both&#x000a0;feedstocks; land-use incentives</td></tr><tr><td style="border:none;" align="left">EJ &#x00026; AQ +</td><td style="border:none;" align="left">MSW&#x000a0;+&#x000a0;AR</td><td style="border:none;" align="left">cost; emis.</td><td style="border:none;" align="left">both&#x000a0;feedstocks; no industrial in EJ&#x000a0;&#x00026;&#x000a0;AQ&#x000a0;zones</td></tr></tbody></table></table-wrap><p>We also evaluated four of these scenarios (&#x0201c;BAU
+Cap&#x0201d;,
+&#x0201c;Baseline&#x0201d;, &#x0201c;Land-use&#x0201d;, &#x0201c;EJ &#x00026;
+AQ&#x0201d;) with both the organic fraction of MSW and agricultural
+residue, for a total of 12 scenarios, each of which was evaluated
+under both cost and emissions minimization objectives. For both objective
+functions, the solved model returns the tonnage of new composting-facility
+builds of each type per zone, the total cost (USD), total CO<sub>2</sub>e emissions reductions, and the amount and distance (tonne-km) of
+organic materials moved in each scenario. Emissions estimates represent
+a combination of annual avoided emissions from diverting organic feedstocks
+away from landfills, emissions associated with transporting materials
+and producing compost, and the county-specific annual net carbon sequestration
+benefit from a one-time compost application to crop or rangelands.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> Results present annual values for material handling
+and one-time compost application.</p><p>We used the open-source package,
+CVXPY to solve the optimization
+problem with an academic license of the GUROBI software. This package
+is used for a variety of mathematical programming problems, including
+linear programming, quadratic programming, and mixed integer linear
+programming among others. We rely on their linear programming solutions.
+The model is implemented in the Python programming language.</p></sec><sec id="sec2.3"><label>2.3</label><title>Sensitivity Analysis</title><p>The parameters
+used in this model are displayed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c10711/suppl_file/es3c10711_si_001.pdf">SI Table S1</ext-link> and are consistent with the existing literature evaluating the techno-economic
+potential of compost applications. A parametric sensitivity analysis
+was performed to evaluate the impact of five key input uncertainties
+on the results through 15 additional scenarios, presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c10711/suppl_file/es3c10711_si_001.pdf">Table S3</ext-link> in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c10711/suppl_file/es3c10711_si_001.pdf">SI</ext-link>.</p><p>Overall costs and emissions are both a function of organic
+material flow patterns, feedstock to compost conversion rate, compost
+processing emissions, diversion rates, and upfront capital costs for
+facility development. First, we evaluated the impact of feedstock
+constraints as defined in our typology. In this sensitivity analysis,
+on-farm only accepted agricultural residue while community composters
+accepted both municipal and agricultural feedstocks. Industrial facilities
+always accepted all feedstocks.</p><p>The impact of volumetric conversion
+during composting was assessed
+at low (50%) and high (150%) levels of the initial parameter. We also
+include a higher estimate of the greenhouse gas emissions associated
+with producing compost (or processing emissions) drawn from the literature,
+as well as lower estimate of on-farm capital cost. Finally, while
+the focus of our assessment was on compost, as part of the sensitivity
+analysis we include one scenario that alters diversion rates to include
+the potential role of anaerobic digestion (AD) in absorbing a portion
+(40%) of the diverted organic material as suggested by SB1383.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> This scenario also addresses potential changes
+in agricultural feedstock availability due to changing industry dynamics.</p></sec></sec><sec id="sec3"><label>3</label><title>Results</title><sec id="sec3.1"><label>3.1</label><title>Technical Build</title><p>The results for both
+cost and emissions objectives demonstrate that incorporating facility
+diversity and environmental justice considerations can cost less than
+BAU scenarios, on both a per tonne and overall basis, while resulting
+in approximately similar levels of emissions reductions (<xref rid="tbl2" ref-type="other">Tables <xref rid="tbl2" ref-type="other">2</xref></xref> and <xref rid="tbl3" ref-type="other">3</xref>). GHG reductions include both the C sequestration benefits
+of using compost as a soil amendment and the avoided emissions from
+diverting organic waste from landfills with the latter constituting
+the bulk of the emissions reductions modeled here. Under a cost minimization
+objective there is less new capacity built overall (<xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref> and <xref rid="fig4" ref-type="fig">4</xref>), with each MSW scenario just meeting the SB1383 diversion requirements
+of 8 MMT of new capacity, leading to fewer opportunities to sequester
+carbon with newly processed compost. No on-farm composters were constructed
+in these scenarios, likely due to the high up-front capital costs.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Facility
+build by composter type for MSW only scenarios. The horizontal
+axes denote the scenario and the stacked bars represent new capacity
+built in that scenario. Panel (a) shows results for the emissions
+minimization runs and panel (b) shows results from the cost minimization
+runs. The black line indicates the amount of new composting capacity
+necessary to meet SB1383 goals.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es3c10711_0003" id="gr3" position="float"/></fig><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Facility build by composter type in scenarios that account
+for
+MSW and agricultural residue. The horizontal axes denote the scenario
+and the stacked bars represent new capacity built in that scenario.
+Panel (a) shows results for the emissions minimization runs and panel
+(b) shows results from the cost minimization runs.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es3c10711_0004" id="gr4" position="float"/></fig><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Cost Minimization Model Results for
+Main Scenarios</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">scenario
+name</th><th style="border:none;" align="center" char=".">GHG reduction (MMT&#x000a0;CO<sub>2</sub>e/yr)</th><th style="border:none;" align="center" char=".">cost (million&#x000a0;USD)</th><th style="border:none;" align="center" char=".">USD/tCO<sub>2</sub>e</th><th style="border:none;" align="center" char=".">USD/t
+of
+new capacity</th><th style="border:none;" align="center" char=".">mass distance (10<sup>6</sup>&#x000a0;t-km)</th></tr></thead><tbody><tr><td style="border:none;" align="left">BAU&#x000a0;No&#x000a0;Cap</td><td style="border:none;" align="char" char=".">2.5585</td><td style="border:none;" align="char" char=".">$1587</td><td style="border:none;" align="char" char=".">$620.25</td><td style="border:none;" align="char" char=".">$196.25</td><td style="border:none;" align="char" char=".">326</td></tr><tr><td style="border:none;" align="left">BAU Cap</td><td style="border:none;" align="char" char=".">2.6112</td><td style="border:none;" align="char" char=".">$1532</td><td style="border:none;" align="char" char=".">$586.52</td><td style="border:none;" align="char" char=".">$189.40</td><td style="border:none;" align="char" char=".">100</td></tr><tr><td style="border:none;" align="left">Baseline</td><td style="border:none;" align="char" char=".">2.4685</td><td style="border:none;" align="char" char=".">$906</td><td style="border:none;" align="char" char=".">$367.16</td><td style="border:none;" align="char" char=".">$112.08</td><td style="border:none;" align="char" char=".">514</td></tr><tr><td style="border:none;" align="left">Land-use</td><td style="border:none;" align="char" char=".">2.4489</td><td style="border:none;" align="char" char=".">$903</td><td style="border:none;" align="char" char=".">$368.71</td><td style="border:none;" align="char" char=".">$111.67</td><td style="border:none;" align="char" char=".">572</td></tr><tr><td style="border:none;" align="left">EJ</td><td style="border:none;" align="char" char=".">2.4327</td><td style="border:none;" align="char" char=".">$900</td><td style="border:none;" align="char" char=".">$369.90</td><td style="border:none;" align="char" char=".">$111.28</td><td style="border:none;" align="char" char=".">634</td></tr><tr><td style="border:none;" align="left">AQ</td><td style="border:none;" align="char" char=".">2.4278</td><td style="border:none;" align="char" char=".">$898</td><td style="border:none;" align="char" char=".">$369.76</td><td style="border:none;" align="char" char=".">$111.02</td><td style="border:none;" align="char" char=".">655</td></tr><tr><td style="border:none;" align="left">EJ &#x00026; AQ</td><td style="border:none;" align="char" char=".">2.4281</td><td style="border:none;" align="char" char=".">$898</td><td style="border:none;" align="char" char=".">$369.76</td><td style="border:none;" align="char" char=".">$111.02</td><td style="border:none;" align="char" char=".">655</td></tr><tr><td style="border:none;" align="left">Comm.&#x000a0;&#x00026;&#x000a0;On&#x000a0;Farm</td><td style="border:none;" align="char" char=".">2.4285</td><td style="border:none;" align="char" char=".">$898</td><td style="border:none;" align="char" char=".">$369.66</td><td style="border:none;" align="char" char=".">$111.02</td><td style="border:none;" align="char" char=".">655</td></tr><tr><td style="border:none;" align="left">BAU Cap +</td><td style="border:none;" align="char" char=".">15.8297</td><td style="border:none;" align="char" char=".">$12&#x0202f;157</td><td style="border:none;" align="char" char=".">$768.01</td><td style="border:none;" align="char" char=".">$220.54</td><td style="border:none;" align="char" char=".">6324</td></tr><tr><td style="border:none;" align="left">Baseline +</td><td style="border:none;" align="char" char=".">16.4445</td><td style="border:none;" align="char" char=".">$10&#x0202f;965</td><td style="border:none;" align="char" char=".">$666.76</td><td style="border:none;" align="char" char=".">$198.90</td><td style="border:none;" align="char" char=".">4662</td></tr><tr><td style="border:none;" align="left">Land-use +</td><td style="border:none;" align="char" char=".">15.2604</td><td style="border:none;" align="char" char=".">$12&#x0202f;383</td><td style="border:none;" align="char" char=".">$811.42</td><td style="border:none;" align="char" char=".">$224.62</td><td style="border:none;" align="char" char=".">7855</td></tr><tr><td style="border:none;" align="left">EJ &#x00026; AQ +</td><td style="border:none;" align="char" char=".">15.3223</td><td style="border:none;" align="char" char=".">$12&#x0202f;412</td><td style="border:none;" align="char" char=".">$810.06</td><td style="border:none;" align="char" char=".">$225.16</td><td style="border:none;" align="char" char=".">8006</td></tr></tbody></table></table-wrap><table-wrap id="tbl3" position="float"><label>Table 3</label><caption><title>Emissions Minimization Model Results
+for Main Scenarios</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">scenario
+name</th><th style="border:none;" align="center" char=".">GHG reduction (MMT&#x000a0;CO<sub>2</sub>e/yr)</th><th style="border:none;" align="center" char=".">cost (million&#x000a0;USD)</th><th style="border:none;" align="center" char=".">USD/tCO<sub>2</sub>e</th><th style="border:none;" align="center" char=".">USD/t
+of
+new capacity</th><th style="border:none;" align="center" char=".">mass distance (10<sup>6</sup>&#x000a0;t-km)</th></tr></thead><tbody><tr><td style="border:none;" align="left">BAU No Cap</td><td style="border:none;" align="char" char=".">3.3824</td><td style="border:none;" align="char" char=".">$2164</td><td style="border:none;" align="char" char=".">$639.75</td><td style="border:none;" align="char" char=".">$200.70</td><td style="border:none;" align="char" char=".">587</td></tr><tr><td style="border:none;" align="left">BAU Cap</td><td style="border:none;" align="char" char=".">3.4661</td><td style="border:none;" align="char" char=".">$2069</td><td style="border:none;" align="char" char=".">$596.82</td><td style="border:none;" align="char" char=".">$191.87</td><td style="border:none;" align="char" char=".">240</td></tr><tr><td style="border:none;" align="left">Baseline</td><td style="border:none;" align="char" char=".">3.4950</td><td style="border:none;" align="char" char=".">$1776</td><td style="border:none;" align="char" char=".">$508.21</td><td style="border:none;" align="char" char=".">$164.74</td><td style="border:none;" align="char" char=".">112</td></tr><tr><td style="border:none;" align="left">Land-use</td><td style="border:none;" align="char" char=".">3.4456</td><td style="border:none;" align="char" char=".">$1896</td><td style="border:none;" align="char" char=".">$550.38</td><td style="border:none;" align="char" char=".">$175.89</td><td style="border:none;" align="char" char=".">332</td></tr><tr><td style="border:none;" align="left">EJ</td><td style="border:none;" align="char" char=".">3.4606</td><td style="border:none;" align="char" char=".">$1812</td><td style="border:none;" align="char" char=".">$543.89</td><td style="border:none;" align="char" char=".">$174.57</td><td style="border:none;" align="char" char=".">261</td></tr><tr><td style="border:none;" align="left">AQ</td><td style="border:none;" align="char" char=".">3.4348</td><td style="border:none;" align="char" char=".">$1873</td><td style="border:none;" align="char" char=".">$545.35</td><td style="border:none;" align="char" char=".">$173.74</td><td style="border:none;" align="char" char=".">373</td></tr><tr><td style="border:none;" align="left">EJ &#x00026; AQ</td><td style="border:none;" align="char" char=".">3.4348</td><td style="border:none;" align="char" char=".">$1906</td><td style="border:none;" align="char" char=".">$554.76</td><td style="border:none;" align="char" char=".">$176.74</td><td style="border:none;" align="char" char=".">373</td></tr><tr><td style="border:none;" align="left">Comm. &#x00026; On Farm</td><td style="border:none;" align="char" char=".">3.4025</td><td style="border:none;" align="char" char=".">$1896</td><td style="border:none;" align="char" char=".">$557.10</td><td style="border:none;" align="char" char=".">$175.81</td><td style="border:none;" align="char" char=".">497</td></tr><tr><td style="border:none;" align="left">BAU Cap +</td><td style="border:none;" align="char" char=".">19.9981</td><td style="border:none;" align="char" char=".">$16&#x0202f;692</td><td style="border:none;" align="char" char=".">$834.69</td><td style="border:none;" align="char" char=".">$236.59</td><td style="border:none;" align="char" char=".">11,791</td></tr><tr><td style="border:none;" align="left">Baseline +</td><td style="border:none;" align="char" char=".">22.0964</td><td style="border:none;" align="char" char=".">$16&#x0202f;047</td><td style="border:none;" align="char" char=".">$726.24</td><td style="border:none;" align="char" char=".">$218.33</td><td style="border:none;" align="char" char=".">7,827</td></tr><tr><td style="border:none;" align="left">Land-use +</td><td style="border:none;" align="char" char=".">19.3146</td><td style="border:none;" align="char" char=".">$16&#x0202f;740</td><td style="border:none;" align="char" char=".">$866.69</td><td style="border:none;" align="char" char=".">$241.70</td><td style="border:none;" align="char" char=".">12&#x0202f;686</td></tr><tr><td style="border:none;" align="left">EJ &#x00026; AQ +</td><td style="border:none;" align="char" char=".">20.1838</td><td style="border:none;" align="char" char=".">$18&#x0202f;210</td><td style="border:none;" align="char" char=".">$902.23</td><td style="border:none;" align="char" char=".">$247.76</td><td style="border:none;" align="char" char=".">14&#x0202f;652</td></tr></tbody></table></table-wrap><p>As additional constraints were included in the modeled
+scenarios,
+emissions reductions decreased slightly, while cost per ton of CO<sub>2</sub>-equivalent avoided also decreased. This result is consistent
+across both cost and emissions minimizations objectives and both feedstock
+scenarios. Overall cost associated with transporting feedstocks, constructing
+facilities, and land-applying compost dropped significantly, even
+as the hauling and collecting distance increased. This is especially
+pronounced in the MSW feedstock-only runs: BAU costs are about 50%
+higher than scenarios that allow diverse facility types to be built.
+One unexpected result was that the AQ and EJ &#x00026; AQ scenarios yielded
+identical results from the optimization model under the cost minimization
+objective. We display both results in <xref rid="tbl2" ref-type="other">Tables <xref rid="tbl2" ref-type="other">2</xref></xref> and <xref rid="tbl3" ref-type="other">3</xref>, but only present
+the mapped distribution of new facilities for EJ &#x00026; AQ in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c10711/suppl_file/es3c10711_si_001.pdf">Figure S2</ext-link>.</p><p>In the cost minimization model
+runs, on-farm composting facilities
+are only built in the scenarios that include both the organic fraction
+of MSW and agricultural feedstocks (the scenarios marked with a &#x0201c;+&#x0201d;).
+In the emissions minimization runs, this facility type was utilized
+even under the MSW scenarios to absorb organic material around major
+population centers that are surrounded by agricultural landscapes,
+decreasing the transport distance (t-km) that material needed to be
+moved.</p><p>Adding agricultural feedstocks into the model considerably
+increased
+both the cost and the net C sequestration approximately 6-fold due
+to the increased volume of organic matter that could be processed
+into compost and land applied. Both cost per ton of new capacity and
+cost per ton of CO<sub>2</sub>e avoided and sequestered was nearly
+doubled in these scenarios. The scenarios that include MSW and agricultural
+feedstocks highlight the contribution of large scale, industrial composting
+facilities in organic waste management&#x02014;community composters
+and on-farm composters alone are not able to handle the volume of
+material produced.</p><p>In general, the spatial distribution of new
+composters tended to
+cluster around the large population areas in the southern coast and
+Bay Area (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c10711/suppl_file/es3c10711_si_001.pdf">SI</ext-link> for maps). Cost minimization
+runs restricted to MSW feedstocks privileged community composters,
+resulting in a similar spatial arrangement across scenarios as constraints
+are added to the baseline runs (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c10711/suppl_file/es3c10711_si_001.pdf">Figure S2</ext-link>). Under the emissions minimization objective we found greater variability
+across scenarios, including limiting industrial composting capacity
+in the Central Valley where EJ scores tend to be higher and incorporating
+more on-farm composting in the southern and Bay regions (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c10711/suppl_file/es3c10711_si_001.pdf">Figure S3</ext-link>). When both agricultural and MSW feedstocks
+were included, this spatial trend inhibiting industrial composters
+in the Central Valley is even more pronounced (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c10711/suppl_file/es3c10711_si_001.pdf">Figure S4</ext-link>).</p><p>The spatial patterning of the land use scenario,
+in which the maximum
+capacity for community composters and for on-farm facilities was increased
+in urban and agriculturally dense zones, respectively, and the maximum
+capacity of industrial facilities was lowered, was strikingly similar
+to the results of the baseline scenario in which all three facility
+types could be used. This is likely driven by the existing spatial
+arrangement of feedstock sources from municipal areas and working
+lands for compost application as well as the high cost (both in dollars
+and greenhouse gas emissions) of transporting compost large distances.
+The inclusion of EJ and air quality constraints had a more noticeable
+impact on the distribution of new composters by restricting industrial
+facilities in the Central Valley and South Coast regions. Surprisingly,
+this scenario still results in a high level of industrial facility
+build out by shifting development of industrial composters to the
+northern regions of the state, particularly under the emissions minimization
+run (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c10711/suppl_file/es3c10711_si_001.pdf">Figure S5</ext-link>).</p></sec><sec id="sec3.2"><label>3.2</label><title>Sensitivity Analysis Results</title><p>The
+results of the sensitivity analysis demonstrate the influence of select
+key parameters on overall climate change mitigation impact and associated
+cost (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c10711/suppl_file/es3c10711_si_001.pdf">Table S3</ext-link>). Relative to the Baseline
+scenario, altering the conversion rate of waste to compost alters
+the overall mitigation and cost, but, unsurprisingly, does not change
+build volumes. In the scenario where diversion rates were lower, only
+community composting facilities were built. Using a higher estimate
+of composting processing emissions had little effect on CO<sub>2</sub>e emissions reductions, but resulted in less on-farm capacity and
+more industrial.</p><p>Altering the allowed feedstocks accepted at
+composter types had little effect on the land-use, EJ, and EJ &#x00026;
+AQ scenarios, except to slightly increase the amount of community
+composting built and decrease the other two facility types. This result
+is unsurprising given that community composting is the lowest cost
+and faces the least constraints under those scenario runs.</p><p>One
+surprising result from the sensitivity analysis was the impact
+of lowering the on-farm capital cost to the lower literature estimate.
+In this run, the cost per ton of carbon sequestered was much higher
+than in Baseline for MSW feedstock because the model builds a much
+greater volume of on-farm facilities to achieve approximately similar
+emissions reductions, but the distance materials must be moved is
+significantly higher, which drives up the overall cost. This suggests
+that transportation costs likely drive cost outcomes.</p></sec></sec><sec id="sec4"><label>4</label><title>Discussion</title><p>We have evaluated the techno-economic
+potential of expanding compost
+infrastructure as a cost-effective climate change mitigation approach
+that complements healthy soil initiatives and just transition goals.
+The overall results of this analysis demonstrate that incorporating
+social environmental justice objectives into waste management planning
+can be accomplished without sacrificing environmental impact or increasing
+overall cost. We further reveal that the diversification of composting
+facility types and feedstocks allows policymakers to not only better
+meet capacity needs, but also provides the opportunity to reduce costs
+and maximize emissions reductions.</p><p>Expansion of small-scale
+community and on-farm composting programs
+may offer significant cobenefits while advancing the policy goals
+of SB1383 and as such it is critical to understand the technical and
+economic potential of incorporating them into planning processes.
+The current stage of targeted investment in new waste management infrastructure
+presents an opportunity for prioritizing EJ in sustainability transition
+planning.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> Through this high-level analysis,
+we aim to provide a framework for decision-makers as they consider
+these investments in new waste management infrastructure from a standpoint
+of overlapping climate change mitigation and social vulnerability.</p><p>Our findings complement and uphold existing analyses that have
+also utilized a broad lifecycle assessment, including the cost and
+emissions associated with organic waste diversion through existing
+composting facilities and subsequent land application, to evaluate
+statewide nutrient cycling systems. Harrison et al., for instance,
+found that landfill diversion and farmland compost applications could
+reduce emissions by an average of 6.3 MMT CO<sub>2</sub>e annually.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> Delonge et al., focusing on compost application
+to grazed grasslands, demonstrated that the widespread use of compost
+may provide a net savings of more than 8 MMT CO<sub>2</sub>e over
+15 years if applied to just 6% of California&#x02019;s rangelands.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup></p><p>While we found lower estimates of overall
+emissions reductions
+than previous studies, the results presented here could be considered
+conservative estimates for two important reasons. First, the model
+does not account for avoided fertilizer use on cultivated cropland,
+which would likely be displaced by the use of compost. Synthetic fertilizer
+is energy-intensive to produce. Thus, emissions reductions associated
+with the application of compost in lieu of traditional fertilizer
+may be greater than what is modeled here. Second, because this analysis
+was focused on siting of new infrastructure to meet the needs set
+out by SB1383, the goal was to present a cross-sectional analysis
+of scenarios that the state and local jurisdictions could reasonably
+pursue. Consequently, the findings reflect only a single year of facility
+development and emission outcomes, rather than estimates of long-term
+impacts. Once these facilities are built, we can assume that the operation
+and maintenance costs, which are typically proprietary, would be much
+lower than the upfront capital costs, while avoided landfill emissions
+and C sequestration could be expected to continue. Once these facilities
+are up and running, the cost per tCO<sub>2</sub>e abated will likely
+be much lower. Future work could build on this analysis to address
+both considerations and produce more refined estimates of long-term
+soil C stocks resulting from compost applications.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup></p><p>This analysis could also be extended in the future
+through the
+inclusion of processing emissions associated with different composting
+management practices and feedstocks. Field research is currently underway
+that may enhance the differentiation among facility types in the typology
+developed here. Data were not available for land-use price or operating
+costs, which is a limiting factor for this analysis that could be
+addressed by future work. Changing dynamics of agriculture that limit
+availability of manure and residues may also be fruitfully explored
+in later studies, such as increased fallowing of land due to California&#x02019;s
+Sustainable Groundwater Management Act or projected closures of dairy
+operations in the state.</p><p>Although this model attempts to capture
+some of the complexity
+of the regulatory process of siting and constructing new composting
+infrastructure through air quality regulations, structural barriers
+including land-use zoning can vary on a city-by-city basis and were
+not represented in this model.<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref39">39</xref></sup> These barriers include
+convoluted and cost-prohibitive permitting processes, lack of reliable
+feedstock collection systems, material contamination challenges, and
+lack of education about composting best practices.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> Expanding composting infrastructure in a way that centers
+cobenefits for climate, land, and community will require attention
+to the heterogeneity of policy contexts, including concerted efforts
+to expand organic material collection programs across the state and
+create central repositories for data on where these programs exist.</p><p>Across the country, contemporary waste management paradigms are
+characterized by high rates of organic material disposal in landfills,
+contributing 16% of anthropogenic emissions of the potent greenhouse
+gas methane,<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> and perpetuation of historical
+harms from pollution on disadvantaged communities.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> At the same time, soils continue to lose C due to conventional
+agricultural practices.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref41">41</xref></sup> Engineering approaches and nature-based
+solutions to climate change mitigation policies can offer remediation
+opportunities on each of these fronts through thoughtful, participatory
+planning and development of new infrastructure. In developing a resilient
+and just organic waste management system, policymakers in every state
+should consider multiple scales of composting infrastructure to achieve
+benefits that incorporate cost, emissions, and community impact.</p></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acs.est.3c10711?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acs.est.3c10711</ext-link>.<list id="silist" list-type="simple"><list-item><p>Full formulation, parameter values, and data sources
+used in the spatial optimization siting model, along with scenario
+maps displaying the geographical distribution of new facility capacity
+built by composter type (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.est.3c10711/suppl_file/es3c10711_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="es3c10711_si_001.pdf"><caption><p>es3c10711_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="notes2"><p>The authors
+declare the following competing financial interest(s): M.D.P. is the
+Chief Science Officer for Carbon Direct Inc., a company combining
+science, technology, and capital to deliver quality CO<sub>2</sub> management at scale. M.D.P. is a shareholder in the company and
+thus stands to benefit financially from environmental management targeted
+at climate change mitigation. The remaining authors declare no competing
+financial interest.</p></notes><ack><title>Acknowledgments</title><p>Funding gratefully acknowledged from the National
+Science Foundation under Grant No. 1739676 and the Working Lands Innovation
+Center from California&#x02019;s Strategic Growth Council. The authors
+would like to thank Calla Rose Ostrander, Matthew Cotton, and the
+LA Compost Council for their invaluable input. We also thank the anonymous
+reviewers who helped improve this manuscript greatly.</p></ack><glossary id="dl1"><def-list><title>Abbreviations</title><def-item><term>CDFA</term><def><p>California
+Department of Food and
+Agriculture</p></def></def-item><def-item><term>GHG</term><def><p>Greenhouse gas</p></def></def-item><def-item><term>MSW</term><def><p>Municipal Solid Waste</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="book" id="cit1"><person-group person-group-type="allauthors"><name><surname>Pachauri</surname><given-names>R. K.</given-names></name>; <name><surname>Allen</surname><given-names>M. R.</given-names></name>; <name><surname>Barros</surname><given-names>V. R.</given-names></name>; <name><surname>Broome</surname><given-names>J.</given-names></name>; <name><surname>Cramer</surname><given-names>W.</given-names></name>; <name><surname>Christ</surname><given-names>R.</given-names></name>; <name><surname>Church</surname><given-names>J. A.</given-names></name>; <name><surname>Clarke</surname><given-names>L.</given-names></name>; <name><surname>Dahe</surname><given-names>Q.</given-names></name>; <name><surname>Dasgupta</surname><given-names>P.</given-names></name>; <name><surname>Dubash</surname><given-names>N. K.</given-names></name>; <name><surname>Edenhofer</surname><given-names>O.</given-names></name>; <name><surname>Elgizouli</surname><given-names>I.</given-names></name>; <name><surname>Field</surname><given-names>C. B.</given-names></name>; <name><surname>Forster</surname><given-names>P.</given-names></name>; <name><surname>Friedlingstein</surname><given-names>P.</given-names></name>; <name><surname>Fuglestvedt</surname><given-names>J.</given-names></name>; <name><surname>Gomez-Echeverri</surname><given-names>L.</given-names></name>; <name><surname>Hallegatte</surname><given-names>S.</given-names></name>; <name><surname>Hegerl</surname><given-names>G.</given-names></name>; <name><surname>Howden</surname><given-names>M.</given-names></name>; <name><surname>Jiang</surname><given-names>K.</given-names></name>; <name><surname>Jimenez Cisneroz</surname><given-names>B.</given-names></name>; <name><surname>Kattsov</surname><given-names>V.</given-names></name>; <name><surname>Lee</surname><given-names>H.</given-names></name>; <name><surname>Mach</surname><given-names>K. J.</given-names></name>; <name><surname>Marotzke</surname><given-names>J.</given-names></name>; <name><surname>Mastrandrea</surname><given-names>M. D.</given-names></name>; <name><surname>Meyer</surname><given-names>L.</given-names></name>; <name><surname>Minx</surname><given-names>J.</given-names></name>; <name><surname>Mulugetta</surname><given-names>Y.</given-names></name>; <name><surname>O&#x02019;Brien</surname><given-names>K.</given-names></name>; <name><surname>Oppenheimer</surname><given-names>M.</given-names></name>; <name><surname>Pereira</surname><given-names>J. J.</given-names></name>; <name><surname>Pichs-Madruga</surname><given-names>R.</given-names></name>; <name><surname>Plattner</surname><given-names>G.-K.</given-names></name>; <name><surname>P&#x000f6;rtner</surname><given-names>H.-O.</given-names></name>; <name><surname>Power</surname><given-names>S. B.</given-names></name>; <name><surname>Preston</surname><given-names>B.</given-names></name>; <name><surname>Ravindranath</surname><given-names>N. H.</given-names></name>; <name><surname>Reisinger</surname><given-names>A.</given-names></name>; <name><surname>Riahi</surname><given-names>K.</given-names></name>; <name><surname>Rusticucci</surname><given-names>M.</given-names></name>; <name><surname>Scholes</surname><given-names>R.</given-names></name>; <name><surname>Seyboth</surname><given-names>K.</given-names></name>; <name><surname>Sokona</surname><given-names>Y.</given-names></name>; <name><surname>Stavins</surname><given-names>R.</given-names></name>; <name><surname>Stocker</surname><given-names>T. F.</given-names></name>; <name><surname>Tschakert</surname><given-names>P.</given-names></name>; <name><surname>van Vuuren</surname><given-names>D.</given-names></name>; <name><surname>van Ypserle</surname><given-names>J.-P.</given-names></name></person-group><source>Climate Change 2014: Synthesis Report.
+Contribution of Working Groups I, II and III to the Fifth Assessment
+Report of the Intergovernmental Panel on Climate Change</source>; <person-group person-group-type="editor"><name><surname>Pachauri</surname><given-names>R. K.</given-names></name>, <name><surname>Meyer</surname><given-names>L.</given-names></name></person-group>, Eds.; <publisher-name>IPCC</publisher-name>: <publisher-loc>Geneva, Switzerland</publisher-loc>, <year>2014</year>; p <fpage>151</fpage>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Lal</surname><given-names>R.</given-names></name>
+<article-title>Digging Deeper:
+A Holistic Perspective of Factors Affecting Soil Organic Carbon Sequestration
+in Agroecosystems</article-title>. <source>Glob. Change Biol.</source>
+<year>2018</year>, <volume>24</volume> (<issue>8</issue>), <fpage>3285</fpage>&#x02013;<lpage>3301</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.14054</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Sanderman</surname><given-names>J.</given-names></name>; <name><surname>Hengl</surname><given-names>T.</given-names></name>; <name><surname>Fiske</surname><given-names>G. J.</given-names></name>
+<article-title>Soil Carbon
+Debt of 12,000 Years
+of Human Land Use</article-title>. <source>Proc. Natl. Acad. Sci. U.
+S. A.</source>
+<year>2017</year>, <volume>114</volume> (<issue>36</issue>), <fpage>9575</fpage>&#x02013;<lpage>9580</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1706103114</pub-id>.<pub-id pub-id-type="pmid">28827323</pub-id>
+</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Xu</surname><given-names>Y.</given-names></name>; <name><surname>Ramanathan</surname><given-names>V.</given-names></name>
+<article-title>Well below 2 &#x000b0;C: Mitigation Strategies for Avoiding
+Dangerous to Catastrophic Climate Changes</article-title>. <source>Proc.
+Natl. Acad. Sci. U. S. A.</source>
+<year>2017</year>, <volume>114</volume> (<issue>39</issue>), <fpage>10315</fpage>&#x02013;<lpage>10323</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1618481114</pub-id>.<pub-id pub-id-type="pmid">28912354</pub-id>
+</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="book" id="cit5"><source>USDA.
+USDA Announces Cooperative Agreements for Community Compost and Food
+Waste Reduction</source>. <publisher-name>USDA Farm Service Agency</publisher-name>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://fsa.usda.gov/news-room/news-releases/2021/usda-announces-cooperative-agreements-for-community-compost-and-food-waste-reduction">https://fsa.usda.gov/news-room/news-releases/2021/usda-announces-cooperative-agreements-for-community-compost-and-food-waste-reduction</uri> (accessed <year>2024</year>-03&#x02013;25).</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="book" id="cit6"><person-group person-group-type="allauthors"><name><surname>Shattuck</surname><given-names>A.</given-names></name>; <name><surname>Silvestri</surname><given-names>N.</given-names></name>; <name><surname>Estrada</surname><given-names>T.</given-names></name>; <name><surname>Holt-Giminez</surname><given-names>E.</given-names></name></person-group><source>Healthy Soils, Healthy
+Communities: Opportunities to Bridge Environmental Justice and Soil
+Carbon Sequestration</source>; <publisher-name>Policy Brief #21; Food
+First/Institute for Food and Development Policy in partnership with
+the Carbon Cycle Institute and Silvestri Strategies</publisher-name>, <year>2017</year>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ww2.arb.ca.gov/sites/default/files/2020-08/resource_ff-cci-2017-healthy-soils-healthy-communities.pdf">https://ww2.arb.ca.gov/sites/default/files/2020-08/resource_ff-cci-2017-healthy-soils-healthy-communities.pdf</uri> (accessed 2024&#x02013;03&#x02013;25).</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="weblink" id="cit7"><article-title>CARB. Current
+California GHG Emission Inventory Data</article-title>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ww2.arb.ca.gov/ghg-inventory-data">https://ww2.arb.ca.gov/ghg-inventory-data</uri> (accessed <year>2024</year>&#x02013;03&#x02013;26).</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="book" id="cit8"><source>Lara.
+SB-1383 Short-Lived Climate Pollutants: Methane Emissions</source>; <publisher-name>Dairy and Livestock: Organic Waste: Landfills</publisher-name>; <year>2016</year>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201520160SB1383">http://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201520160SB1383</uri> (accessed 2020&#x02013;10&#x02013;14).</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="weblink" id="cit9"><person-group person-group-type="allauthors"><name><surname>Shobe</surname><given-names>B.</given-names></name>; <name><surname>Perry</surname><given-names>G.</given-names></name>; <name><surname>Merrill</surname><given-names>J.</given-names></name></person-group><article-title>The California Healthy Soils
+Program: A Progress Report; California Climate and Agriculture Network</article-title>, <year>2020</year>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://calclimateag.org/wp-content/uploads/2020/11/CA-HSP-Progress-Report-CalCAN_FinalWeb.pdf">https://calclimateag.org/wp-content/uploads/2020/11/CA-HSP-Progress-Report-CalCAN_FinalWeb.pdf</uri> (accessed 2024&#x02013;03&#x02013;26).</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="weblink" id="cit10"><article-title>CDFA.
+Healthy Soils Program. CDFA Office of Environmental Farming
+&#x00026; Innovation</article-title>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.cdfa.ca.gov/oefi/healthysoils/">https://www.cdfa.ca.gov/oefi/healthysoils/</uri>(accessed <year>2024</year>-03&#x02013;26).</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="book" id="cit11"><person-group person-group-type="allauthors"><name><surname>Reul-Chen</surname><given-names>C.</given-names></name>; <name><surname>Abbs</surname><given-names>A.</given-names></name></person-group><source>Composting In California - Addressing
+Air Quality Permitting and Regulatory Issues for Expanding Infrastructure;
+California Air Pollution Control Officers Associaion</source>; <publisher-name>California Air Resources Board</publisher-name>, <publisher-loc>CalRecycle</publisher-loc>, <year>2018</year>; p <fpage>110</fpage>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Chow</surname><given-names>J. C.</given-names></name>; <name><surname>Watson</surname><given-names>J. G.</given-names></name>; <name><surname>Lowenthal</surname><given-names>D. H.</given-names></name>; <name><surname>Chen</surname><given-names>L.-W. A.</given-names></name>; <name><surname>Motallebi</surname><given-names>N.</given-names></name>
+<article-title>Black and
+Organic Carbon Emission Inventories: Review and Application to California</article-title>. <source>J. Air Waste Manag. Assoc.</source>
+<year>2010</year>, <volume>60</volume> (<issue>4</issue>), <fpage>497</fpage>&#x02013;<lpage>507</lpage>. <pub-id pub-id-type="doi">10.3155/1047-3289.60.4.497</pub-id>.<pub-id pub-id-type="pmid">20437785</pub-id>
+</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Silver</surname><given-names>W. L.</given-names></name>; <name><surname>Ryals</surname><given-names>R.</given-names></name>; <name><surname>Eviner</surname><given-names>V.</given-names></name>
+<article-title>Soil Carbon
+Pools in California&#x02019;s
+Annual Grassland Ecosystems</article-title>. <source>Rangel. Ecol. Manag.</source>
+<year>2010</year>, <volume>63</volume> (<issue>1</issue>), <fpage>128</fpage>&#x02013;<lpage>136</lpage>. <pub-id pub-id-type="doi">10.2111/REM-D-09-00106.1</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Owen</surname><given-names>J. J.</given-names></name>; <name><surname>Parton</surname><given-names>W. J.</given-names></name>; <name><surname>Silver</surname><given-names>W. L.</given-names></name>
+<article-title>Long-term Impacts of Manure Amendments
+on Carbon and Greenhouse Gas Dynamics of Rangelands</article-title>. <source>Glob. Change Biol.</source>
+<year>2015</year>, <volume>21</volume> (<issue>12</issue>), <fpage>4533</fpage>&#x02013;<lpage>4547</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.13044</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Shiralipour</surname><given-names>A.</given-names></name>; <name><surname>McConnell</surname><given-names>D. B.</given-names></name>; <name><surname>Smith</surname><given-names>W. H.</given-names></name>
+<article-title>Uses and Benefits of MSW Compost:
+A Review and an Assessment</article-title>. <source>Biomass Bioenergy</source>
+<year>1992</year>, <volume>3</volume> (<issue>3&#x02013;4</issue>), <fpage>267</fpage>&#x02013;<lpage>279</lpage>. <pub-id pub-id-type="doi">10.1016/0961-9534(92)90031-K</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Huntsinger</surname><given-names>L.</given-names></name>; <name><surname>Bartolome</surname><given-names>J. W.</given-names></name>
+<article-title>Cows? In California? Rangelands and
+Livestock in the
+Golden State</article-title>. <source>Rangelands</source>
+<year>2014</year>, <volume>36</volume> (<issue>5</issue>), <fpage>4</fpage>&#x02013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.2111/Rangelands-D-14-00019.1</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="weblink" id="cit17"><article-title>NASS. USDA/NASS 2023 State Agriculture Overview
+for California</article-title>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=CALIFORNIA">https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=CALIFORNIA</uri> (accessed <year>2024</year>&#x02013;03&#x02013;26).</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Bullard</surname><given-names>R. D.</given-names></name>
+<article-title>Solid Waste
+Sites and the Black Houston Community*</article-title>. <source>Sociol.
+Inq.</source>
+<year>1983</year>, <volume>53</volume> (<issue>2&#x02013;3</issue>), <fpage>273</fpage>&#x02013;<lpage>288</lpage>. <pub-id pub-id-type="doi">10.1111/j.1475-682X.1983.tb00037.x</pub-id>.<pub-id pub-id-type="pmid">11635985</pub-id>
+</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Watson</surname><given-names>M.</given-names></name>; <name><surname>Bulkeley</surname><given-names>H.</given-names></name>
+<article-title>Just Waste? Municipal
+Waste Management and the Politics
+of Environmental Justice</article-title>. <source>Local Environ</source>
+<year>2005</year>, <volume>10</volume> (<issue>4</issue>), <fpage>411</fpage>&#x02013;<lpage>426</lpage>. <pub-id pub-id-type="doi">10.1080/13549830500160966</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="book" id="cit20"><person-group person-group-type="allauthors"><name><surname>Platt</surname><given-names>B.</given-names></name></person-group><source>State of Composting in
+the U.S.: What, Why, Where &#x00026; How</source>. <publisher-name>Institute
+for Local Self-Reliance</publisher-name>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ilsr.org/state-of-composting/">https://ilsr.org/state-of-composting/</uri>(accessed <year>2024</year>&#x02013;03&#x02013;25).</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Anderson</surname><given-names>C. M.</given-names></name>; <name><surname>Kissel</surname><given-names>K. A.</given-names></name>; <name><surname>Field</surname><given-names>C. B.</given-names></name>; <name><surname>Mach</surname><given-names>K. J.</given-names></name>
+<article-title>Climate Change Mitigation,
+Air Pollution, and Environmental Justice in California</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2018</year>, <volume>52</volume> (<issue>18</issue>), <fpage>10829</fpage>&#x02013;<lpage>10838</lpage>. <pub-id pub-id-type="doi">10.1021/acs.est.8b00908</pub-id>.<pub-id pub-id-type="pmid">30179479</pub-id>
+</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="book" id="cit22"><person-group person-group-type="allauthors"><name><surname>Silver</surname><given-names>W. L.</given-names></name>; <name><surname>Vergara</surname><given-names>S. E.</given-names></name>; <name><surname>Mayer</surname><given-names>A.</given-names></name></person-group><article-title>Carbon Sequestration
+and Greenhouse Gas Mitigation Potential of Composting and Soil Amendments
+on California&#x02019;s Rangelands</article-title>; <source>California&#x02019;s
+Fourth Climate Change Assessment CCC4A-CNRA-2018&#x02013;002</source>; <publisher-name>California Natural Resources Agency</publisher-name>, <year>2018</year>; p <fpage>62</fpage>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Ryals</surname><given-names>R.</given-names></name>; <name><surname>Silver</surname><given-names>W. L.</given-names></name>
+<article-title>Effects of Organic Matter Amendments on Net Primary
+Productivity and Greenhouse Gas Emissions in Annual Grasslands</article-title>. <source>Ecol. Appl.</source>
+<year>2013</year>, <volume>23</volume> (<issue>1</issue>), <fpage>46</fpage>&#x02013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1890/12-0620.1</pub-id>.<pub-id pub-id-type="pmid">23495635</pub-id>
+</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>DeLonge</surname><given-names>M. S.</given-names></name>; <name><surname>Ryals</surname><given-names>R.</given-names></name>; <name><surname>Silver</surname><given-names>W. L.</given-names></name>
+<article-title>A Lifecycle Model to Evaluate Carbon
+Sequestration Potential and Greenhouse Gas Dynamics of Managed Grasslands</article-title>. <source>Ecosystems</source>
+<year>2013</year>, <volume>16</volume> (<issue>6</issue>), <fpage>962</fpage>&#x02013;<lpage>979</lpage>. <pub-id pub-id-type="doi">10.1007/s10021-013-9660-5</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Harrison</surname><given-names>B. P.</given-names></name>; <name><surname>Chopra</surname><given-names>E.</given-names></name>; <name><surname>Ryals</surname><given-names>R.</given-names></name>; <name><surname>Campbell</surname><given-names>J. E.</given-names></name>
+<article-title>Quantifying
+the
+Farmland Application of Compost to Help Meet California&#x02019;s Organic
+Waste Diversion Law</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2020</year>, <volume>54</volume> (<issue>7</issue>), <fpage>4545</fpage>&#x02013;<lpage>4553</lpage>. <pub-id pub-id-type="doi">10.1021/acs.est.9b05377</pub-id>.<pub-id pub-id-type="pmid">32162912</pub-id>
+</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Morris</surname><given-names>J.</given-names></name>; <name><surname>Brown</surname><given-names>S.</given-names></name>; <name><surname>Cotton</surname><given-names>M.</given-names></name>; <name><surname>Matthews</surname><given-names>H. S.</given-names></name>
+<article-title>Life-Cycle Assessment
+Harmonization and Soil Science Ranking Results on Food-Waste Management
+Methods</article-title>. <source>Environ. Sci. Technol.</source>
+<year>2017</year>, <volume>51</volume> (<issue>10</issue>), <fpage>5360</fpage>&#x02013;<lpage>5367</lpage>. <pub-id pub-id-type="doi">10.1021/acs.est.6b06115</pub-id>.<pub-id pub-id-type="pmid">28414913</pub-id>
+</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Saer</surname><given-names>A.</given-names></name>; <name><surname>Lansing</surname><given-names>S.</given-names></name>; <name><surname>Davitt</surname><given-names>N. H.</given-names></name>; <name><surname>Graves</surname><given-names>R. E.</given-names></name>
+<article-title>Life Cycle Assessment
+of a Food Waste Composting System: Environmental Impact Hotspots</article-title>. <source>J. Clean. Prod.</source>
+<year>2013</year>, <volume>52</volume>, <fpage>234</fpage>&#x02013;<lpage>244</lpage>. <pub-id pub-id-type="doi">10.1016/j.jclepro.2013.03.022</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Hall</surname><given-names>A. L.</given-names></name>; <name><surname>Potts</surname><given-names>M. D.</given-names></name>; <name><surname>Silver</surname><given-names>W. L.</given-names></name>
+<article-title>Near-Term Potential
+of Organic Waste
+Management Infrastructure for Soil Carbon Sequestration in Rangelands</article-title>. <source>Environ. Res. Infrastruct. Sustain.</source>
+<year>2022</year>, <volume>2</volume>, <fpage>045007</fpage><pub-id pub-id-type="doi">10.1088/2634-4505/ac970f</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="book" id="cit29"><source>CalRecycle. Analysis of the Progress Toward the SB 1383 Organic Waste
+Reduction Goals</source>; <publisher-name>DRRR-2020-1693; CalRecycle</publisher-name>, <year>2020</year>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="weblink" id="cit30"><person-group person-group-type="allauthors"><name><surname>Coker</surname><given-names>C.</given-names></name></person-group>; <article-title>Ziegenbein. <italic>California Composting</italic>. BioCycle</article-title>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.biocycle.net/california-composting/">https://www.biocycle.net/california-composting/</uri>(accessed <year>2024</year>&#x02013;03&#x02013;26).</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Nie</surname><given-names>E.</given-names></name>; <name><surname>Zheng</surname><given-names>G.</given-names></name>; <name><surname>Shao</surname><given-names>Z.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>T.</given-names></name>
+<article-title>Emission Characteristics
+and Health Risk Assessment of Volatile Organic Compounds Produced
+during Municipal Solid Waste Composting</article-title>. <source>Waste
+Manag</source>
+<year>2018</year>, <volume>79</volume>, <fpage>188</fpage>&#x02013;<lpage>195</lpage>. <pub-id pub-id-type="doi">10.1016/j.wasman.2018.07.024</pub-id>.<pub-id pub-id-type="pmid">30343745</pub-id>
+</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="book" id="cit32"><source>CalEPA. SB 535 Disadvantaged
+Communities</source>. <publisher-name>OEHHA</publisher-name>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://oehha.ca.gov/calenviroscreen/sb535">https://oehha.ca.gov/calenviroscreen/sb535</uri> (accessed <year>2024</year>&#x02013;03&#x02013;26).</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="book" id="cit33"><source>CalRecycle. SWIS Facility/Site Search</source>. <publisher-name>Solid
+Waste Information System (SWIS)</publisher-name>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www2.calrecycle.ca.gov/SolidWaste/Site/Search">https://www2.calrecycle.ca.gov/SolidWaste/Site/Search</uri> (accessed <year>2024</year>&#x02013;03&#x02013;26).</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Cerda</surname><given-names>A.</given-names></name>; <name><surname>Artola</surname><given-names>A.</given-names></name>; <name><surname>Font</surname><given-names>X.</given-names></name>; <name><surname>Barrena</surname><given-names>R.</given-names></name>; <name><surname>Gea</surname><given-names>T.</given-names></name>; <name><surname>S&#x000e1;nchez</surname><given-names>A.</given-names></name>
+<article-title>Composting of Food Wastes: Status and Challenges</article-title>. <source>Bioresour. Technol.</source>
+<year>2018</year>, <volume>248</volume>, <fpage>57</fpage>&#x02013;<lpage>67</lpage>. <pub-id pub-id-type="doi">10.1016/j.biortech.2017.06.133</pub-id>.<pub-id pub-id-type="pmid">28693949</pub-id>
+</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Don</surname><given-names>A.</given-names></name>; <name><surname>Seidel</surname><given-names>F.</given-names></name>; <name><surname>Leifeld</surname><given-names>J.</given-names></name>; <name><surname>K&#x000e4;tterer</surname><given-names>T.</given-names></name>; <name><surname>Martin</surname><given-names>M.</given-names></name>; <name><surname>Pellerin</surname><given-names>S.</given-names></name>; <name><surname>Emde</surname><given-names>D.</given-names></name>; <name><surname>Seitz</surname><given-names>D.</given-names></name>; <name><surname>Chenu</surname><given-names>C.</given-names></name>
+<article-title>Carbon Sequestration in Soils and
+Climate Change Mitigation&#x02014;Definitions
+and Pitfalls</article-title>. <source>Glob. Change Biol.</source>
+<year>2024</year>, <volume>30</volume> (<issue>1</issue>), <elocation-id>e16983</elocation-id><pub-id pub-id-type="doi">10.1111/gcb.16983</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="book" id="cit36"><source>CalRecycle. SB 1383 Regulations Short-Lived Climate
+Pollutants: Organic
+Waste Methane Emission Reduction</source>; <publisher-name>Final Environmental
+Impact Report DRRR-2019&#x02013;1655; CalRecycle</publisher-name>, <year>2019</year>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://calrecycle.ca.gov/organics/slcp/">https://calrecycle.ca.gov/organics/slcp/</uri>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Mahady</surname><given-names>J. A.</given-names></name>; <name><surname>Octaviano</surname><given-names>C.</given-names></name>; <name><surname>Araiza Bola&#x000f1;os</surname><given-names>O. S.</given-names></name>; <name><surname>L&#x000f3;pez</surname><given-names>E. R.</given-names></name>; <name><surname>Kammen</surname><given-names>D. M.</given-names></name>; <name><surname>Castellanos</surname><given-names>S.</given-names></name>
+<article-title>Mapping Opportunities for Transportation
+Electrification to Address Social Marginalization and Air Pollution
+Challenges in Greater Mexico City</article-title>. <source>Environ.
+Sci. Technol.</source>
+<year>2020</year>, <volume>54</volume> (<issue>4</issue>), <fpage>2103</fpage>&#x02013;<lpage>2111</lpage>. <pub-id pub-id-type="doi">10.1021/acs.est.9b06148</pub-id>.<pub-id pub-id-type="pmid">31909600</pub-id>
+</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Sanderman</surname><given-names>J.</given-names></name>; <name><surname>Baldock</surname><given-names>J. A.</given-names></name>
+<article-title>Accounting for Soil Carbon Sequestration in National
+Inventories: A Soil Scientist&#x02019;s Perspective</article-title>. <source>Environ. Res. Lett.</source>
+<year>2010</year>, <volume>5</volume> (<issue>3</issue>), <fpage>034003</fpage><pub-id pub-id-type="doi">10.1088/1748-9326/5/3/034003</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="book" id="cit39"><person-group person-group-type="allauthors"><name><surname>Cotton</surname><given-names>M.</given-names></name>; <name><surname>Rynk</surname><given-names>R.</given-names></name>; <name><surname>Loder-Rossiter</surname><given-names>L.</given-names></name>; <name><surname>Carpenter</surname><given-names>A.</given-names></name></person-group><article-title>Site Planning, Development,
+and Environmental Protection</article-title>. In <source>The Composting
+Handbook</source>; <publisher-name>Elsevier</publisher-name>: <publisher-loc>Amsterdam</publisher-loc>, <year>2022</year>; pp <fpage>409</fpage>&#x02013;<lpage>500</lpage><pub-id pub-id-type="doi">10.1016/B978-0-323-85602-7.00018-2</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="weblink" id="cit40"><article-title>EPA. Inventory of U.S. Greenhouse Gas Emissions
+and Sinks</article-title>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks">https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks</uri> (accessed <year>2024</year>&#x02013;03&#x02013;26).</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Lal</surname><given-names>R.</given-names></name>
+<article-title>Soil Health
+and Carbon Management</article-title>. <source>Food Energy Secur</source>
+<year>2016</year>, <volume>5</volume> (<issue>4</issue>), <fpage>212</fpage>&#x02013;<lpage>222</lpage>. <pub-id pub-id-type="doi">10.1002/fes3.96</pub-id>.</mixed-citation></ref></ref-list></back></article>

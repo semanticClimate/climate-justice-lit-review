@@ -1,0 +1,75 @@
+digraph IPCC_Reports {
+    // Main title node
+    label="The UN IPCC Reports mentioning Climate Justice";
+    labelloc="t";
+    fontsize=20;
+
+    // Root node
+    "UN IPCC Reports" [shape=box, style=filled, fillcolor=lightblue];
+
+    // SYR Report
+    "UN IPCC Reports" -> "SYR / Longer Report";
+    "SYR / Longer Report" [shape=box, style=filled, fillcolor=lightyellow];
+
+    // AR6 WG2 Report and its Chapters in a vertical line
+    "UN IPCC Reports" -> "AR6 / WG2";
+    "AR6 / WG2" [shape=box, style=filled, fillcolor=lightyellow];
+
+    // Subgraph for vertical alignment of WG2 chapters (no cluster label)
+    subgraph cluster_WG2_Chapters {
+        label=""; // Remove cluster title
+        style=filled;
+        color=lightgrey;
+        rankdir=TB;
+
+        // Creating and styling the chapters as boxes
+        "Chapter 01" [shape=box, style=filled, fillcolor=lightgreen];
+        "Chapter 04" [shape=box, style=filled, fillcolor=lightgreen];
+        "Chapter 05_WG2" [label="Chapter 05", shape=box, style=filled, fillcolor=lightgreen]; // Chapter 05 under WG2
+        "Chapter 06" [shape=box, style=filled, fillcolor=lightgreen];
+        "Chapter 08" [shape=box, style=filled, fillcolor=lightgreen];
+        "Chapter 09" [shape=box, style=filled, fillcolor=lightgreen];
+        "Chapter 10" [shape=box, style=filled, fillcolor=lightgreen];
+        "Chapter 12" [shape=box, style=filled, fillcolor=lightgreen];
+        "Chapter 15_WG2" [label="Chapter 15", shape=box, style=filled, fillcolor=lightgreen]; // Chapter 15 under WG2
+        "Chapter 18" [shape=box, style=filled, fillcolor=lightgreen];
+
+        // Align chapters vertically under AR6 / WG2
+        "AR6 / WG2" -> "Chapter 01" [style=invis];
+        "Chapter 01" -> "Chapter 04" [style=invis];
+        "Chapter 04" -> "Chapter 05_WG2" [style=invis];
+        "Chapter 05_WG2" -> "Chapter 06" [style=invis];
+        "Chapter 06" -> "Chapter 08" [style=invis];
+        "Chapter 08" -> "Chapter 09" [style=invis];
+        "Chapter 09" -> "Chapter 10" [style=invis];
+        "Chapter 10" -> "Chapter 12" [style=invis];
+        "Chapter 12" -> "Chapter 15_WG2" [style=invis];
+        "Chapter 15_WG2" -> "Chapter 18" [style=invis];
+    }
+
+    // AR6 WG3 Report and its Chapters in a vertical line
+    "UN IPCC Reports" -> "AR6 / WG3";
+    "AR6 / WG3" [shape=box, style=filled, fillcolor=lightyellow];
+
+     // Subgraph for vertical alignment of WG3 chapters (no cluster label)
+    subgraph cluster_WG3_Chapters {
+        label=""; // Remove cluster title
+        style=filled;
+        color=lightgrey;
+        rankdir=TB;
+
+        // Creating and styling the chapters for WG3
+        "Chapter 05_WG3" [label="Chapter 05", shape=box, style=filled, fillcolor=lightpink]; // Chapter 05 under WG3
+        "Chapter 13" [shape=box, style=filled, fillcolor=lightpink];
+        "Chapter 14" [shape=box, style=filled, fillcolor=lightpink];
+        "Chapter 15_WG3" [label="Chapter 15", shape=box, style=filled, fillcolor=lightpink]; // Chapter 15 under WG3
+
+        // Align chapters vertically under AR6 / WG3
+        "AR6 / WG3" -> "Chapter 05_WG3" [style=invis];
+        "Chapter 05_WG3" -> "Chapter 13" [style=invis];
+        "Chapter 13" -> "Chapter 14" [style=invis];
+        "Chapter 14" -> "Chapter 15_WG3" [style=invis];
+    }
+}
+
+

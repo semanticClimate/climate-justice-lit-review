@@ -1,0 +1,19 @@
+digraph SemanticTools {
+    label="Scientific Literature Search";
+    labelloc="t";  // Positions the label at the top
+    fontsize=20;   // Sets the font size of the title
+	
+    // Define node styles
+    node [shape=box style=filled];
+
+    // Nodes with specific labels
+    EPMC [label="EPMC" fillcolor=lightpink];
+	Scientific_Literature_Corpus [label="Scientific_Literature_Corpus" fillcolor=lightyellow];
+	j_query_datatables [label="jQuery datatables" fillcolor=lightblue];
+      
+    // Define edges
+    EPMC -> Scientific_Literature_Corpus [color=black , label="   pygetpapers"];
+    Scientific_Literature_Corpus -> j_query_datatables [color=black , label="   amilib"];
+  
+   }
+  

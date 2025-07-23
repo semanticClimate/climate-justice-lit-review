@@ -1,0 +1,818 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="letter"><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.2?><?ConverterInfo.XSLTName jats2jats3.xsl?><?ConverterInfo.Version 1?><?subarticle report100024?><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Wellcome Open Res</journal-id><journal-id journal-id-type="iso-abbrev">Wellcome Open Res</journal-id><journal-title-group><journal-title>Wellcome Open Research</journal-title></journal-title-group><issn pub-type="epub">2398-502X</issn><publisher><publisher-name>F1000 Research Limited</publisher-name><publisher-loc>London, UK</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmcid">11464968</article-id><article-id pub-id-type="doi">10.12688/wellcomeopenres.21391.1</article-id><article-categories><subj-group subj-group-type="heading"><subject>Open Letter</subject></subj-group><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Doing ethics with microbes: toward a queer feminist posthuman framework for bioethics</article-title><fn-group content-type="pub-status"><fn><p>[version 1; peer review: 2 approved, 2 approved with reservations]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Sudenkaarne</surname><given-names>Tiia</given-names></name><role content-type="http://credit.niso.org/">Conceptualization</role><role content-type="http://credit.niso.org/">Methodology</role><role content-type="http://credit.niso.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-6077-2406</contrib-id><xref rid="c1" ref-type="corresp">a</xref><xref rid="a1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><name><surname>Sariola</surname><given-names>Salla</given-names></name><role content-type="http://credit.niso.org/">Funding Acquisition</role><role content-type="http://credit.niso.org/">Project Administration</role><role content-type="http://credit.niso.org/">Supervision</role><role content-type="http://credit.niso.org/">Writing &#x02013; Review &#x00026; Editing</role><xref rid="a1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><collab>The Centre for the Social Study of Microbes (CSSM)</collab></contrib><aff id="a1">
+<label>1</label>Sociology/CSSM, University of Helsinki, Helsinki, Uusimaa, Finland</aff></contrib-group><author-notes><corresp id="c1">
+<label>a</label>
+<email xlink:href="mailto:tiia.sudenkaarne@helsinki.fi">tiia.sudenkaarne@helsinki.fi</email>
+</corresp><fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>3</day><month>9</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>9</volume><elocation-id>494</elocation-id><history><date date-type="accepted"><day>26</day><month>6</month><year>2024</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2024 Sudenkaarne T et al.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="wellcomeopenres-9-23656.pdf"/><abstract><p>The Centre for the Social Study of Microbes (CSSM) at University of Helsinki, Finland is a Wellcome-funded hub for creating new approaches to human-microbial relations. Most urgently, the complex relations between microbes, antimicrobial resistance (in its human-health centered definition, understood as infection and disease now uncurable by antibiotics, threatening human life and wellbeing), animals, environments and climate emergency require new theoretical and methodological approaches. These include a variety of research interest from global fermentation practices and cultures to microbial bioremediation techniques, from aquatic microbes to urban gardens. A key orientation of CSSM is also combining ethnography with artistic and performative practice such as felting, painting, installation, sculpture and audiovisual means, to gain a deeper, more sensory and embodied perspective of our shared lives with microbes. As their agency exists outside textuality, new experimental methodology is needed to engage with it.</p><p>Thinking with microbes invites many ethical issues that often remain unaddressed in medical and scientific approach. As one of such contributions, we suggest a new framework for bioethics. In a conceptual analysis, a queer feminist posthuman framework aims for radical reorientation of human exceptionalism for more-than-human justice while keeping existing social justice issues between groups of people, such as vulnerabilities cascading around gender and sexual variance, in the same framework. Both a theoretical and practical initiative, seeking to forge solidarity between justice movements, this framework could ground policies relevant to a broader bioethical and philosophical research community, and social scientists studying microbes. This open letter discusses this work at the CSSM.</p></abstract><abstract abstract-type="plain-language-summary"><title>Plain Language Summary</title><p>The Centre for the Social Study of Microbes (CSSM) at University of Helsinki, Finland is a Wellcome-funded hub for creating new approaches to human-microbial relations. These include a variety of research interest from global fermentation practices and cultures &#x02013; the arts of rice beer and sake-making, for example &#x02013; to microbial bioremediation techniques, from aquatic microbes to urban gardens. A key orientation of CSSM is also to explore microbes through artistic mediums such as felting, painting, installation, sculpture and audiovisual means.</p><p>Thinking with microbes invites many ethical issues that often remain unaddressed in medical and scientific approach. Most urgently, the complex relations between microbes, antimicrobial resistance (in its human-health centered definition, understood as infection and disease now uncurable by antibiotics, threatening human life and wellbeing), animals, environments and climate emergency require new ways to think about these issues and aims to resolve them. As one of such contributions, we suggest a new framework for bioethics. Sudenkaarne's queer feminist posthuman framework for bioethics offers a platform to consider injustices caused by human action to environments and more-than-human animals and injustices between groups of people in the same framework. Hopefully, this framework is inspirational to other researchers and public policy initiatives. It has been inspired by the collective work at CSSM.</p></abstract><kwd-group kwd-group-type="author"><kwd>Social study of microbes</kwd><kwd>queer bioethics</kwd><kwd>feminist bioethics</kwd><kwd>more-than-human</kwd><kwd>justice</kwd><kwd>vulnerability</kwd><kwd>care</kwd></kwd-group><funding-group><award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/501100002341"><funding-source>Research Council of Finland</funding-source></award-group><award-group id="fund-2" xlink:href="https://doi.org/10.13039/100010269"><funding-source>Wellcome Trust</funding-source><award-id>221719</award-id></award-group><award-group id="fund-3" xlink:href="http://dx.doi.org/10.13039/501100005781"><funding-source>Koneen S&#x000e4;&#x000e4;ti&#x000f6;</funding-source></award-group><funding-statement>This work was supported by Wellcome [221719] and the Koneen S&#x000e4;&#x000e4;ti&#x000f6; and the Research Council of Finland. While working on the framework 2019-2024, Dr Sudenkaarne&#x02019;s work has been funded by Academy of Finland (in the project SoSaMiRe), NORFACE Governance (in the project CrimScapes) and Kone Foundation (in the project Microbial Lives). </funding-statement></funding-group></article-meta></front><body><sec><title>Disclaimer</title><p>The views expressed in this article are those of the author(s). Publication in Wellcome Open Research does not imply endorsement by Wellcome.</p></sec><sec sec-type="intro"><title>Introduction</title><p>The rationale of this open letter is to discuss social scientific work with microbes from an applied ethics and moral theoretical point of view, which is a part of a philosophical approach to bioethics (e.g.
+<xref rid="ref-16" ref-type="bibr">Holland, 2016</xref>;
+<xref rid="ref-28" ref-type="bibr">O&#x02019;Malley, 2014</xref>). In this approach, bioethics can be defined as considerations of the moral, societal, and political issues brought about by sickness, health, care, and environment: what kind of ontological assumptions these concepts build on, what kind of knowledges they entail and how should ethical issues around them be resolved. This notion of bioethics stands in stark contrast to perfunctory management of ethics as avoiding liability or purely a matter of conducting research (
+<xref rid="ref-11" ref-type="bibr">Donchin &#x00026; Purdy, 1999</xref>;
+<xref rid="ref-45" ref-type="bibr">Wahlert &#x00026; Fiester, 2014</xref>;
+<xref rid="ref-49" ref-type="bibr">Wolf, 1996</xref>). Bioethical concepts must be situated in a specific ethical framework for them to do justice to the most &#x0201c;morally vulnerable&#x0201d; (
+<xref rid="ref-12" ref-type="bibr">Fiester, 2015</xref>). </p><p>This letter builds Sudenkaarne&#x02019;s conference presentation at the Oxford Global Health and Bioethics 2023, in which she discussed how antimicrobial resistance (AMR) shows the limits of the existing challenges of the most dominant justice framework, and how could a queer feminist posthuman framework offer solutions to crisis of justice. Her work is situated in the research environment of
+<ext-link xlink:href="https://www.socialmicrobes.org/" ext-link-type="uri">the Centre for the Social Study of Microbes (CSSM)</ext-link> directed by Sariola. Sudenkaarne and Sariola are currently collaborating on applications of the framework.
+<sup>
+<xref rid="FN1" ref-type="fn">i</xref>
+</sup> In this letter, the focus is on the need for a new framework and the structure of this framework to grapple with ethical questions of AMR. </p><p>In a conceptual analysis combining bioethical principlism, analytical philosophy, feminist thought and queer theory, Sudenkaarne introduces a queer feminist posthuman framework for justice. In this radical reorientation of human exceptionalism, the framework aims to question anthropocentrism. Sudenkaarne and Sariola have in previous collaborations respectively, offered considerations into more-than-human orientations, (
+<xref rid="ref-7" ref-type="bibr">Ca&#x000f1;ada
+<italic toggle="yes">et al.</italic>, 2022</xref>;
+<xref rid="ref-35" ref-type="bibr">Sudenkaarne &#x00026; Butcher, 2024</xref>) while seeking to keep existing social justice issues between groups of people in the same framework. In the case of AMR, to us this means analyzing how the scale of microbes &#x02018;sticks&#x02019; to some bodies more than others based on particular sexual practices and maps on to particular bodies and orifices: vulnerability of same-sex relations, in the global south in particular.</p><p>The purpose of this letter is to introduce both a theoretical and practical initiative that seeks to further ground solidarity between justice movements while simultaneously promoting a more-than-human-justice orientation for cosmopolitical flourishing. It also aims to offer this framework as relevant to a broader bioethical, social scientists working on human-microbial relations, and philosophical research community and for grounding policy. This includes acknowledging how more-than-human actors already play an important role in environmental and climate politics (
+<xref rid="ref-35" ref-type="bibr">Sudenkaarne &#x00026; Butcher, 2024</xref>). Furthermore, framework-thinking is crucial for AMR as, most recently noted by
+<xref rid="ref-29" ref-type="bibr">Pokharel
+<italic toggle="yes">et al</italic>. (2024)</xref>, efforts to both conceptualize and address AMR are challenged by ethical tensions. To us, ethical tensions between different actors in AMR require a new framework that does not silo between humans, more-than-human animals and environments but understand them as compounded, suggesting post-anthropocentric solutions to AMR. New moral theories and ethical frameworks are needed to achieve this. Before discussing these tensions further, however, we will discuss this work as part of the more-than-human community of the CSSM.</p></sec><sec><title>Background: making ethics in a slime mold that is the CSSM</title><p>Enhancing more-than-human thinking in social study of microbes is the driving vision for the CSSM. As envisioned by director Sariola and CSSM co-investigators Jose Ca&#x000f1;ada and Mikko Jauho in crafting the field of social study of microbes, the global proliferation of AMR, climate emergency (CE), and now the COVID-19 global pandemic are examples of the urgency to find new ways of living in a more sustainable and socially just way with each other, with other animals, plants and our microbial ancestors. The collective aim of research at the CSSM is to create novel theorization for the analysis of and paradigm shift in human-animal-microbial relationships. From the global governance of AMR and practices with microbial materials; through biotechnical practices with humans and microbes; to traditional and contemporary fermentation practices, our research projects and practices are interdisciplinary, geographically dispersed, and multi-scalar.</p><p>A research community coming together from various intellectual traditions, from analytical philosophy to science and technology studies, from arts to natural sciences, CSSM's collective aim is to develop novel theories and methodologies for producing knowledge about and with microbes.</p><p>CSSM&#x02019;s work builds on the premise that microbes are not only biological entities but also shape, and are shaped by, our social worlds. Doing ethics with microbes means taking on the challenges they pose to practical ethics -- for example, how to address the scale of microbes that &#x02018;sticks&#x02019; to some bodies more than others based on particular sexual practices, or the global complexities of access versus excess of antibiotics -- but also to moral theory to conceptualize the complex relationality between human and more-than-human. Further, it requires formulating relational ontologies, including posthuman perspectives to a global public health (
+<xref rid="ref-9" ref-type="bibr">Cohn &#x00026; Lynch, 2017</xref>) and how posthumanist approaches can illuminate current issues in bioethics (
+<xref rid="ref-31" ref-type="bibr">Sands, 2022</xref>). </p><p>To alleviate these ethical challenges more sustainably, new ways of being, sensing, doing and knowing with microbes are required. This calls for new, experimental methods breaking away from hierarchical knowledge-production. The ambitious aim of paradigm shift is crucially dependent on collaboration. Thus the CSSM is an exploratory setting in which new non-hierarchical collaborative practices are developed, seeking inspiration from how the slime mold evolves without a central organizing body (
+<xref rid="ref-15" ref-type="bibr">Hey
+<italic toggle="yes">et al.</italic>, 2023</xref>). This has led to fruitful anarchy in a flat organization without central order but not without leadership and responsibility. This unruliness to be further explored by us as a philosophical concept elsewhere, is a key source for intellectual creativity. We have formulated, in an open-ended dynamic process, our own safe space practices building on the principles of care and respect of both diversity and biodiversity. Under the auspices of CSSM, we commit to being open, aware, and reflexive of power dynamics pertaining to knowledge production and actively seek to undo them. These systems of oppression that we see underlying academia are specific to university as well as society more generally. The reflexivity includes consideration of the environment as complex ecologies that humans are part of, beyond simple categorizations that might lead microbes be read as &#x02018;good&#x02019; or &#x02018;bad&#x02019;, further challenging the dexterity of ethical frameworks.</p></sec><sec><title>Introducing a queer feminist posthuman framework to justice: thinking with AMR</title><p>According to a prominent definition by the
+<xref rid="ref-46" ref-type="bibr">WHO (2021)</xref>, AMR occurs when bacteria, viruses, fungi and parasites change over time and no longer respond to antimicrobials, making infections harder to treat and increasing the risk of disease spread, severe illness and death. However, this dominant understanding of AMR suggests looking at AMR as a human-health issue. Primacy of human health has been criticized by One Health approaches. Yet we see a need for frameworks that can consider more-than-human animals, multispecies perspectives, ecosystems, and stratified human health in the same ethical framework.</p><p>When foregrounding a more-than-human approach, the environment must be seen also as key to the development, transmission and spread of AMR to humans, more-than-human animals and plants (
+<xref rid="ref-43" ref-type="bibr">UN Environment Program, 2022, 1</xref>). Calibrating a society toward thinking critically about and through AMR resilience and prevention requires attention to species interdependencies (
+<xref rid="ref-5" ref-type="bibr">Brives
+<italic toggle="yes">et al.</italic>, 2021</xref>;
+<xref rid="ref-13" ref-type="bibr">Haraway, 2008</xref>;
+<xref rid="ref-24" ref-type="bibr">Manyau
+<italic toggle="yes">et al.</italic>, 2022</xref>), but must also acknowledge how more-than-human actors already play an important role in environmental and climate politics. Defined in more detail elsewhere (
+<xref rid="ref-35" ref-type="bibr">Sudenkaarne &#x00026; Butcher, 2024</xref>), by
+<italic toggle="yes">more than</italic>, we not only wish to imply moral significance in the ecocentric and biocentric sense but also to include, in a network theory rather than confessional understanding, spectral realms of ancestors, spirits, ghosts and deities that are crucial actors in several global sense-making systems (cf.
+<xref rid="ref-40" ref-type="bibr">De La Cadena, 2010</xref>; see also
+<xref rid="ref-34" ref-type="bibr">Stengers, 2005</xref>). Further, by
+<italic toggle="yes">more than</italic> we wish to remain open to finding new ways of being with ethics that perhaps could be more attuned to planetary or even cosmological flourishing than current human-oriented approaches. To us, then,
+<italic toggle="yes">more-than-human</italic> interrogates anthropocentrism in moral significance and ethical analyses but does not wish to abandon or exceed the human
+<italic toggle="yes">per se</italic>. In this ethical analysis, justice and vulnerability are neighboring concepts: it can be argued, as we do, it is precisely the detection of vulnerabilities that will pave the way to more just worlds.</p><p>
+<xref rid="ref-29" ref-type="bibr">Pokharel
+<italic toggle="yes">et al</italic>. (2024)</xref> present a set of tensions that hinder efforts to address AMR. They locate these tensions between access and excess of antibiotics in the current population, between personal interests and a wider, shared interest in curbing AMR, between the interests of current populations and the interests of future generations, and lastly, between addressing immediate health threats such as pandemics and AMR as a &#x02018;silent&#x02019;, chronic threat. To us, this set of tensions reflects the anthropocentric understanding of AMR and does not fathom more-than-human tensions at all. What we suggest is a more-than-human justice orientation in analysis and replacing population thinking with a layered understanding of vulnerability.</p><p>A more-than-human justice orientation demands development of new moral theories, which we have argued (
+<xref rid="ref-7" ref-type="bibr">Ca&#x000f1;ada
+<italic toggle="yes">et al.</italic>, 2022</xref>;
+<xref rid="ref-39" ref-type="bibr">Sudenkaarne, 2023</xref>;
+<xref rid="ref-35" ref-type="bibr">Sudenkaarne &#x00026; Butcher, 2024</xref>) are crucial for AMR in both theory and management. Such a perspective, attuned to both social justice and a more-than-human justice orientation, is crucial to show how intersectional positions within human and more-than-human networks collide with layered vulnerabilities. These vulnerabilities align with existing social justice issues reproduced by race, ability, and gender and sexuality (cf.
+<xref rid="ref-25" ref-type="bibr">McKnight, 2022</xref>;
+<xref rid="ref-32" ref-type="bibr">Sariola
+<italic toggle="yes">et al.</italic>, 2022</xref>;
+<xref rid="ref-48" ref-type="bibr">Will, 2018</xref>). Further, such a framework should be able to address multispecies vulnerabilities. Vulnerabilities cascade (cf.
+<xref rid="ref-21" ref-type="bibr">Luna, 2019</xref>) following social-scientific patterns but also take on new layers in AMR. For example,
+<xref rid="ref-23" ref-type="bibr">MacPherson and colleagues (2022)</xref> have identified specific 'antibiotic vulnerabilities' to highlight how antimicrobial provision in rural Malawi impacts care in conditions of extreme scarcity.</p><p>In the framework, posthumanism offers a context, firstly, to situate the dilemma of AMR between human-centered health and a One Health approach. This stance positions the inseparability of the health of humans, non-human animals and the environment as its core premise in a holistic understanding (
+<xref rid="ref-7" ref-type="bibr">Ca&#x000f1;ada
+<italic toggle="yes">et al.</italic>, 2022, 1</xref>). However, it can be argued One Health is too technoscientific or more of an idea for ethics than a framework. Secondly, posthumanist imaginations for more just futures and presents includes a strong feminist orientation (
+<xref rid="ref-4" ref-type="bibr">Braidotti, 2021</xref>).</p></sec><sec><title>Enhancing a queer feminist posthuman framework for (bio)ethics: reflections into vulnerability and care</title><p>In order to get to grips with questions of justice and vulnerability across various inequalities calling for a posthuman justice framework, we want to reframe some fundamental questions in relation to AMR. As
+<xref rid="ref-39" ref-type="bibr">Sudenkaarne (2023)</xref> has suggested, these questions include what kinds of subjects can we imagine as morally significant? How are multispecies relations managed without prioritizing human ways of being? How are intersecting layers of vulnerabilities minimized between groups of people? Is species an oppressive category or in fact needed to ground subversive politics? How to move from human-oriented use of technology to solutions benefitting the entire global ecosystem?</p><p>In answering these questions, it is crucial to see how vulnerabilities and justice are integrally connected while still remaining distinct realms of conceptual inquiry. In establishing layers of vulnerability with superwicked problems like AMR (
+<xref rid="ref-50" ref-type="bibr">Levin
+<italic toggle="yes">et al</italic>., 2012</xref>;
+<xref rid="ref-19" ref-type="bibr">Littmann
+<italic toggle="yes">et al</italic>., 2020</xref>;
+<xref rid="ref-35" ref-type="bibr">Sudenkaarne &#x00026; Butcher, 2024</xref>), visibility is key for both politics and ethics: to acknowledge and address specific needs and injustices that may be in part reproduced through bias in technoscience (cf.
+<xref rid="ref-44" ref-type="bibr">van Anders
+<italic toggle="yes">et al.,</italic> 2023</xref>) that requires similar ethical scrutiny as any politics. </p><p>Following
+<xref rid="ref-45" ref-type="bibr">Wahlert and Fiester&#x02019;s (2014)</xref> Queer Bioethics Inventory and layered vulnerability established by Luna (
+<xref rid="ref-20" ref-type="bibr">2009</xref>;
+<xref rid="ref-21" ref-type="bibr">2019</xref>), The first author of this letter (
+<xref rid="ref-36" ref-type="bibr">Sudenkaarne, 2019</xref>;
+<xref rid="ref-37" ref-type="bibr">Sudenkaarne, 2021</xref>) has developed layers of queer vulnerabilities focusing on intimacy, kinship, agency and ethical sustainability. In bioethical case analysis, for queer and gender sensitive considerations it is important to determine whether medical or other interest is based solely on gender and sexuality variance as curiosity, and does the case reinforce negative perceptions. A crucial comparison is to see whether the analysis or outcome is different for a cis- and heteronormative agent as opposed to a queer one, and in this analysis, does cis- and heteronormativity become a necessary condition for moral coherence. One of the applications of this framework is in thinking about this normativity in the context of drug resistance and gender and sexual variance building on
+<xref rid="ref-23" ref-type="bibr">MacPherson and colleagues&#x02019; (2022)</xref> notion of antibiotic vulnerability. A more detailed engagement offered elsewhere (
+<xref rid="ref-42" ref-type="bibr">Sudenkaarne, in press</xref>),
+<xref rid="ref-23" ref-type="bibr">MacPherson and colleagues (2022, 2632)</xref> conclude that dimensions of care in chronic scarcity present a scenario in which optimizing antibiotic use will require not only stable availability of essential medicines but also a re-ordering of the system around provision of quality care rather than of medicines: thus, practices around care can be understood to both respond to and create antibiotic vulnerabilities. Building on their proposition that considering multiple dimensions of antibiotic vulnerabilities has conceptual promise as it can at once bring to the frame the vulnerability of antibiotics, people and systems (
+<xref rid="ref-23" ref-type="bibr">MacPherson
+<italic toggle="yes">et al.</italic>, 2022</xref>, 2641), for future research is to consider cases of resistance in relation to queer vulnerabilities, such as queer sex workers&#x02019; specific vulnerabilities (cf.
+<xref rid="ref-24" ref-type="bibr">Manyau
+<italic toggle="yes">et al.</italic>, 2022</xref>) with drug-resistant STI&#x02019;s (cf.
+<xref rid="ref-6" ref-type="bibr">Broom
+<italic toggle="yes">et al.</italic>, 2023</xref>) as situated in specific geographical locations while also informed by global conditions of stratified health, for context-specific programs and specific antibiotic vulnerabilities. Failure to safeguard against such vulnerabilities can lead direct attack on specific lives as rooted in &#x0201c;animus against some of the most marginalized and vulnerable communities&#x0201d; (
+<xref rid="ref-3" ref-type="bibr">Bollinger, 2019</xref>).</p></sec><sec><title>Queer feminist posthuman resolutions to a crisis of justice</title><p>As AMR ethical dilemmas showcase, considerations about justice have become more and more complex. Dominant theories about justice struggle to sufficiently analyze let alone ethically sustainably alleviate these justice issues as many marginalized stakeholders&#x02019; views and vulnerabilities are excluded in a seemingly justice-for-all framework (e.g.
+<xref rid="ref-2" ref-type="bibr">Blain, 2020</xref>;
+<xref rid="ref-41" ref-type="bibr">Tong, 1996</xref>). Activist movements such as Black Lives Matter, MeToo and Extinction Rebellion
+<sup>
+<xref rid="FN2" ref-type="fn">ii</xref>
+</sup> are most recent examples of demonstrating, how presumably shared conditions of living can become eerily uncanny: violence &#x02013; from physical attacks to symbolic erasure -- haunts everyday activities of some more than others.</p><p>Bioethics is an excellent platform for reconfigurations of justice because of its specific engagement with justice through principlism. A highly influential definition of justice as an ethical principle by
+<xref rid="ref-1" ref-type="bibr">Tom Beauchamp and James Childress (2019)</xref> defines justice as a group of norms to fairly distribute benefits, risks, and costs, linking justice to Rawlsian ideas of distributive justice (
+<xref rid="ref-18" ref-type="bibr">Jecker
+<italic toggle="yes">et al.</italic>, 2022</xref>;
+<xref rid="ref-41" ref-type="bibr">Tong, 1996</xref>) accepted widely (
+<xref rid="ref-27" ref-type="bibr">Nuffield Council on Bioethics, 2023</xref>) and considering justice as some kind of fairness. In global comparison from a moral, societal and political point of view, it is obvious that fairness is not the current state of affairs, not even as distribution of benefits, risks, and costs, let alone in more detailed ethical analysis: with AMR, its costs are the highest in conditions of extreme scarcity (
+<xref rid="ref-23" ref-type="bibr">MacPherson
+<italic toggle="yes">et al.</italic>, 2022</xref>;
+<xref rid="ref-27" ref-type="bibr">Nuffield Council on Bioethics, 2023</xref>;
+<xref rid="ref-32" ref-type="bibr">Sariola
+<italic toggle="yes">et al.</italic>, 2022</xref>). It can be argued that this constitutes the very opposite of fairness (
+<xref rid="ref-23" ref-type="bibr">MacPherson
+<italic toggle="yes">et al.</italic>, 2022</xref>). Moreover, a Rawlsian distributive justice framework does not include multispecies, environmental let alone more-than-human agency, which is a necessary condition for a framework of justice to achieve fairness in any ethically salient way. The notion that justice would be achieved in decision-making, policy-making and ethics-making without critical engagement with the limitations of currently dominant moral theories framing these processes is unfounded: a framework for justice as common morality (
+<xref rid="ref-41" ref-type="bibr">Tong, 1996</xref>) might be easily accessible but it leaves out safeguarding against privilege and bias. This often leads to calls for justice &#x0201c;however one conceives of justice&#x0201d; (
+<xref rid="ref-19" ref-type="bibr">Littmann
+<italic toggle="yes">et al.</italic>, 2020, 441</xref>) which, when examining the track record of justice from a queer feminist posthuman vantage point, has in fact not been fair at all (cf.
+<xref rid="ref-8" ref-type="bibr">Chao
+<italic toggle="yes">et al.</italic>, 2022</xref>;
+<xref rid="ref-22" ref-type="bibr">Lyons, 2023</xref>;
+<xref rid="ref-30" ref-type="bibr">Pugliese, 2020</xref>;
+<xref rid="ref-45" ref-type="bibr">Wahlert &#x00026; Fiester, 2014</xref>;
+<xref rid="ref-47" ref-type="bibr">Wienhues, 2020</xref>;
+<xref rid="ref-49" ref-type="bibr">Wolf, 1996</xref>).</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>To tackle both the false hope and the nihilist despair that fuel injustice,
+<xref rid="ref-14" ref-type="bibr">Haraway (2016)</xref> has influentially suggested an intellectual method she calls staying with the trouble, making oddkin: that is, increasing human responsibility to marginalized lives and the more-than-human by refusing human exceptionalism through enhanced moral significance. Staying with the trouble requires making oddkin: understanding that &#x0201c;we&#x0201d;, in the more-than-human understanding -- require each other in unexpected collaborations and combinations, &#x0201c;in hot compost piles&#x0201d; (
+<xref rid="ref-14" ref-type="bibr">Haraway, 2016, 4</xref>). In an AMR example, this requires subverting the power asymmetries in ethical sense-making for antimicrobial stewardship &#x02013; reproduction of the neocolonialist division between the global South and North -- understanding intersectional vulnerabilities in access and overuse -- that antibiotics might be the only available treatment in an inadequate basic healthcare context or they can be offered as a choice in more exclusive contexts such occupational health. Most crucially, it requires introducing a relational understanding of health, including more-than-human moral significance while the grunt of posthuman moral responsibility must be born, and better so, by privileged people, us included. A queer feminist posthuman framework aims to facilitate this in a collaborative, ethically sustainable manner.</p></sec><sec><title>Ethics and consent</title><p>Ethical approval and consent were not required.</p></sec></body><back><ack><title>Acknowledgements</title><p>Authors would like to acknowledge the (
+<ext-link xlink:href="https://www.socialmicrobes.org/people/" ext-link-type="uri">The Centre for the Social Study of Microbes (CSSM))</ext-link> as a collective for being a key intellectual platform for original thinking and a supportive, respective and continuously inspirational working environment. </p></ack><fn-group><fn id="FN1"><p>
+<sup>i </sup>The first person plural pronouns in the context of this letter refer to Sudenkaarne and Sariola, unless specifically mentioned otherwise.</p></fn><fn id="FN2"><p>
+<sup>ii </sup>This is an impression of the movement in the Finnish context where the movement explicitly rejects any sympathies to ecofascism.</p></fn></fn-group><sec sec-type="data-availability"><title>Data availability</title><p>No data are associated with this article.</p></sec><ref-list><ref id="ref-1"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Beauchamp</surname><given-names>TL</given-names></name>
+<name><surname>Childress</surname><given-names>JF, (Eds)</given-names></name>
+</person-group>:
+<article-title>Principles of biomedical ethics</article-title>. 8
+<sup>th</sup>ed. Oxford University Press,<year>2019</year>.
+<ext-link xlink:href="https://global.oup.com/ushe/product/principles-of-biomedical-ethics-9780190640873?cc=us&#x00026;lang=en&#x00026;" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-2"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Blain</surname><given-names>KN</given-names></name>
+</person-group>:
+<article-title>Civil rights international: the fight against racism has always been global.</article-title>
+<source>
+<italic toggle="yes">Foreign Aff.</italic>
+</source>
+<year>2020</year>;<volume>99</volume>(<issue>5</issue>):<fpage>176</fpage>&#x02013;<lpage>190</lpage>.
+<ext-link xlink:href="https://go.gale.com/ps/i.do?p=AONE&#x00026;id=GALE%7CA632961662&#x00026;v=2.1&#x00026;it=r&#x00026;sid=galeopenaccess&#x00026;userGroupName=anon%7E441cb461&#x00026;aty=open-web-entry" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-3"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bollinger</surname><given-names>A</given-names></name>
+</person-group>:
+<article-title>A second judge tossed out Trump&#x02019;s rule that allowed doctors to discriminate.</article-title>
+<source>
+<italic toggle="yes">LGBTQ Nation.</italic>
+</source>
+<year>2019</year>; Accessed March 27
+<sup>th</sup>, 2024.
+<ext-link xlink:href="https://www.lgbtqnation.com/2019/11/second-judge-ruled-trumps-religious-exemption-allow-doctors-discriminate/" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-4"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Braidotti</surname><given-names>R</given-names></name>
+</person-group>:
+<article-title>Posthuman feminism.</article-title>Oxford: Policy Press,<year>2021</year>.
+<ext-link xlink:href="https://rosibraidotti.com/publications/2239/" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-5"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Brives</surname><given-names>C</given-names></name>
+<name><surname>Rest</surname><given-names>M</given-names></name>
+<name><surname>Sariola</surname><given-names>S, (Eds)</given-names></name>
+</person-group>:
+<article-title>With microbes</article-title>. Mattering Press,<year>2021</year>.
+<pub-id pub-id-type="doi">10.28938/9781912729180</pub-id>
+</mixed-citation></ref><ref id="ref-6"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Broom</surname><given-names>A</given-names></name>
+<name><surname>Peterie</surname><given-names>M</given-names></name>
+<name><surname>Ridge</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Sex, drugs and superbugs: the rise of drug resistant STIs.</article-title>
+<source>
+<italic toggle="yes">SSM Qual Res Health.</italic>
+</source>
+<year>2023</year>;<volume>4</volume>:
+<elocation-id>100310</elocation-id>.
+<pub-id pub-id-type="doi">10.1016/j.ssmqr.2023.100310</pub-id>
+</mixed-citation></ref><ref id="ref-7"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ca&#x000f1;ada</surname><given-names>JA</given-names></name>
+<name><surname>Sariola</surname><given-names>S</given-names></name>
+<name><surname>Butcher</surname><given-names>A</given-names></name>
+</person-group>:
+<article-title>In critique of anthropocentrism: a more-than-human ethical framework for Antimicrobial Resistance.</article-title>
+<source>
+<italic toggle="yes">Med Humanit.</italic>
+</source>
+<year>2022</year>;<volume>48</volume>(<issue>4</issue>):
+<elocation-id>e16</elocation-id>.
+<pub-id pub-id-type="doi">10.1136/medhum-2021-012309</pub-id>
+<!--<pub-id pub-id-type="pmcid">9691817</pub-id>-->
+<?supplied-pmid 35321873?><pub-id pub-id-type="pmid">35321873</pub-id>
+</mixed-citation></ref><ref id="ref-8"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Chao</surname><given-names>S</given-names></name>
+<name><surname>Bolender</surname><given-names>K</given-names></name>
+<name><surname>Kirksey</surname><given-names>E, (Eds)</given-names></name>
+</person-group>:
+<article-title>The promise of multispecies justice</article-title>. Duke University Press,<year>2022</year>.
+<ext-link xlink:href="https://www.dukeupress.edu/Assets/PubMaterials/978-1-4780-1889-6_601.pdf" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-9"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Cohn</surname><given-names>S</given-names></name>
+<name><surname>Lynch</surname><given-names>R</given-names></name>
+</person-group>:
+<article-title>Posthuman perspectives: relevance for a global public health.</article-title>
+<source>
+<italic toggle="yes">Crit Public Health.</italic>
+</source>
+<year>2017</year>;<volume>27</volume>(<issue>3</issue>):<fpage>285</fpage>&#x02013;<lpage>292</lpage>.
+<pub-id pub-id-type="doi">10.1080/09581596.2017.1302557</pub-id>
+</mixed-citation></ref><ref id="ref-40"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>De La Cadena</surname><given-names>M</given-names></name>
+</person-group>:
+<article-title>Indigenous cosmopolitics in the Andes: conceptual reflections beyond &#x0201c;politics&#x0201d;.</article-title>
+<source>
+<italic toggle="yes">Cultural Anthropology.</italic>
+</source>
+<year>2010</year>;<volume>25</volume>:<fpage>334</fpage>&#x02013;<lpage>370</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1548-1360.2010.01061.x</pub-id>
+</mixed-citation></ref><ref id="ref-11"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Donchin</surname><given-names>A</given-names></name>
+<name><surname>Purdy</surname><given-names>L, (Eds)</given-names></name>
+</person-group>:
+<article-title>Embodying bioethics: recent feminist advances</article-title>. Rowman and Littlefield,<year>1999</year>.
+<ext-link xlink:href="https://books.google.co.in/books/about/Embodying_Bioethics.html?id=CdBqAAAAMAAJ&#x00026;redir_esc=y" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-12"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Fiester</surname><given-names>A</given-names></name>
+</person-group>:
+<article-title>Weaponizing principles: clinical ethics consultations &#x00026; the plight of the morally vulnerable.</article-title>
+<source>
+<italic toggle="yes">Bioethics.</italic>
+</source>
+<year>2015</year>;<volume>29</volume>(<issue>5</issue>):<fpage>309</fpage>&#x02013;<lpage>315</lpage>.
+<pub-id pub-id-type="doi">10.1111/bioe.12115</pub-id>
+<?supplied-pmid 25257049?><pub-id pub-id-type="pmid">25257049</pub-id>
+</mixed-citation></ref><ref id="ref-13"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Haraway</surname><given-names>D</given-names></name>
+</person-group>:
+<article-title>When species meet</article-title>. University of Minnesota Press,<year>2008</year>.
+<ext-link xlink:href="http://xenopraxis.net/readings/haraway_species.pdf" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-14"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Haraway</surname><given-names>D</given-names></name>
+</person-group>:
+<article-title>Staying with the trouble: making kin in the Chthulucene</article-title>. Durham: Duke University Press,<year>2016</year>.
+<pub-id pub-id-type="doi">10.2307/j.ctv11cw25q</pub-id>
+</mixed-citation></ref><ref id="ref-15"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Hey</surname><given-names>M</given-names></name>
+<name><surname>Ca&#x000f1;ada</surname><given-names>J</given-names></name>
+<name><surname>Ng</surname><given-names>A</given-names></name>
+</person-group>:
+<article-title>Introducing the centre for the social study of microbes: a slime-mouldian approach to research.</article-title>
+<source>
+<italic toggle="yes">EASST Rev.</italic>
+</source>
+<year>2023</year>;<volume>42</volume>(<issue>2</issue>). Accessed June 19
+<sup>th</sup>, 2024.
+<ext-link xlink:href="https://easst.net/easst-review/42-2/introducing-the-centre-for-the-social-study-of-microbes-a-slime-mouldian-approach-to-research/" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-16"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Holland</surname><given-names>S</given-names></name>
+</person-group>:
+<article-title>Bioethics: a philosophical introduction</article-title>. Wiley.<year>2016</year>.
+<ext-link xlink:href="https://books.google.ne/books?id=RxzNDQAAQBAJ&#x00026;hl=fr&#x00026;source=gbs_navlinks_s" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-18"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Jecker</surname><given-names>NS</given-names></name>
+<name><surname>Atiure</surname><given-names>CA</given-names></name>
+<name><surname>Ajei</surname><given-names>MO</given-names></name>
+</person-group>:
+<article-title>Two steps forward: an African relational account of moral standing.</article-title>
+<source>
+<italic toggle="yes">Philos Technol.</italic>
+</source>
+<year>2022</year>;<volume>35</volume>(<issue>2</issue>): 38.
+<pub-id pub-id-type="doi">10.1007/s13347-022-00533-3</pub-id>
+</mixed-citation></ref><ref id="ref-50"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Levin</surname><given-names>K</given-names></name>
+<name><surname>Cashore</surname><given-names>B</given-names></name>
+<name><surname>Bernstein</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Overcoming the tragedy of super wicked problems: constraining our future selves to ameliorate global climate change.</article-title>
+<source>
+<italic toggle="yes">Policy Sci.</italic>
+</source>
+<year>2012</year>;<volume>45</volume>:<fpage>123</fpage>&#x02013;<lpage>152</lpage>.
+<pub-id pub-id-type="doi">10.1007/s11077-012-9151-0</pub-id>
+</mixed-citation></ref><ref id="ref-19"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Littmann</surname><given-names>J</given-names></name>
+<name><surname>Viens</surname><given-names>AM</given-names></name>
+<name><surname>Da Silva</surname><given-names>S</given-names></name>
+</person-group>:
+<article-title>The super-wicked problem of antimicrobial resistance</article-title>. In: E. Jamrozik &#x00026; M. Selgelid (Eds.),
+<italic toggle="yes">Ethics and drug resistance: collective responsibility for global public health.</italic>Springer,<year>2020</year>;<fpage>421</fpage>&#x02013;<lpage>443</lpage>.
+<pub-id pub-id-type="doi">10.1007/978-3-030-27874-8_26</pub-id>
+</mixed-citation></ref><ref id="ref-20"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Luna</surname><given-names>F</given-names></name>
+</person-group>:
+<article-title>Elucidating the concept of vulnerability: layers not labels.</article-title>
+<source>
+<italic toggle="yes">Int J Fem Approaches Bioeth.</italic>
+</source>
+<year>2009</year>;<volume>2</volume>(<issue>1</issue>):<fpage>121</fpage>&#x02013;<lpage>139</lpage>.
+<pub-id pub-id-type="doi">10.3138/ijfab.2.1.121</pub-id>
+</mixed-citation></ref><ref id="ref-21"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Luna</surname><given-names>F</given-names></name>
+</person-group>:
+<article-title>Identifying and evaluating layers of vulnerability - a way forward.</article-title>
+<source>
+<italic toggle="yes">Dev World Bioeth.</italic>
+</source>
+<year>2019</year>;<volume>19</volume>(<issue>2</issue>):<fpage>86</fpage>&#x02013;<lpage>95</lpage>.
+<pub-id pub-id-type="doi">10.1111/dewb.12206</pub-id>
+<!--<pub-id pub-id-type="pmcid">6353708</pub-id>-->
+<?supplied-pmid 30058768?><pub-id pub-id-type="pmid">30058768</pub-id>
+</mixed-citation></ref><ref id="ref-22"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lyons</surname><given-names>K</given-names></name>
+</person-group>:
+<article-title>&#x0201c;Nature&#x0201d; and territories as victims: decolonizing colombia's transitional justice process.</article-title>
+<source>
+<italic toggle="yes">Am Anthropol.</italic>
+</source>
+<year>2023</year>;<volume>125</volume>(<issue>1</issue>):<fpage>63</fpage>&#x02013;<lpage>76</lpage>.
+<pub-id pub-id-type="doi">10.1111/aman.13798</pub-id>
+</mixed-citation></ref><ref id="ref-23"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>MacPherson</surname><given-names>E</given-names></name>
+<name><surname>Reynolds</surname><given-names>J</given-names></name>
+<name><surname>Sanudi</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Understanding antimicrobial resistance through the lens of antibiotic vulnerabilities in primary health care in rural Malawi.</article-title>
+<source>
+<italic toggle="yes"> Glob Public Health.</italic>
+</source>
+<year>2022</year>;<volume>17</volume>(<issue>11</issue>):<fpage>2630</fpage>&#x02013;<lpage>2646</lpage>.
+<pub-id pub-id-type="doi">10.1080/17441692.2021.2015615</pub-id>
+<?supplied-pmid 34932915?><pub-id pub-id-type="pmid">34932915</pub-id>
+</mixed-citation></ref><ref id="ref-24"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Manyau</surname><given-names>S</given-names></name>
+<name><surname>Dixon</surname><given-names>J</given-names></name>
+<name><surname>Mutukwa</surname><given-names>N</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Antibiotics and the biopolitics of sex work in Zimbabwe.</article-title>
+<source>
+<italic toggle="yes">Med Anthropol.</italic>
+</source>
+<year>2022</year>;<volume>41</volume>(<issue>3</issue>):<fpage>257</fpage>&#x02013;<lpage>271</lpage>.
+<pub-id pub-id-type="doi">10.1080/01459740.2022.2037083</pub-id>
+<?supplied-pmid 35244502?><pub-id pub-id-type="pmid">35244502</pub-id>
+</mixed-citation></ref><ref id="ref-25"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>McKnight</surname><given-names>U</given-names></name>
+</person-group>:
+<article-title>Replacement feeding and the HIV diaspora: a case of ontological multiplicity and fluid technologies.</article-title>
+<source>
+<italic toggle="yes">Sociol Health Illn.</italic>
+</source>
+<year>2022</year>;<volume>44</volume>(<issue>1</issue>):<fpage>169</fpage>&#x02013;<lpage>187</lpage>.
+<pub-id pub-id-type="doi">10.1111/1467-9566.13405</pub-id>
+<?supplied-pmid 34821393?><pub-id pub-id-type="pmid">34821393</pub-id>
+</mixed-citation></ref><ref id="ref-27"><mixed-citation publication-type="webpage">
+<collab>Nuffield Council on Bioethics</collab>:
+<article-title>Health, climate change and ethics: an overview. </article-title>
+<year>2023</year>; Accessed November 13
+<sup>th</sup>, 2023.
+<ext-link xlink:href="https://www.nuffieldbioethics.org/assets/pdfs/Health-climate-and-ethics-paper-FINAL-12.10.23.pdf" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-28"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>O&#x02019;Malley</surname><given-names>M</given-names></name>
+</person-group>:
+<article-title>Philosophy of microbiology.</article-title>Cambridge University Press,<year>2014</year>.
+<pub-id pub-id-type="doi">10.1017/CBO9781139162524</pub-id>
+</mixed-citation></ref><ref id="ref-29"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Pokharel</surname><given-names>S</given-names></name>
+<name><surname>Adhikari</surname><given-names>B</given-names></name>
+<name><surname>Johnson</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Interventions to address antimicrobial resistance: an ethical analysis of key tensions and how they apply in low- income and middle-income countries.</article-title>
+<source>
+<italic toggle="yes"> BMJ Glob Health.</italic>
+</source>
+<year>2024</year>;<volume>9</volume>(<issue>4</issue>):
+<elocation-id>e012874</elocation-id>.
+<pub-id pub-id-type="doi">10.1136/bmjgh-2023-012874</pub-id>
+<!--<pub-id pub-id-type="pmcid">11002359</pub-id>-->
+<?supplied-pmid 38569658?><pub-id pub-id-type="pmid">38569658</pub-id>
+</mixed-citation></ref><ref id="ref-30"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Pugliese</surname><given-names>J</given-names></name>
+</person-group>:
+<article-title>Biopolitics of the more-than-human: forensic ecologies of violence.</article-title>Duke University Press,<year>2020</year>.
+<pub-id pub-id-type="doi">10.1215/9781478009078</pub-id>
+</mixed-citation></ref><ref id="ref-31"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Sands</surname><given-names>D (Eds)</given-names></name>
+</person-group>:
+<article-title>Bioethics and the posthumanities.</article-title>Routledge,<year>2022</year>.
+<ext-link xlink:href="https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&#x00026;identifierValue=10.4324/9781003020707&#x00026;type=googlepdf" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-32"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sariola</surname><given-names>S</given-names></name>
+<name><surname>Butcher</surname><given-names>A</given-names></name>
+<name><surname>Ca&#x000f1;ada</surname><given-names>JA</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Closing the GAP in antimicrobial resistance policy in Benin and Burkina Faso.</article-title>
+<source>
+<italic toggle="yes">mSystems.</italic>
+</source>
+<year>2022</year>;<volume>7</volume>(<issue>4</issue>):
+<elocation-id>e0015022</elocation-id>.
+<pub-id pub-id-type="doi">10.1128/msystems.00150-22</pub-id>
+<!--<pub-id pub-id-type="pmcid">9426606</pub-id>-->
+<?supplied-pmid 35894597?><pub-id pub-id-type="pmid">35894597</pub-id>
+</mixed-citation></ref><ref id="ref-34"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Stengers</surname><given-names>I</given-names></name>
+</person-group>:
+<article-title>The cosmopolitical proposal.</article-title>In: B. Latour &#x00026; P. Weibel (Eds.),
+<italic toggle="yes">Making Things Public: Atmospheres of Democracy.</italic>Cambridge University Press,<year>2005</year>;<fpage>994</fpage>&#x02013;<lpage>1004</lpage>.
+<ext-link xlink:href="https://edisciplinas.usp.br/pluginfile.php/4108142/mod_resource/content/1/2%20-%20the%20cosmopolitical%20proposal%20Stengers.pdf" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-36"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sudenkaarne</surname><given-names>T</given-names></name>
+</person-group>:
+<article-title>Queering vulnerability: a layered bioethical approach.</article-title>
+<source>
+<italic toggle="yes">Journal of the Finnish Anthropological Society.</italic>
+</source>
+<year>2019</year>;<volume>43</volume>(<issue>3</issue>):<fpage>73</fpage>&#x02013;<lpage>90</lpage>.
+<pub-id pub-id-type="doi">10.30676/jfas.v43i3.82734</pub-id>
+</mixed-citation></ref><ref id="ref-37"><mixed-citation publication-type="thesis">
+<person-group person-group-type="author">
+<name><surname>Sudenkaarne</surname><given-names>T</given-names></name>
+</person-group>:
+<article-title>Queering bioethics: a queer feminist framework for vulnerability and principles. </article-title>[Doctoral dissertation, University of Turku],<year>2021</year>.
+<ext-link xlink:href="https://www.utupub.fi/handle/10024/152419" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-39"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sudenkaarne</surname><given-names>T</given-names></name>
+</person-group>:
+<article-title>Toward a queer, feminist posthuman analysis of AMR and bioethics. </article-title>
+<italic toggle="yes">The Polyphony. </italic>
+<year>2023</year>.
+<ext-link xlink:href="https://thepolyphony.org/2023/10/11/queer-feminist-posthuman-amr/?utm_source=rss&#x00026;utm_medium=rss&#x00026;utm_campaign=queer-feminist-posthuman-amr" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-42"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sudenkaarne</surname><given-names>T</given-names></name>
+</person-group>:
+<article-title>A queer feminist posthuman framework for bioethics: on vulnerability, antimicrobial resistance, and justice.</article-title>
+<source>
+<italic toggle="yes">Monash Bioeth Rev.</italic>
+</source>(in press).</mixed-citation></ref><ref id="ref-35"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sudenkaarne</surname><given-names>T</given-names></name>
+<name><surname>Butcher</surname><given-names>A</given-names></name>
+</person-group>:
+<article-title>A. From super-wicked problems to more-than-human justice: new bioethical frameworks for antimicrobial resistance and climate emergency. </article-title>
+<source>
+<italic toggle="yes">Monash Bioeth Rev.</italic>
+</source>
+<year>2024</year>.
+<pub-id pub-id-type="doi">10.1007/s40592-024-00197-z</pub-id>
+<?supplied-pmid 38990507?><pub-id pub-id-type="pmid">38990507</pub-id>
+</mixed-citation></ref><ref id="ref-41"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Tong</surname><given-names>R</given-names></name>
+</person-group>:
+<article-title>Feminist approaches to bioethics. </article-title>In: S. Wolf (Ed.)
+<italic toggle="yes">Feminism and Bioethics: Beyond Reproduction.</italic>Oxford University Press,<year>1996</year>;<fpage>67</fpage>&#x02013;<lpage>94</lpage>.
+<pub-id pub-id-type="doi">10.1093/oso/9780195085686.001.0001</pub-id>
+</mixed-citation></ref><ref id="ref-43"><mixed-citation publication-type="webpage">
+<collab>UN Environment Program</collab>:
+<article-title>Environmental dimension of antimicrobial resistance: a summary for policymakers. </article-title>
+<year>2022</year>.
+<ext-link xlink:href="https://wedocs.unep.org/bitstream/handle/20.500.11822/38373/antimicrobial_R.pdf" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-44"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>van Anders</surname><given-names>SM</given-names></name>
+<name><surname>Schudson</surname><given-names>ZC</given-names></name>
+<name><surname>Beischel</surname><given-names>WJ</given-names></name>
+<etal/>
+</person-group>:
+<article-title>Feminist and queer science: principles for research with gender, sex and sexuality in psychology and beyond.</article-title>
+<source>
+<italic toggle="yes">Psychol Sex Orientat Gend Divers.</italic>
+</source>
+<year>2023</year>.
+<pub-id pub-id-type="doi">10.1037/sgd0000646</pub-id>
+</mixed-citation></ref><ref id="ref-45"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wahlert</surname><given-names>L</given-names></name>
+<name><surname>Fiester</surname><given-names>A</given-names></name>
+</person-group>:
+<article-title>Repaving the road of good intentions: LGBT health care and the queer bioethical lens.</article-title>
+<source>
+<italic toggle="yes">Hastings Cent Rep.</italic>
+</source>
+<year>2014</year>;<volume>44</volume>(<issue>4</issue>):<fpage>56</fpage>&#x02013;<lpage>65</lpage>.
+<pub-id pub-id-type="doi">10.1002/hast.373</pub-id>
+<?supplied-pmid 25231790?><pub-id pub-id-type="pmid">25231790</pub-id>
+</mixed-citation></ref><ref id="ref-46"><mixed-citation publication-type="webpage">
+<collab>WHO</collab>:
+<article-title>Antimicrobial resistance. </article-title>Last modified November 17
+<sup>th</sup>, 2021.<year>2021</year>; Accessed March 27th, 2024.
+<ext-link xlink:href="https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-47"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Wienhues</surname><given-names>A</given-names></name>
+</person-group>:
+<article-title>Ecological justice and the extinction crisis: giving living beings their due. </article-title>Bristol University Press,<year>2020</year>.
+<pub-id pub-id-type="doi">10.2307/j.ctv16t671c</pub-id>
+</mixed-citation></ref><ref id="ref-48"><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Will</surname><given-names>CM</given-names></name>
+</person-group>:
+<article-title>Editorial: beyond behavior? Institutions, interactions and inequalities in the response to antimicrobial resistance.</article-title>
+<source>
+<italic toggle="yes">Sociol Health Illn.</italic>
+</source>
+<year>2018</year>;<volume>40</volume>(<issue>3</issue>):<fpage>E1</fpage>&#x02013;<lpage>E9</lpage>.
+<pub-id pub-id-type="doi">10.1111/1467-9566.12735</pub-id>
+<?supplied-pmid 29574948?><pub-id pub-id-type="pmid">29574948</pub-id>
+</mixed-citation></ref><ref id="ref-49"><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Wolf</surname><given-names>SM (Ed)</given-names></name>
+</person-group>:
+<article-title>Feminism and bioethics: beyond reproduction. </article-title>Oxford University Press,<year>1996</year>.
+<ext-link xlink:href="https://ssrn.com/abstract=1735656" ext-link-type="uri">Reference Source</ext-link>
+</mixed-citation></ref></ref-list></back><sub-article article-type="reviewer-report" id="report100024"><front-stub><article-id pub-id-type="doi">10.21956/wellcomeopenres.23656.r100024</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Morar</surname><given-names>Nicolae</given-names></name><xref rid="r100024a1" ref-type="aff">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-2661-3676</contrib-id></contrib><contrib contrib-type="author"><name><surname>Beever</surname><given-names>Jonathan</given-names></name><xref rid="r100024a2" ref-type="aff">2</xref><role>Co-referee</role></contrib><aff id="r100024a1">
+<label>1</label>Environmental Studies and Philosophy, University of Oregon, Eugene, USA</aff><aff id="r100024a2">
+<label>2</label>Department of Philosophy, University of Central Florida, Orlando, Florida, USA</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>13</day><month>11</month><year>2024</year></pub-date><permissions><copyright-statement>Copyright: &#x000a9; 2024 Morar N and Beever J</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport100024" xlink:href="10.12688/wellcomeopenres.21391.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>Sudenkaarne and Sariola&#x02019;s open letter contributes to a growing community of thought pushing the boundaries of individuality and moral consider ability; two concepts readily at play in their work if not only implicitly. While we are particularly supportive of such a project that invites us to rethink central concepts in social and political philosophy and in bioethics, we wanted in our review to put forward some challenges that remain unaddressed in their open letter. We certainly share an orientation with the authors to challenge traditional frameworks in bioethics, and the additional attention to our concerns would only strengthen their views.</p><p> First, Sudenkaarne and Sariola articulate the need to follow the historical efforts to dismantle the ontological and ethical categories that have served the oppression of vulnerable populations &#x02013; human and non-human both and together. The &#x0201c;radical reorientation of human exceptionalism&#x0201d; (4) toward &#x0201c;more-than-human orientations&#x0201d; (ibid) they articulate include remarkably broad networks that focus not only the natural ecologies but also &#x0201c;spectral realms of ancestors, spirits, ghosts, and deities&#x0201d; (5). This effort to overcome
+<italic toggle="yes">both </italic>the old doctrine of human separability (namely, that humans would be divorced from their environments and should be understood thanks to their inherent properties)
+<italic toggle="yes">and </italic>the view of human exceptionalism are laudable. They certainly inscribe themselves alongside the effort of a number of environmental ethics thinkers and find an important echo in that literature. However, as we have pointed out elsewhere (Beever &#x00026; Morar 2016, 2016b, ff.), this &#x02018;contentious&#x02019; broadening of moral considerability is only possible with a reorientation of our ontologies, and maybe only then as a result a rethinking of our moral theories. In particular, it is worth noting that while
+<italic toggle="yes">ontologies </italic>do inform conceptions of normativity (e.g. think here of the importance of &#x02018;individual selves&#x02019; for a deontological framework), they do not
+<italic toggle="yes">generate solely on their own grounds </italic>the content (or the markers) of normativity. The content or the markers of normativity require an additional &#x02013; ethical &#x02013; premise, which requires additional explanation and its own grounds for justification. So, to rethink bioethics demands rethinking of what
+<italic toggle="yes">morally</italic> matters ultimately.</p><p> Second, the authors do voice this tension between ethics and ontology: that limitations in bioethics are in part a result of core metaphysical beliefs core to our Western worldview, including the doctrine of separability (Beever &#x00026; Morar forthcoming) and the doctrine of exceptionalism (Gruen 2003). Yet thinking more-than-human while at the same time not abandoning or exceeding the human
+<italic toggle="yes">per se</italic> (5) and &#x0201c;seeking to keep existing social justice issues between groups of people in the same framework&#x0201d; (4) is contraindicative if not contradictory. Once we endorse a microbial view of life, including of human organisms and of their intrinsic porosity, and we decide to let go of central categories of &#x02018;individuality and selves&#x02019;, one would need to recognize immediately the &#x02018;danger&#x02019; of dissolving the very taxonomy that has produced our moral protections. It could be the case that thinking with microbes invites us to question the very notion of &#x02018;autonomy,&#x02019; since there are no such things as individual-atomistic-moral agents. But, one cannot engage in this effort while only alluding and not taking seriously the dark side to the interdependence (Beever 2020, Beever 2022) as the history of bioethics has shown us.</p><p> Third, their ideas connote a world as being one built of interconnections (
+<italic toggle="yes">our term</italic>), including their justices and vulnerabilities (5). Through their discussion of the COVID-19 pandemic and references to the One Health paradigm, they point to the urgency of finding &#x0201c;new ways of living&#x02026;with each other, with other animals, plants, and our microbial ancestors&#x0201d; (4). Our earlier work on bioethics, public health ethics, and microbial life specifically articulated the centrality of relationality to rethinking bioethics, arguing that the science of microbial ecology identifies spaces between interconnection and interdependence or the distinction between being shaped by ecological relations and being made up of them (Morar &#x00026; Bohannan 2019, Beever &#x00026; Morar 2018, 2016, 2016b, Beever &#x00026; Whitehouse 2017). More importantly,
+<italic toggle="yes">what morally matters </italic>implies identifying
+<italic toggle="yes">either </italic>novel units of care
+<italic toggle="yes">or</italic>
+<italic toggle="yes">new ecologies/ networks </italic>of relationality that have a moral binding on us. If microbes teach us that we have wrongly drawn the contours of &#x02018;individuality&#x02019; or that we have overly focused on individuals at the expense of communities or ecological networks, it still behooves us to provide an argument as to
+<italic toggle="yes">how </italic>&#x02018;doing ethics with microbes&#x02019; deals with new contours for moral subjects or with new forms of relationality.</p><p> Indeed, there are many ways in which we have been working as strong allies in arguing and generating further support for Sudenkaarne and Sariola&#x02019;s open letter. In contrast, we have always tried to separate the
+<italic toggle="yes">declarative </italic>from the
+<italic toggle="yes">critical reasoned, </italic>with the hopes that one understands both the important challenges that a microbial view raises, while not overestimating their input or their normative force. The amazing work of Maureen O&#x02019;Malley (2014), especially in its critical form of the hype around microbiome research, stands as a litmus test to any future argument that assumes to easily a definitive entanglement of the descriptive and of the normative. Certainly, we do believe that notions of the &#x02018;self&#x02019;, &#x02018;individual&#x02019;, &#x02018;organism&#x02019;, &#x02018;species&#x02019;, &#x02018;genotype&#x02019;, etc. are fully called into question but we are weary of reading too rapidly a loaded normative response whose positive input would be read off this new world view.</p><p> Probably, this is the place at which we part ways with the authors, given the ways in which their open letter almost too easily blends descriptive flavoring with prescriptive intentions, while not sufficiently arguing for the
+<italic toggle="yes">specific </italic>reasons that are required for each statement (of fact or of values). As David Hume would say, one cannot derive an ought from an is, so the challenge remains that
+<italic toggle="yes">once </italic>we alter our metaphysical views, can we shift gear to
+<italic toggle="yes">bioethics </italic>while being mindful of not committing some kind of fallacy?</p><p> For this reason, in order to avoid potential missteps in this (and in any future) line of argument, we believe that such work requires:</p><p> 1. Reevaluating the importance of the interconnectedness-interdependence distinction, and</p><p> 2. Articulating a novel position within the amalgam of animal, environmental, and posthuman feminist ethics that genuinely question the nature of exceptionalism, not only in its anthropocentric form, but also within the proposed &#x02018;vulnerability&#x02019; framework. While we are not convinced those steps demand a new moral theory(ies) as the authors claim (Sudenkaarne 2023, Sudenkaarne &#x00026; Butcher 2024), we truly welcome their effort. In our view, we might rather argue for a shift in metaethics &#x02013; the nature of the good and right, and to whom or what it applies. Indeed, this has been the work for decades of the feminist, post humanist, and queer scholars they cite in and around animal ethics, feminist ethics, and the radical ontologies with which they engage. While critical, far from us to give up on what Sudenkaarne and Sariola do offer us an enticing normative recipe here.</p><p>Does the article adequately reference differing views and opinions?</p><p>Yes</p><p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p><p>Yes</p><p>Is the Open Letter written in accessible language?</p><p>Yes</p><p>Where applicable, are recommendations and next steps explained clearly for others to follow?</p><p>Yes</p><p>Is the rationale for the Open Letter provided in sufficient detail?</p><p>Yes</p><p>Reviewer Expertise:</p><p>bioethics, philosophy of microbiology</p><p>We confirm that we have read this submission and believe that we have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body><back><ref-list><title>References</title><ref id="rep-ref-100024-1"><label>1</label><mixed-citation publication-type="other">
+<article-title>Philosophy, Film, and the Dark Side of Interdependence; Beever, J. (Ed)</article-title>.
+<source>
+<italic toggle="yes">Rowman &#x00026; Littlefield; Lexington Books</italic>
+</source>.<year>2020</year>;</mixed-citation></ref><ref id="rep-ref-100024-2"><label>2</label><mixed-citation publication-type="other">
+<article-title>The Horror of Relations; Beever, J</article-title>.
+<source>
+<italic toggle="yes">Philosophy Now</italic>
+</source>.<year>2022;volume 152</year>;
+<ext-link xlink:href="https://philosophynow.org/issues/152/The_Horror_of_Relations" ext-link-type="uri">Reference source</ext-link>
+</mixed-citation></ref><ref id="rep-ref-100024-3"><label>3</label><mixed-citation publication-type="other">
+<article-title>When the Outside Becomes Inside: Causal and Constitutive Environmental Relations in Bioethics; Beever, J. &#x00026; Morar, N; (Ed. C. Richie); forthcoming.</article-title>
+<source>
+<italic toggle="yes">Oxford Handbook of Environmental Bioethics</italic>
+</source>.</mixed-citation></ref><ref id="rep-ref-100024-4"><label>4</label><mixed-citation publication-type="other">
+<article-title>Bioethics and the Challenge of the Ecological Individual; Beever, J. &#x00026; Morar, N</article-title>.
+<source>
+<italic toggle="yes">Environmental Philosophy</italic>
+</source>.<year>2016.;13(2):215-238</year>;</mixed-citation></ref><ref id="rep-ref-100024-5"><label>5</label><mixed-citation publication-type="other">
+<article-title>The Porosity of Autonomy: Social and Biological Constitution of the Individual in Biomedicine; Beever, J&#x00026;Morar, N</article-title>.
+<source>
+<italic toggle="yes">American Journal of Bioethics</italic>
+</source>.<year>2016;16(2): 34-45</year>;</mixed-citation></ref><ref id="rep-ref-100024-6"><label>6</label><mixed-citation publication-type="other">
+<article-title>The Epistemic and Ethical Onus of &#x02018;One Health&#x02019;; Beever, J. &#x00026; Morar, N</article-title>.
+<source>
+<italic toggle="yes">Bioethics</italic>
+</source>.<year>2018,33(1): 185-194</year>;</mixed-citation></ref><ref id="rep-ref-100024-7"><label>7</label><mixed-citation publication-type="other">
+<article-title>The Ecosystem of Bioethics: Building Bridges to Public Health; Beever, J. &#x00026; Whitehouse, P.J.</article-title>
+<source>
+<italic toggle="yes">Jahr: European Journal of Bioethics</italic>
+</source>.<year>2017;8/2(16): 227-243</year>;</mixed-citation></ref><ref id="rep-ref-100024-8"><label>8</label><mixed-citation publication-type="other">
+<article-title>The Moral Status of Animals;Gruen, L</article-title>.
+<source>
+<italic toggle="yes">Stanford Encyclopedia of Philosophy</italic>
+</source>.
+<ext-link xlink:href="https://plato.stanford.edu/entries/moral-animal/" ext-link-type="uri">Reference source</ext-link>
+</mixed-citation></ref><ref id="rep-ref-100024-9"><label>9</label><mixed-citation publication-type="other">
+<article-title>Conceptual Ecology of the Human Microbiome; Morar, N. &#x00026; Bohannan, B.J.M</article-title>.
+<source>
+<italic toggle="yes">Quarterly Review of Biology</italic>
+</source>.<year>. 2019;94:2</year>;
+<pub-id pub-id-type="doi">10.1086/703582</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100024-10"><label>10</label><mixed-citation publication-type="journal">
+:
+<article-title>Philosophy of Microbiology</article-title>.<year>2014</year>;
+<elocation-id>10.1017/CBO9781139162524</elocation-id>
+<pub-id pub-id-type="doi">10.1017/CBO9781139162524</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100024-11"><label>11</label><mixed-citation publication-type="journal">
+:
+<article-title>From super-wicked problems to more-than-human justice: new bioethical frameworks for antimicrobial resistance and climate emergency.</article-title>
+<source>
+<italic toggle="yes">Monash Bioeth Rev</italic>
+</source>.<year>2024</year>;
+<elocation-id>10.1007/s40592-024-00197-z</elocation-id>
+<pub-id pub-id-type="doi">10.1007/s40592-024-00197-z</pub-id>
+<?supplied-pmid 38990507?><pub-id pub-id-type="pmid">38990507</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100024-12"><label>12</label><mixed-citation publication-type="other">
+<article-title>Toward a queer, feminist, posthuman analysis of AMR and bioethics; Sudenkaarne T</article-title>.
+<source>
+<italic toggle="yes">The Polyphony</italic>
+</source>.<year>2023</year>;
+<ext-link xlink:href="https://thepolyphony.org/2023/10/11/queer-feminist-posthuman-amr/?utm_source" ext-link-type="uri">Reference source</ext-link>
+</mixed-citation></ref></ref-list></back></sub-article><sub-article article-type="reviewer-report" id="report101073"><front-stub><article-id pub-id-type="doi">10.21956/wellcomeopenres.23656.r101073</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Shildrick</surname><given-names>Margrit</given-names></name><xref rid="r101073a1" ref-type="aff">1</xref><role>Referee</role></contrib><aff id="r101073a1">
+<label>1</label>Stockholm University, Stockholm, Sweden</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>9</day><month>10</month><year>2024</year></pub-date><permissions><copyright-statement>Copyright: &#x000a9; 2024 Shildrick M</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport101073" xlink:href="10.12688/wellcomeopenres.21391.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve-with-reservations</meta-value></custom-meta></custom-meta-group></front-stub><body><p>As a biophilosopher and posthumanist bioethicist with an abiding interest in microbial life, I read the Open Letter with great interest. I already know something of the work of CSSM and welcome the initiatives that they have developed. I&#x02019;m not entirely sure of the status of an Open Letter or of its intended audience but I hope my comments will be of some use.</p><p> The authors set an ambitious aim of broadening the reach of bioethics to take into consideration the more-than-human by developing a posthumanist, queer and feminist critique that might rewrite the terms of justice. Part of their intention is to focus on the concept of layered vulnerability, which is a good starting point, and to bring that approach to the consideration AMR in particular, where injustice and differential vulnerabilities are plain to see. A secondary aim is give a sense of the wider work of CSSM, although this gets very little play after the introduction. The couple of references to slime mould were almost superfluous without further explanation.</p><p> Right away I want to say that there is a lot of potential in exploring this area and I hope that the authors will not be disheartened by my reservations. One of the most meaningful questions for me was how to elucidate an ongoing social justice between people in the same frame as rejecting the anthropocentrism that that implies. Perhaps the authors might try to think of it in successive registers (even layers?) rather than trying to come up with an all inclusive framework. I was somewhat alarmed right near the beginning when the conceptual analysis promised to bring together &#x02018;bioethical principalism, analytical philosophy, feminist thought and queer theory&#x02019;, and &#x02018;posthuman framework for justice&#x02019;. I struggle to see how principalism and analytic philosophy are really going to work in that context. In my understanding the whole point of posthumanism is to provide a critique of those approaches which rest of predetermined structures and rational analysis. It would be excellent if the authors could pull this off, but I fear it may be an impossibility. Microbial life simply doesn&#x02019;t work like that.</p><p> My feeling is that the authors are attempting to use philosophy in a way that simply highlights the redundancy of normative forms rather than opens up new ways of thinking. If we want to take more-than-human life seriously, it seems important not to rely on fully humanist modes of analysis. There is certainly a paradigm shift to be made but it&#x02019;s not really happening when slime mould is characterised as being without a central order &#x02013; an important observation - &#x02018;but not without leadership and responsibility&#x02019;. What could this possibly mean? &#x000a0;On the other hand, I do like the idea of a more-than human justice orientation which replaces population thinking with a layered understanding of vulnerability. The problem is that going back to Rawls (not to mention those old favourites Beauchamp and Childress) for example to underpin what is meant by justice rather vitiates the effect. I&#x02019;d hope that an adequate posthumanist justice was far more flexible.</p><p> I don&#x02019;t know how much it matters for a project that is not primarily aimed at philosophers, but I&#x02019;d also welcome some distinction being made between ethics and morals, rather than using the 2 terms interchangeably. The same lack of definition means that the claim to a queer perspective is never really explained, although I agree with the authors that it could be a very appropriate way of reconfiguring how we think about microbial life.</p><p> The question: &#x02018;is species an oppressive category or in fact needed to ground subversive politics&#x02019; is intriguing&#x02019; and one I hope the authors will constantly ask themselves and their readers. The dimensions of AMR are a wonderful platform for taking this further. Although it looks at microbes in a very different context, the authors might be interested in looking at a couple of my own articles on viruses.
+<list list-type="bullet"><list-item><p>Entangling Viral Encounters, Immunity and the Gift&#x02019;,
+<italic toggle="yes">Interconnections: Journal of Posthumanism </italic>(2022)
+1,
+2
+<italic toggle="yes">: </italic>57-72.</p></list-item><list-item><p>COVID-19:n biofilosofiaa ja-politiikkaa: Pandemian uudelleenarviointi Roberto Espositon immuniteettiparadigman valossa&#x02019;, Finnish text only in
+<italic toggle="yes">Niin &#x00026; n&#x000e4;in</italic> (2022) 2: 87-95. Online at
+<underline>
+<ext-link xlink:href="https://netn.fi/sites/www.netn.fi/files/netn222-18.pdf" ext-link-type="uri">https://netn.fi/sites/www.netn.fi/files/netn222-18.pdf</ext-link>
+</underline> (This Finnish version is shorter but deals with similar issues).</p></list-item></list>
+</p><p> One final point: the Open Letter is very hard to read due to the grammar mistakes which sometimes obscured what point was being made. When the authors take this further in terms of publications, I&#x02019;d recommend some serious language editing.</p><p>Does the article adequately reference differing views and opinions?</p><p>Partly</p><p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p><p>Yes</p><p>Is the Open Letter written in accessible language?</p><p>Partly</p><p>Where applicable, are recommendations and next steps explained clearly for others to follow?</p><p>Partly</p><p>Is the rationale for the Open Letter provided in sufficient detail?</p><p>Partly</p><p>Reviewer Expertise:</p><p>biophilosophy and posthumanist bioethics with a current focus on microbial life</p><p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p></body><back><ref-list><title>References</title><ref id="rep-ref-101073-1"><label>1</label><mixed-citation publication-type="other">
+<article-title>Entangling Viral Encounters, Immunity and the Gift</article-title>.
+<source>
+<italic toggle="yes">Interconnections: Journal of Posthumanism</italic>
+</source>.<year>(2022) 1, 2: 57-72.</year>;</mixed-citation></ref><ref id="rep-ref-101073-2"><label>2</label><mixed-citation publication-type="other">
+<article-title>COVID-19:n biofilosofiaa ja-politiikkaa: Pandemian uudelleenarviointi Roberto Espositon immuniteettiparadigman valossa</article-title>.
+<source>
+<italic toggle="yes">Niin &#x00026; N&#x000e4;in</italic>
+</source>.<year>(2022) 2: 87-95</year>;
+<ext-link xlink:href="https://netn.fi/sites/www.netn.fi/files/netn222-18.pdf" ext-link-type="uri">Reference source</ext-link>
+</mixed-citation></ref></ref-list></back></sub-article><sub-article article-type="reviewer-report" id="report101067"><front-stub><article-id pub-id-type="doi">10.21956/wellcomeopenres.23656.r101067</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Mayes</surname><given-names>Christopher</given-names></name><xref rid="r101067a1" ref-type="aff">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-2674-6225</contrib-id></contrib><aff id="r101067a1">
+<label>1</label>Deakin University, Waurn Ponds, Australia</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>9</day><month>10</month><year>2024</year></pub-date><permissions><copyright-statement>Copyright: &#x000a9; 2024 Mayes C</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport101067" xlink:href="10.12688/wellcomeopenres.21391.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>The letter aims to bring social scientific work on microbes into conversation with applied ethics/moral theory, especially a more expansive understanding of bioethics that includes the socio-political-environmental situatedness of individuals and health.&#x000a0;</p><p> The letter builds on Sudenkaarne&#x02019;s conference presentation at the Oxford Global Health and Bioethics 2023 - which I did not attend and have not read, but used AMR to show the limits of bioethical thinking and to argue for the importance of "queer feminist posthuman framework".&#x000a0;</p><p> In this letter&#x000a0;Sudenkaarne and Sariola&#x000a0;aim to expand/build on&#x000a0;their previous approach by developing a more-than-human-justice approach. The authors make a clear and compelling case that a "more-than-human justice orientation demands development of new moral theories". This is particularly the case in bioethics where there is an overreliance on narrow Anglo-American (aka Rawlsian) conceptions of justice, as the authors point out.</p><p> I am hesitant to point to my own work in a review, but there was a recent target article by Keisha Ray and Jane Cooper in the AJOB and subsequent responses that touches on some of the limitations of current bioethical conceptions of justice in relation to the environment and more-than-human world that the authors discuss. The response I co-wrote with Nicolae Morar engages with some of the limitations of utilising Beauchamp and Childress's anthropocentric conception of justice to attend to environmental and microbial injustices.&#x000a0;Mayes et.al (2024
+<ext-link xlink:href="https://www.tandfonline.com/doi/full/10.1080/15265161.2024.2303135" ext-link-type="uri">
+<sup>1</sup>
+</ext-link>)</p><p>Does the article adequately reference differing views and opinions?</p><p>Yes</p><p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p><p>Yes</p><p>Is the Open Letter written in accessible language?</p><p>Yes</p><p>Where applicable, are recommendations and next steps explained clearly for others to follow?</p><p>Yes</p><p>Is the rationale for the Open Letter provided in sufficient detail?</p><p>Yes</p><p>Reviewer Expertise:</p><p>moral philosophy, bioethics, social theory.</p><p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body><back><ref-list><title>References</title><ref id="rep-ref-101067-1"><label>1</label><mixed-citation publication-type="journal">
+:
+<article-title>Environmental Injustices within Us: The Case of the Human Microbiome and the Need for More Creative Bioethics.</article-title>
+<source>
+<italic toggle="yes">Am J Bioeth</italic>
+</source>.<year>2024</year>;<volume>24</volume>(<issue>3</issue>) :
+<elocation-id>10.1080/15265161.2024.2303135</elocation-id>
+<fpage>67</fpage>-<lpage>70</lpage>
+<pub-id pub-id-type="doi">10.1080/15265161.2024.2303135</pub-id>
+<?supplied-pmid 38394022?><pub-id pub-id-type="pmid">38394022</pub-id>
+</mixed-citation></ref></ref-list></back></sub-article><sub-article article-type="reviewer-report" id="report100019"><front-stub><article-id pub-id-type="doi">10.21956/wellcomeopenres.23656.r100019</article-id><title-group><article-title>Reviewer response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Bradshaw</surname><given-names>Aaron</given-names></name><xref rid="r100019a1" ref-type="aff">1</xref><role>Referee</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1405-2288</contrib-id></contrib><aff id="r100019a1">
+<label>1</label>Humboldt University of Berlin, Berlin, Germany</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>8</day><month>10</month><year>2024</year></pub-date><permissions><copyright-statement>Copyright: &#x000a9; 2024 Bradshaw A</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><related-article related-article-type="peer-reviewed-article" ext-link-type="doi" id="relatedArticleReport100019" xlink:href="10.12688/wellcomeopenres.21391.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve-with-reservations</meta-value></custom-meta></custom-meta-group></front-stub><body><p>
+<bold>
+<underline>Overview/summary</underline>
+</bold>
+</p><p> This Open Letter has two key themes: 1) an introduction to the Wellcome-funded Centre for the Social Study of Microbes (CSSM) at the University of Helsinki in Finland, and 2) an argument for a posthuman, queer, and feminist (bio)ethics. The second theme is most clearly spelled out in the author&#x02019;s Plain Language Summary: &#x0201c;[This] queer feminist posthuman framework for bioethics offers a platform to consider injustices caused by human action to environments and more-than-human animals and injustices between groups of people in the same framework.&#x0201d; Queer, feminist, and posthuman is therefore offered as an analytical triad that, when brought into conversation with normative bioethics, can more adequately address injustices and vulnerabilities that are disproportionately experienced by people based on the categories of gender and sexuality, and between the human/nonhuman divide. There are important connections (or intersections) between these categories which the Letter also touches on.&#x000a0;</p><p> In situating their bioethical framework in the context of human-microbial entanglements, the authors note that the complex relations between humans, microbes, animals, and environments &#x0201c;require new theoretical and methodological approaches.&#x0201d; They identify antimicrobial resistance (AMR) as a particularly urgent manifestation of this: &#x0201c;In this letter, the focus is on the need for a new framework and the structure of this framework to grapple with ethical questions of AMR.&#x0201d; Hence, this framework is both urged by the socio-material reality and complexity of AMR and is offered as an approach to address it on an ethical basis. Specifically, AMR is identified as a dilemma for which current ethical frameworks based on liability, utilitarian, and fundamentally human-centric approaches are sorely lacking. The situation created by humanist and masculinist ethics is framed as a &#x0201c;crisis of justice&#x0201d;, a claim backed up by reference to how the brunt of AMR is unevenly distributed and disproportionately experienced by poor, racialized, and queer groups. To this, and as this Open Letter argues, we might consider other-than-human organisms, multispecies networks, and geophysical environments as subjects worthy of moral consideration, as relational systems both affecting and affected by AMR. So far, animals and environments have generally been understood solely as vectors and reservoirs for AMR (Helliwell et al., 2020), and not as possible subjects of (in)justice, even within a One Health framework (see Ca&#x000f1;ada et al., 2022). The exploitation of other-than-human agents and physical environments tends to go hand in hand with the oppression and marginalisation of certain human groups (and also the construction of those groups as such). Both follow logically from a moral theory that is centred on the (white, male, Western) human subject, a hierarchical vision of human and nonhuman life, and an ontology of separate, bounded, and autonomous entities. A framework that includes marginalised groups of humans and non-humans - what we might call &#x02018;more-than-human intersectionality&#x02019; - in the same moral landscape therefore seems to be both a necessary outcome of posthuman and feminist ontologies as well as its optimistic horizon.</p><p> I would like to point out that my expertise does not lie within queer theory, intersectional theory, or feminist theory. Nor am I a bioethicist. However, I have research interests in the social study of microbes, socio-microbial relations, and in developing new interdisciplinary methods, models, and theories for engaging with microbial communities and ecologies. As such, this Letter is of scholarly/research interest to me and it is great to see so many different approaches being applied to our understanding of human-microbial relations. Even more great is the aim to translate these theories into practical applications with possible policy implications on the horizon.&#x000a0;</p><p>
+<underline>
+<bold>Suggestions for revision</bold>
+</underline>
+</p><p> Although I am highly sympathetic to and supportive of the authors&#x02019; scholarly and ethical aims, my main concern is that it is challenging to follow the development of the argument and its overall conclusions as presented here. This could partly be a reflection of my expertise and of different authors&#x02019; writing styles, but I also think that many of the sentences are structurally/grammatically complex and contain highly technical language that isn&#x02019;t properly introduced/explained. A closer attention to the research context is also necessary. On this basis, I think this Letter could be significantly improved by attention to three key areas: 1) Clearer statement of the aims; 2) Clarification and integration of key concepts and the development of the argument; and 3) Contextualisation of the this specific piece of work within the much wider field of microbe studies (and the work of the CSSM). Although what I have written below is relatively extensive and may seem critical, I think that attention to these details could draw out the excellent arguments that are at points somewhat buried in the piece.&#x000a0;</p><p>
+<bold>1) Introduction, aims, and context</bold>
+</p><p> From the introduction two (or maybe three) explicit aims are identified:
+<list list-type="bullet"><list-item><p>To introduce both a theoretical and practical initiative that seeks to further ground solidarity between justice movements while simultaneously promoting a more-than-human-justice orientation for cosmopolitical flourishing;</p></list-item><list-item><p>Offer this framework as relevant to a broader bioethical, social scientists working on human-microbial relations [
+<italic toggle="yes">sic</italic>], and philosophical research community;&#x000a0;</p></list-item><list-item><p>(and for grounding policy).</p></list-item></list> And another implicit aim:&#x000a0;
+<list list-type="bullet"><list-item><p>To introduce the CSSM as the context for this research and a hub for interdisciplinary social scientific research into human-microbial relations.</p></list-item></list> To adequately address four aims in such a short article is a tall order. Moreover, the first aim is formulated in complex language and deploys technical concepts that have rich scholarly genealogies that would require explicit introduction/discussion (such as &#x02018;cosmopolitical flourishing&#x02019;). In that sense, the article would benefit from a clearer articulation of the aims. I would suggest distilling the aim(s) in simple, straightforward language. What do the authors want us, as readers, to take away as the key aims of the letter?&#x000a0;&#x000a0;</p><p> Secondly, the given rationale for the letter is to &#x0201c;discuss social scientific work with microbes from an applied ethics and moral theoretical point of view, which is a part of a philosophical approach to bioethics.&#x0201d; Yet, the specific focus in this article is AMR and not social scientific with microbes in general. This subsumes a significant amount of diversity with the field of microbe studies (see points below). The rationale appears to be more specific than what is offered here (for instance, the failure of anthropocentric ethical frameworks in responding to the more-than-human and intersectional injustices creating and created by AMR) and therefore needs spelling out more clearly.&#x000a0;</p><p> In introducing their (bio)ethical framework, the authors draw heavily on Sudenkaarne and Butcher&#x02019;s recent (2024) publication in Monash Bioethics Review where the framework is developed in greater detail.* This research was also presented at the Oxford Global Health and Bioethics conference and is discussed in other publications and blogs. In that context, I would encourage the authors to tease out what specific contribution this Letter makes in addition to these already published works. I am not suggesting there is not one, and I understand that the contribution is related to the format of an Open Letter as a forum for &#x0201c;discussing policies relevant to a broad research community, presenting guidelines or white papers, or announcing new initiatives&#x0201d; (Wellcome Open Research, n.d.). That particular orientation needs to be put more up-front.&#x000a0;</p><p> Moreover, I would also suggest that the introduction could be used to more tightly and precisely convey the central concepts, overall argument, conclusions, and future directions offered in this Letter (see point below).</p><p>
+<sup>* The following sentence should be in quotation marks, as it is lifted from Sudenkaarne and Butcher, 2024: &#x0201c;by more than, we not only wish to imply moral significance in the ecocentric and biocentric sense but also to include, in a network theory rather than confessional understanding, spectral realms of ancestors, spirits, ghosts and deities that are crucial actors in several global sense-making systems.&#x0201d; As does the following sentence: &#x0201c;what kinds of subjects can we imagine as morally significant? How are multispecies relations managed without prioritizing human ways of being? How are intersecting layers of vulnerabilities minimized between groups of people? Is species an oppressive category or in fact needed to ground subversive politics? How to move from human-oriented use of technology to solutions benefitting the entire global ecosystem?&#x0201d;&#x000a0;</sup>
+</p><p>
+<bold>2) Key concepts and development of the argument</bold>
+</p><p> The arguments being made in this article are quite complex and draw on a wide range of scholarly traditions. This might be considered one of the article&#x02019;s key strengths as well as one of its key weaknesses. It is challenging to integrate concepts from analytical philosophy/bioethics, queer studies, microbial ecology, global health and posthuman thought into a coherent whole. Although the authors have made good progress in that direction, being more precise and less assuming on the part of the reader would improve the article significantly.&#x000a0;</p><p> Important concepts from bioethics such as &#x02018;vulnerability&#x02019; and &#x02018;justice&#x02019;, whilst critical for grounding the article&#x02019;s aims and arguments, are not clearly introduced at the right time. Although this might be less of a concern for a specialised readership, the technical meanings of these concepts - and particularly how they are being used in this piece - might be lost on researchers from other fields who would otherwise be interested in the more-than-human dimensions of AMR. As someone who doesn&#x02019;t have a background in philosophy or ethics, I found myself having to dig deep to understand some of the arguments being made. For example, what does it mean to &#x02018;establish/develop layers of vulnerability&#x02019;? How would this apply to nonhuman life? Similarly, &#x02018;justice&#x02019; is defined/introduced but not until the last section whilst it is conceptually leveraged in earlier sections.</p><p> Another important concept is &#x02018;framework&#x02019; or &#x02018;framework-thinking&#x02019;. The definition, scope, and value of a &#x02018;framework&#x02019; are implied by the article but this is not made explicit. For instance, how do the concepts of justice and vulnerability fit into the framework being offered here? What is the point of a framework with respect to normative ethics? Is the idea that it can be used to make decisions based on a particular scenario in an almost formulaic way, or is it more fluid? Is the framework offered here a modulation of bioethical principlism, in which the principles are extended through the intersectional and more-than-human dimensions, or does its articulation critique the (anthropocentric) ground of this framework and offer a more radical reorientation?</p><p> One suggestion might be to introduce/discuss these concepts early on. What are the stakes in terms of AMR?
+<italic toggle="yes">Why </italic>a feminist, queer, and posthuman framework? What makes it feminist, queer, and posthuman in an explicit sense? What do current frameworks lack with respect to addressing vulnerability and justice (of specific groups and lifeforms)? How does the new framework address this in practice? In sum, what is the overall argument? I would suggest there is too much assumption on the part of the reader about the state of AMR, its ethical landscapes, and what the key issues are. Even in the plain language summary we learn that &#x0201c;the complex relations between microbes&#x02026;require new ways to think about these issues and aims to resolve them.&#x0201d; But why do they? What are the issues being responded to here? By working on the structure of the article and really focusing to clarify the introduction, the answers to these other questions should fall into place.</p><p> Finally, given that this is an Open Letter, it would be great to see some clear examples of where the proposed framework might be applied and what the outcomes might be (i.e., where it might guide practice down different routes). This is touched on in the last section, but again it assumes a lot on the reader&#x02019;s part. The strong emphasis on 'more-than-human' and 'multispecies' also suggests a need to provide examples that include other-than-human actors and their flourishing (the current example is focused on humans). If this ethical framework is to guide policy at different levels of health, environment, and ecology, then these examples/empirical cases need to be articulated in more simple and direct language.&#x000a0;</p><p>
+<bold>3) CSSM and the field of microbe studies</bold>
+</p><p> An introduction to, and discussion of, the CSSM is an important component of this Letter, particularly as a Wellcome funded research hub and the environment for the development of the research. However, there is something of a disconnect between the Letter&#x02019;s formulation of a relatively specific bioethical framework for AMR and the wider research environment of the CSSM. This is most evident in the plain language summary where the logical connection between the two is simply that the former &#x0201c;has been inspired by the collective work&#x0201d; at the latter. This is also evident in the main abstract and second section in the main body where points about sensory approaches, ethnography, fermentation, urban gardens etc. feel awkward and poorly integrated with what is primarily on offer here. The discussion of the CSSM&#x02019;s work is relatively generic and doesn&#x02019;t contain much more analysis than what we can learn from the Hub&#x02019;s website. The research environment of the CSSM appears to be very vibrant and I would encourage the discussion here to do more justice to that.&#x000a0;</p><p> There also seems to be something more specific about the relationship between the CSSM and the ethics developed here that can be teased out more directly in this section. I would almost like to suggest that the CSSM itself could be seen as a testing ground not only for the theoretical development of the framework discussed in the article, but also for its practical application. Indeed, this is implicit in the CSSM sections&#x02019; last paragraph, but here the work of the CSSM is discussed in relation to other concepts (e.g., unruliness) and theories (flat ontology) although we do see a reference to &#x02018;practical ethics&#x02019; as well. In a similar way, the metaphor of the slime mold as a model for the organisation of the CSSM is provocative but is not well-developed here. Although a more thorough analysis is referenced, it is difficult to fully grasp what is being offered. For instance, the biological and micro-scalar mechanisms of microbiomes also provide fruitful metaphors for exploring ethics, relationality, and sociality (for e.g., see Young, 2020). So why is the slime mold being upheld as an exemplar of non-hierarchical organisation, rather than these other processes? What is it about microbial agency specifically, that poses a challenge to practical ethics? I can sense a link between the &#x0201c;non-hierarchical&#x0201d; organisation of the CSSM, the article&#x02019;s model of a posthuman ethics, and something about the complexity of how microbes are affecting and being affected by &#x02018;human&#x02019; worlds. Yet, this link remains somewhat implicit and could be drawn out more. Doing so will benefit the coherence of the article and the integration of its different aims/rationales.</p><p> Finally, the field of microbe studies is diverse and spans a significant range of disciplinary formations concerned with various relations, environments, forms of governance etc. The article does not sufficiently engage with the wider context of microbe studies. The social study of microbes -
+<italic toggle="yes">named as such</italic> - is an emerging field of interdisciplinary inquiry, but the field has important precursors and contemporaneous strands in, for example, medical history (Luckin, 1977; Hardy 1984), environmental history (Clifford, 2016), urban theory (e.g., Gandy, 2006, 2023), feminist STS (Hird, 2010; see Hird&#x02019;s other work, too), human geography (e.g., Lorimer et al., 2020) social theory (Voelkner, 2019, Ironstone, 2020), multispecies studies (Lorimer, 2016) and posthuman theory (Herbrechter, 2018 Hird and Yusoff, 2016; see also the table in my recent publication, Bradshaw, 2024). This is only a fraction of the social scientific research into microorganisms and human-microbial relations. Hence, there is a concern that the diversity of microbe studies is potentially obscured in this article because of its focus on antimicrobial resistance and pathogenic microorganisms. I am not suggesting that the authors attempt a review of the field (which would be impossible) but acknowledge its existence. It is always challenging to demarcate a field of inquiry based on subject matter alone, especially when so many disciplines have a stake in it.</p><p>Does the article adequately reference differing views and opinions?</p><p>Partly</p><p>Are all factual statements correct, and are statements and arguments made adequately supported by citations?</p><p>Partly</p><p>Is the Open Letter written in accessible language?</p><p>Partly</p><p>Where applicable, are recommendations and next steps explained clearly for others to follow?</p><p>Partly</p><p>Is the rationale for the Open Letter provided in sufficient detail?</p><p>Partly</p><p>Reviewer Expertise:</p><p>Human-microbial relations; more-than-human geography; microbial evolution; anthropogenic environments; urban environments; pollution; interdisciplinary methods; visual methods.</p><p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p></body><back><ref-list><title>References</title><ref id="rep-ref-100019-1"><label>1</label><mixed-citation publication-type="journal">
+:
+<article-title>The invisible city: The mundane biogeographies of urban microbial ecologies</article-title>.
+<source>
+<italic toggle="yes">Geo: Geography and Environment</italic>
+</source>.<year>2024</year>;<volume>11</volume>(<issue>2</issue>) :
+<elocation-id>10.1002/geo2.148</elocation-id>
+<pub-id pub-id-type="doi">10.1002/geo2.148</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100019-2"><label>2</label><mixed-citation publication-type="other">
+<article-title>West ham and the river lea: A social and environmental history of londons industrialized marshland; Clifford J</article-title>.<year>(2017);1839&#x02013;1914; Vancouver BC; University of British Columbia Press</year>;</mixed-citation></ref><ref id="rep-ref-100019-3"><label>3</label><mixed-citation publication-type="other">
+<article-title>The bacteriological city and its discontents; Gandy, M</article-title>.
+<source>
+<italic toggle="yes">Historical Geography</italic>
+</source>.<year>(2006);34(6);14&#x02013;25.</year>;</mixed-citation></ref><ref id="rep-ref-100019-4"><label>4</label><mixed-citation publication-type="journal">
+:
+<article-title>Zoonotic urbanisation: multispecies urbanism and the rescaling of urban epidemiology</article-title>.
+<source>
+<italic toggle="yes">Urban Studies</italic>
+</source>.<year>2023</year>;<volume>60</volume>(<issue>13</issue>) :
+<elocation-id>10.1177/00420980231154802</elocation-id>
+<fpage>2529</fpage>-<lpage>2549</lpage>
+<pub-id pub-id-type="doi">10.1177/00420980231154802</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100019-5"><label>5</label><mixed-citation publication-type="journal">
+:
+<article-title>Abundance in the Anthropocene</article-title>.
+<source>
+<italic toggle="yes">The Sociological Review</italic>
+</source>.<year>2019</year>;<volume>67</volume>(<issue>2</issue>) :
+<elocation-id>10.1177/0038026119830907</elocation-id>
+<fpage>357</fpage>-<lpage>373</lpage>
+<pub-id pub-id-type="doi">10.1177/0038026119830907</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100019-6"><label>6</label><mixed-citation publication-type="journal">
+:
+<article-title>Water and the search for public health in London in the eighteenth and nineteenth centuries.</article-title>
+<source>
+<italic toggle="yes">Med Hist</italic>
+</source>.<year>1984</year>;<volume>28</volume>(<issue>3</issue>) :
+<elocation-id>10.1017/s0025727300035936</elocation-id>
+<fpage>250</fpage>-<lpage>82</lpage>
+<pub-id pub-id-type="doi">10.1017/s0025727300035936</pub-id>
+<?supplied-pmid 6390024?><pub-id pub-id-type="pmid">6390024</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100019-7"><label>7</label><mixed-citation publication-type="journal">
+:
+<article-title>Environmental imaginaries and the environmental sciences of antimicrobial resistance</article-title>.
+<source>
+<italic toggle="yes">Environment and Planning E: Nature and Space</italic>
+</source>.<year>2021</year>;<volume>4</volume>(<issue>4</issue>) :
+<elocation-id>10.1177/2514848620950752</elocation-id>
+<fpage>1346</fpage>-<lpage>1368</lpage>
+<pub-id pub-id-type="doi">10.1177/2514848620950752</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100019-8"><label>8</label><mixed-citation publication-type="journal">
+:
+<article-title>23 Microbes</article-title>.<year>2018</year>;
+<elocation-id>10.1515/9781474418423-026</elocation-id>
+<fpage>354</fpage>-<lpage>366</lpage>
+<pub-id pub-id-type="doi">10.1515/9781474418423-026</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100019-9"><label>9</label><mixed-citation publication-type="journal">
+:
+<article-title>Postcolonial Global Health, Post-Colony Microbes and Antimicrobial Resistance</article-title>.
+<source>
+<italic toggle="yes">Theory, Culture &#x00026; Society</italic>
+</source>.<year>2022</year>;<volume>39</volume>(<issue>3</issue>) :
+<elocation-id>10.1177/0263276420981606</elocation-id>
+<fpage>145</fpage>-<lpage>168</lpage>
+<pub-id pub-id-type="doi">10.1177/0263276420981606</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100019-10"><label>10</label><mixed-citation publication-type="other">
+<article-title>Subtending relations: Bacteria, geology, and the possible. Genealogies of Speculation: Materialism and Subjectivity Since Structuralism; Hird, M. J;Yusoff, K</article-title>.<year>(2016);319-342</year>;</mixed-citation></ref><ref id="rep-ref-100019-11"><label>11</label><mixed-citation publication-type="journal">
+:
+<article-title>Meeting with the Microcosmos</article-title>.
+<source>
+<italic toggle="yes">Environment and Planning D: Society and Space</italic>
+</source>.<year>2010</year>;<volume>28</volume>(<issue>1</issue>) :
+<elocation-id>10.1068/d2706wsc</elocation-id>
+<fpage>36</fpage>-<lpage>39</lpage>
+<pub-id pub-id-type="doi">10.1068/d2706wsc</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100019-12"><label>12</label><mixed-citation publication-type="journal">
+:
+<article-title>Me, my self, and the multitude: Microbiopolitics of the human microbiome</article-title>.
+<source>
+<italic toggle="yes">European Journal of Social Theory</italic>
+</source>.<year>2019</year>;<volume>22</volume>(<issue>3</issue>) :
+<elocation-id>10.1177/1368431018811330</elocation-id>
+<fpage>325</fpage>-<lpage>341</lpage>
+<pub-id pub-id-type="doi">10.1177/1368431018811330</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100019-13"><label>13</label><mixed-citation publication-type="journal">
+:
+<article-title>Making the microbiome public: Participatory experiments with DNA sequencing in domestic kitchens</article-title>.
+<source>
+<italic toggle="yes">Transactions of the Institute of British Geographers</italic>
+</source>.<year>2019</year>;<volume>44</volume>(<issue>3</issue>) :
+<elocation-id>10.1111/tran.12289</elocation-id>
+<fpage>524</fpage>-<lpage>541</lpage>
+<pub-id pub-id-type="doi">10.1111/tran.12289</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100019-14"><label>14</label><mixed-citation publication-type="journal">
+:
+<article-title>Gut Buddies</article-title>.
+<source>
+<italic toggle="yes">Environmental Humanities</italic>
+</source>.<year>2016</year>;<volume>8</volume>(<issue>1</issue>) :
+<elocation-id>10.1215/22011919-3527722</elocation-id>
+<fpage>57</fpage>-<lpage>76</lpage>
+<pub-id pub-id-type="doi">10.1215/22011919-3527722</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100019-15"><label>15</label><mixed-citation publication-type="journal">
+:
+<article-title>The final catastrophe&#x02014;cholera in London, 1866</article-title>.
+<source>
+<italic toggle="yes">Medical History</italic>
+</source>.<year>1977</year>;<volume>21</volume>(<issue>1</issue>) :
+<elocation-id>10.1017/S0025727300037157</elocation-id>
+<fpage>32</fpage>-<lpage>42</lpage>
+<pub-id pub-id-type="doi">10.1017/S0025727300037157</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100019-16"><label>16</label><mixed-citation publication-type="journal">
+:
+<article-title>From super-wicked problems to more-than-human justice: new bioethical frameworks for antimicrobial resistance and climate emergency.</article-title>
+<source>
+<italic toggle="yes">Monash Bioeth Rev</italic>
+</source>.<year>2024</year>;
+<elocation-id>10.1007/s40592-024-00197-z</elocation-id>
+<pub-id pub-id-type="doi">10.1007/s40592-024-00197-z</pub-id>
+<?supplied-pmid 38990507?><pub-id pub-id-type="pmid">38990507</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100019-17"><label>17</label><mixed-citation publication-type="journal">
+:
+<article-title>Riding the Shi: From Infection Barriers to the Microbial City.</article-title>
+<source>
+<italic toggle="yes">Int Political Sociol</italic>
+</source>.<year>2019</year>;<volume>13</volume>(<issue>4</issue>) :
+<elocation-id>10.1093/ips/olz016</elocation-id>
+<fpage>375</fpage>-<lpage>391</lpage>
+<pub-id pub-id-type="doi">10.1093/ips/olz016</pub-id>
+<?supplied-pmid 34191935?><pub-id pub-id-type="pmid">34191935</pub-id>
+</mixed-citation></ref><ref id="rep-ref-100019-18"><label>18</label><mixed-citation publication-type="other">
+<source>
+<italic toggle="yes">Wellcome Open Research;author guidelines;Open Letter</italic>
+</source>.
+<ext-link xlink:href="https://wellcomeopenresearch.org/for-authors/article-guidelines/preparing-an-open-letter" ext-link-type="uri">Reference source</ext-link>
+</mixed-citation></ref><ref id="rep-ref-100019-19"><label>19</label><mixed-citation publication-type="other">
+<article-title>Anthropology of health environments beyond determinism:Tribes without Rulers: Bacteria Life in the Human Holobiont Seeberg J; Roepstorff A; Meinert L</article-title>.
+<source>
+<italic toggle="yes">Biosocial Worlds</italic>
+</source>.<year>Young A;2020 (pp. 109-123). University College London</year>;</mixed-citation></ref></ref-list></back></sub-article></article>
