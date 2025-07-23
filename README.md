@@ -2,9 +2,9 @@
 
 <a href="https://colab.research.google.com/github/semanticClimate/climate-justice-lit-review/blob/main/climate_justice_lit_review.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Data - DOI Zenodo badge: 
+Data - DOI Zenodo badge: https://doi.org/10.5281/zenodo.16386125
 
-Notebook publication - DOI Zenodo badge: 
+Notebook publication - DOI Zenodo badge: https://doi.org/10.5281/zenodo.16377760
 
 Description: This colab notebook describes the literature search on any query term and analyzing the results with the use of semanticClimate tools (`pygetpapers`, `amilib` and `docanalysis`)
 
