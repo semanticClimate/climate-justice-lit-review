@@ -16,7 +16,7 @@ Yadav, Gitanjali, Peter Murray-Rust, Renu Kumari, Worthington Simon, and Parijat
 
 Description: This colab notebook describes the literature search on any query term and analyzing the results with the use of semanticClimate tools (`pygetpapers`, `amilib` and `docanalysis`)
 
-Reviewers & review process: @mrchristian - confirm the notebook ran without error
+Reviewers & review process: [Simon Worthington](https://github.com/mrchristian) - confirm the notebook ran without error, 2025-7-24.
 
 Software citation information: [CITATION.cff](CITATION.cff)
 
