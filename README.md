@@ -10,6 +10,10 @@ Notebook
 
 <a href="https://doi.org/10.5281/zenodo.16377759"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16377759.svg" alt="DOI"></a>  
 
+Documented step-by-step version of Notebook and sorting process
+
+\<link>
+
 Citation
 
 Yadav, Gitanjali, Peter Murray-Rust, Renu Kumari, Worthington Simon, and Parijat Bhadra. “Climate Justice Demo #semanticclimate Tools”. Zenodo, July 23, 2025. https://doi.org/10.5281/zenodo.16377759.
