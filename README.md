@@ -12,7 +12,7 @@ Notebook
 
 Documented step-by-step version of Notebook and sorting process
 
-\<link>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16813353.svg)](https://doi.org/10.5281/zenodo.16813353)
 
 Citation
 
